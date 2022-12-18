@@ -1,68 +1,49 @@
 #include <stdio.h>
-#include <stdlib.h>
-int row;
-int col;
-int flag = 0;
-int check[1001][1001];
 
+char arr_of_bin[20][1000000]; // ~20MB (might want to try malloc)
+int len = 1;
 
-void find_destination(int px, int py, char map[row][col]) {
-    check[px][py] = 1;
-    if (map[px][py] == 'S') {
-        flag = 1;
-        return;
-    }
-    else if (map[px][py] == 'x') return;
+void fill_arr(int N) {
+    // S_0
+    arr_of_bin[0][0] = '0';
 
-    if (px - 1 >= 0) {
-        if (check[px-1][py] == 0)
-            find_destination(px - 1, py, map);
-    }
-    if (px + 1 < row) {
-        if (check[px+1][py] == 0)
-            find_destination(px + 1, py, map);
-    }
-    if (py - 1 >= 0) {
-        if (check[px][py-1] == 0)
-            find_destination(px, py - 1, map);
-    }
-    if (py + 1 < col) {
-        if (check[px][py+1] == 0)
-            find_destination(px, py + 1, map);
-    }
+    // Fill binary strings from S_1 to S_N
+    for (int i = 1; i <= N; i++) {
+        int idx = 0;
 
+        // S_i-1
+        for (int prev_idx = 0; prev_idx < len; prev_idx++) {
+            arr_of_bin[i][idx] = arr_of_bin[i - 1][prev_idx];
+            idx++;
+        }
+
+        // '1'
+        arr_of_bin[i][idx] = '1';
+        idx++;
+
+        // reverse(invernt(S_i-1))
+        for (int prev_idx = len - 1; prev_idx >= 0; prev_idx--) {
+            char prev_ch = arr_of_bin[i - 1][prev_idx];
+            arr_of_bin[i][idx] = (prev_ch == '1') ? '0' : '1';
+            idx++;
+        }
+
+        // Update length
+        len = 2 * len + 1;
+    }
 }
 
 int main() {
-    int m, n, testcase_amount;
-    scanf("%d %d", &m, &n);
-    scanf("%d", &testcase_amount);
-    row = m;
-    col = n;
-    char map[m][n];
-    int pos_x, pos_y;
 
-    while (testcase_amount > 0) {
-        flag = 0;
-        for (int i = 0; i < m; i++) {
-            // getchar();
-            for (int j = 0; j < n; j++) {
-                check[i][j] = 0;
-                scanf(" %c", &map[i][j]);
-                if (map[i][j] == 'D') {
-                    pos_x = i;
-                    pos_y = j;
-                }
-            }
-        }
+    int index, N, T;
+    scanf("%d %d", &N, &T);
 
+    fill_arr(N);
 
-        find_destination(pos_x, pos_y, map);
+    while (T--) {
+        scanf("%d", &index);
 
-        if(flag == 1) printf("ESCAPE!\n");
-        else printf("QQ\n");
-
-        testcase_amount --;
+        printf("%c\n", arr_of_bin[N][index]);
     }
 
     return 0;
