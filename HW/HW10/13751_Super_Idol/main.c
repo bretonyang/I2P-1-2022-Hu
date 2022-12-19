@@ -20,7 +20,7 @@ int main()
             result++;
         }
 
-        printf("%u\n", start << result); // NOTE: start is modified
+        printf("%u\n", end << result); // NOTE: start is modified
     }
 
     return 0;
@@ -37,6 +37,10 @@ int main()
  after while loop, `start`: 1100101, `result`: 5
  `start << result`: 1100101 00000
 
+ ------------------------------------------------
+
+ 001001011 0.... -> start
+ 001001011 1.... -> end
 
 */
 

@@ -1,60 +1,49 @@
 #include <stdio.h>
 
-int num = 0;
+char arr_of_bin[20][1000000]; // ~20MB (might want to try malloc)
 int len = 1;
 
-int reverse(int n, int n_bits) {
-    if (!n) return 1;
+void fill_arr(int N) {
+    // S_0
+    arr_of_bin[0][0] = '0';
 
-    int result = 0;
-    while (n_bits) {
-        result += (1 - (n & 1)) << (n_bits - 1);
-        n >>= 1;
-        n_bits--;
-    }
-    return result;
-}
+    // Fill binary strings from S_1 to S_N
+    for (int i = 1; i <= N; i++) {
+        int idx = 0;
 
-void calc_num(int N) {
-    while (N--) {
-//        printf("(num << 1) + 1): %d\n", (num << 1) + 1);
-//        printf("((num << 1) + 1) << num_bits): %d\n", ((num << 1) + 1) << len);
-//        printf("num_bits: %d\n", len);
-//        printf("reverse(num, num_bits): %d\n", reverse(num, len));
+        // S_i-1
+        for (int prev_idx = 0; prev_idx < len; prev_idx++) {
+            arr_of_bin[i][idx] = arr_of_bin[i - 1][prev_idx];
+            idx++;
+        }
 
-        num = (((num << 1) + 1) << len) + reverse(num, len);
+        // '1'
+        arr_of_bin[i][idx] = '1';
+        idx++;
+
+        // reverse(invernt(S_i-1))
+        for (int prev_idx = len - 1; prev_idx >= 0; prev_idx--) {
+            char prev_ch = arr_of_bin[i - 1][prev_idx];
+            arr_of_bin[i][idx] = (prev_ch == '1') ? '0' : '1';
+            idx++;
+        }
+
+        // Update length
         len = 2 * len + 1;
-
-//        printf("num: %d\n", num);
     }
 }
 
-int main()
-{
-    int N, T;
+int main() {
+
+    int index, N, T;
     scanf("%d %d", &N, &T);
 
-    calc_num(N);
-
-    int idx = 0, size = len;
-    int arr[len];
-    while (size) {
-        arr[len - 1 - idx] = num & 1;
-        num >>= 1;
-        idx++;
-        size--;
-    }
-
-    printf("\n-----------------\n");
-    for (int i = 0; i < len; i++) {
-        printf("%d ", arr[i]);
-    }
-    printf("\n-----------------\n");
+    fill_arr(N);
 
     while (T--) {
-        int index;
         scanf("%d", &index);
-        printf("%d\n", arr[index]);
+
+        printf("%c\n", arr_of_bin[N][index]);
     }
 
     return 0;
