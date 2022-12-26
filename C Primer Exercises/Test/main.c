@@ -1,55 +1,55 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
-char *arr[21];
-int len = 1;
+#include "function.h"
 
-void fill(int N) {
-    for (int idx = 1; idx <= N; idx++) {
-        // malloc
-        arr[idx] = (char*)malloc(sizeof(char) * (2 * len + 1));
-        int i = 0;
+void swap(int* a, int* b) {
+    int tmp = *a;
+    *a = *b;
+    *b = tmp;
+}
 
-        // S_i-1
-        for (; i < len; i++) {
-            arr[idx][i] = arr[idx - 1][i];
+void Swap(int* A, int* B) {
+    char c1, c2;
+    int n1, n2;
+    scanf(" %c %c %d %d", &c1, &c2, &n1, &n2);
+
+    if (c1 == 'A') {
+        if (c2 == 'B') {
+            swap(&A[n1], &B[n2]);
         }
-
-        // '1'
-        arr[idx][i] = '1';
-        i++;
-
-        // reverse(inverse(S_i-1))
-        for (int j = len - 1; j >= 0; j--) {
-            arr[idx][i] = (arr[idx - 1][j] == '1' ? '0' : '1');
-            i++;
+        else {
+            swap(&A[n1], &A[n2]);
         }
-
-        len = i;
+    }
+    else {
+        if (c2 == 'B') {
+            swap(&B[n1], &B[n2]);
+        }
+        else {
+            swap(&B[n1], &A[n2]);
+        }
     }
 }
 
-int main() {
-    int N, T, idx;
-    scanf("%d %d", &N, &T);
+void Replace(int* A, int* B) {
+    char c;
+    int n, value;
+    scanf(" %c %d %d", &c, &n, &value);
 
-    arr[0] = (char*)malloc(sizeof(char) * 1);
-    arr[0][0] = '0';
-    fill(N);
-//    printf("\n--------------------\n");
-//    for (int i = 0; i < len; i++) {
-//        printf("%c ", arr[N][i]);
-//    }
-//    printf("\n-------------------\n");
-
-    while (T--) {
-        scanf("%d", &idx);
-        printf("%c\n", arr[N][idx]);
+    if (c == 'A') {
+        A[n] = value;
     }
-
-    for (int i = 0; i <= N; i++) {
-        free(arr[i]);
+    else {
+        B[n] = value;
     }
-
-    return 0;
 }
+
+void Switch(int** A, int** B) {
+    int *tmp = *A;
+    *A = *B;
+    *B = tmp;
+}
+
+
