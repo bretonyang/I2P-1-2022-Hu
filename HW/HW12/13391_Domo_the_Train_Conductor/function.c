@@ -1,17 +1,12 @@
+#include <stdio.h>
 #include <stdlib.h>
+#include "function.h"
 
+/*
 
-/** Comment out lines below */
+3 3 1 3 8 5 6 5 6 0
 
-//#include "function.h"
-
-typedef struct node {
-    int idx;
-    struct node* next;
-} Node;
-
-/** Comment out lines above */
-
+*/
 
 void AddFront(Node** head, Node** back, int num) {
     Node* newNode = (Node*)malloc(sizeof(Node));
@@ -53,19 +48,47 @@ void DeleteFront(Node** head, Node** back) {
 }
 
 void Delete(Node** head, Node** back, int num) {
+    /// TODO: We can consider using a map to store the # of indices,
+    /// so that we can break from loop earlier
 
+    Node* ptr = *head;
+
+    while (ptr->next != NULL) {
+        if (ptr->next->idx == num) {
+            Node* nodeToDelete = ptr->next;
+
+            ptr->next = ptr->next->next;
+
+            free(nodeToDelete);
+        }
+        else {
+            ptr = ptr->next;
+        }
+    }
+
+    // update the back node
+    *back = ptr;
 }
 
 void Swap(Node** head, Node** back) {
+    // empty list
+    if ((*head)->next == NULL) {
+        return;
+    }
 
+    Node* frontOfReversed = NULL;
+    Node* curNodeToAdd = (*head)->next;
+
+    while (curNodeToAdd != NULL) {
+        Node* rest = curNodeToAdd->next;
+        curNodeToAdd->next = frontOfReversed;
+        frontOfReversed = curNodeToAdd;
+        curNodeToAdd = rest;
+    }
+
+    *back = (*head)->next;
+    (*head)->next = frontOfReversed;
 }
-
-
-
-
-
-
-
 
 
 
