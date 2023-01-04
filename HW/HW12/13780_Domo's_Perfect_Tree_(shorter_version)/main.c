@@ -11,15 +11,12 @@ int numOfPrint = 0;
 int N, X, D;
 
 void dfs(int idx) {
-    // if the node has no child (its only neighbour is its parent)
-    if (numOfNeighboursOfNode[idx] == 1) {
-        visited[idx] = 1;
-        sizeOfNode[idx] = valueOfNode[idx];
-    }
-    else {
-        visited[idx] = 1;
-        sizeOfNode[idx] += valueOfNode[idx];
+    // mark node as visited
+    visited[idx] = 1;
+	sizeOfNode[idx] += valueOfNode[idx];
 
+    // if the node is not a leaf (whose only neighbour is its parent)
+    if (numOfNeighboursOfNode[idx] != 1) {
         for (int i = 0; i < numOfNeighboursOfNode[idx]; i++) {
             // The current node's parent node is already visited
             if (!visited[neighboursOfNode[idx][i]]) {
@@ -57,6 +54,7 @@ int main(void)
         neighboursOfNode[j][numOfNeighboursOfNode[j] - 1] = i;
     }
 
+    // Calculate and store the size of each node.
     dfs(1);
 
     // print result
@@ -87,3 +85,4 @@ int main(void)
 4.
 
 */
+

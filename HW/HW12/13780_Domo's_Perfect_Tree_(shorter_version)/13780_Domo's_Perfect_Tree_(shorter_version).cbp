@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="13391_Domo_the_Train_Conductor" />
+		<Option title="13780_Domo&apos;s_Perfect_Tree_(shorter_version)" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/13391_Domo_the_Train_Conductor" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/13780_Domo&apos;s_Perfect_Tree_(shorter_version)" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -16,7 +16,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/13391_Domo_the_Train_Conductor" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/13780_Domo&apos;s_Perfect_Tree_(shorter_version)" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -31,10 +31,6 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="function.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="function.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
