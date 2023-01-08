@@ -1,0 +1,11943 @@
+place 3 19
+1 4 12 2 7 9 1 13 8 11 1 11 9 7 6 1 3 11 3
+shiftright
+place 0 1
+10
+shiftright
+place 0 11
+11 5 4 2 12 2 5 1 1 13 6
+place 7 11
+11 10 9 6 6 13 6 3 1 12 6
+shiftleft
+place 9 12
+9 10 1 5 3 7 1 2 5 12 3 1
+shiftright
+clear
+shiftleft
+shiftleft
+place 7 8
+5 10 6 8 6 1 3 13
+shiftright
+swap 9 3
+place 5 5
+11 9 11 5 3
+shiftright
+swap 8 0
+place 8 17
+10 5 10 9 8 13 11 9 2 7 10 4 6 11 1 10 7
+place 1 14
+12 7 10 10 11 4 11 3 7 3 1 9 12 6
+print
+print
+place 5 17
+12 3 4 4 12 9 7 11 5 12 8 12 10 9 7 13 9
+place 6 16
+6 3 8 3 11 1 10 12 13 3 13 5 2 6 2 11
+swap 6 0
+shiftleft
+shiftleft
+place 7 7
+6 10 5 2 11 9 13
+print
+shiftright
+place 6 18
+10 8 2 12 13 3 8 10 6 9 3 6 10 10 4 13 7 1
+clear
+place 9 3
+12 8 13
+shiftleft
+print
+shiftleft
+place 4 7
+3 6 1 9 6 6 11
+swap 0 8
+swap 1 6
+shiftleft
+place 4 5
+10 1 1 5 1
+shiftright
+shiftleft
+place 0 17
+13 13 9 7 10 4 6 7 2 13 12 13 6 2 9 8 13
+shiftleft
+place 7 6
+9 2 1 2 2 10
+shiftright
+swap 7 5
+swap 5 3
+place 2 7
+6 10 6 8 13 9 10
+swap 7 8
+print
+shiftleft
+swap 4 2
+shiftright
+print
+shiftright
+shiftleft
+shiftleft
+shiftright
+shiftleft
+place 6 12
+2 13 9 5 10 6 9 2 7 4 8 4
+place 7 8
+10 11 6 4 2 10 2 11
+place 7 10
+2 8 11 4 13 11 9 1 6 13
+shiftright
+shiftleft
+place 9 20
+4 4 8 12 8 7 10 1 11 1 10 9 10 2 8 9 10 9 13 12
+print
+shiftright
+print
+shiftright
+shiftright
+swap 2 7
+place 4 11
+8 8 7 13 9 8 6 13 1 3 1
+shiftleft
+clear
+print
+shiftright
+place 9 15
+12 9 4 3 5 10 13 13 9 2 6 9 12 10 5
+shiftleft
+shiftleft
+print
+shiftleft
+place 6 11
+8 4 3 8 9 3 8 7 11 9 7
+place 9 15
+11 12 4 2 7 5 5 12 13 10 5 4 6 9 9
+swap 8 1
+swap 8 4
+place 7 2
+1 4
+print
+shiftleft
+print
+print
+swap 6 3
+all 6 1781
+place 1 2
+6 11
+print
+swap 3 6
+shiftleft
+shiftleft
+shiftleft
+shiftright
+place 7 20
+4 2 1 10 10 1 4 1 3 13 13 4 9 8 5 13 10 6 7 5
+shiftright
+shiftleft
+place 4 17
+1 9 6 13 5 1 5 6 8 5 6 9 4 1 3 1 6
+place 2 8
+10 4 6 8 11 5 1 11
+shiftleft
+shiftright
+place 1 11
+8 2 8 8 3 7 11 5 13 4 8
+shiftright
+swap 8 2
+print
+place 8 17
+12 5 8 7 3 2 6 1 11 12 7 7 11 2 3 11 6
+shiftleft
+swap 6 5
+place 2 16
+13 9 9 13 3 6 6 11 10 12 4 2 5 2 10 13
+shiftright
+swap 5 9
+print
+swap 3 7
+shiftleft
+swap 4 8
+swap 0 4
+print
+shiftleft
+clear
+swap 7 5
+place 4 2
+2 6
+shiftright
+swap 7 2
+shiftright
+shiftright
+place 6 2
+7 11
+print
+swap 5 7
+print
+place 7 11
+8 3 5 3 5 3 11 11 2 7 1
+shiftleft
+shiftright
+place 4 11
+9 1 10 2 1 11 11 3 9 12 9
+swap 9 4
+swap 3 6
+swap 1 3
+print
+shiftleft
+place 3 10
+5 5 1 13 1 11 13 9 8 9
+shiftleft
+shiftleft
+shiftright
+print
+swap 4 2
+place 0 4
+6 9 9 12
+print
+place 9 10
+9 8 7 12 2 7 5 6 10 4
+shiftright
+shiftright
+swap 6 5
+place 5 14
+3 6 1 3 11 11 1 7 4 10 10 5 5 4
+swap 7 6
+print
+all 13 8586
+shiftright
+shiftright
+print
+place 7 13
+13 12 1 2 3 5 9 13 2 12 11 8 11
+shiftleft
+shiftright
+shiftright
+clear
+swap 3 9
+swap 9 8
+place 7 13
+12 13 6 4 4 1 11 6 13 1 13 4 1
+shiftright
+print
+swap 1 6
+shiftleft
+swap 3 7
+shiftleft
+print
+shiftright
+swap 1 2
+shiftright
+swap 1 6
+place 5 5
+6 8 3 12 2
+shiftright
+print
+place 9 18
+2 11 5 6 13 2 12 1 3 11 8 13 5 6 2 9 2 10
+shiftleft
+place 5 13
+3 13 7 13 5 7 11 12 5 12 6 12 5
+shiftright
+print
+place 5 19
+6 4 13 3 4 8 3 3 9 9 6 8 13 6 12 11 2 13 8
+shiftleft
+shiftleft
+print
+shiftright
+shiftleft
+shiftright
+place 6 15
+11 10 11 13 2 7 1 11 12 13 11 3 7 10 11
+print
+shiftright
+shiftleft
+swap 4 2
+place 6 20
+8 5 13 5 12 7 12 1 11 13 6 9 9 10 8 4 1 6 9 13
+shiftright
+clear
+swap 3 7
+print
+place 5 4
+12 7 1 8
+shiftleft
+shiftleft
+print
+clear
+shiftright
+swap 7 5
+shiftright
+clear
+swap 3 2
+shiftleft
+shiftright
+shiftright
+shiftleft
+shiftright
+print
+print
+swap 5 2
+shiftright
+shiftleft
+place 4 8
+7 4 1 10 10 7 3 3
+place 5 20
+10 13 3 8 13 13 12 12 8 8 3 6 9 1 11 7 10 13 7 13
+shiftleft
+place 1 11
+11 8 3 11 5 5 4 12 1 5 9
+place 2 7
+5 11 3 11 1 2 8
+swap 7 9
+print
+shiftright
+swap 0 3
+swap 4 3
+swap 0 9
+print
+place 3 19
+6 3 12 5 4 12 7 11 9 7 8 11 8 13 5 9 13 12 13
+print
+place 7 4
+13 11 11 5
+swap 2 9
+print
+swap 2 0
+print
+print
+print
+place 4 2
+13 10
+place 7 17
+8 5 3 4 2 9 2 1 9 12 12 1 3 13 5 6 10
+swap 3 1
+shiftright
+place 6 6
+13 12 12 1 3 4
+swap 1 5
+swap 0 1
+shiftright
+place 2 9
+6 5 13 1 4 11 2 8 9
+shiftleft
+print
+swap 6 5
+shiftleft
+shiftleft
+all 11 5057
+print
+shiftright
+shiftleft
+print
+print
+shiftright
+swap 3 7
+place 0 3
+12 13 13
+shiftleft
+print
+swap 3 8
+place 7 19
+13 6 10 11 9 5 5 4 1 6 12 8 12 7 13 5 7 6 2
+print
+swap 3 6
+print
+place 9 10
+7 12 2 1 2 8 10 10 1 8
+place 3 5
+5 3 11 12 9
+print
+place 1 5
+1 8 9 10 9
+place 3 1
+3
+shiftright
+swap 9 8
+shiftleft
+swap 0 3
+print
+swap 9 5
+print
+print
+shiftright
+shiftleft
+place 8 4
+7 13 12 2
+print
+place 8 10
+1 8 9 1 4 10 12 2 13 5
+print
+clear
+shiftright
+swap 8 9
+shiftleft
+swap 4 0
+place 6 15
+9 5 10 12 4 1 1 10 9 5 10 12 13 12 2
+shiftleft
+print
+print
+place 0 15
+9 11 10 13 4 7 7 7 7 4 12 13 8 11 8
+shiftleft
+print
+shiftright
+shiftleft
+swap 0 9
+place 9 10
+5 1 13 10 7 6 2 6 8 11
+swap 0 9
+swap 4 6
+all 9 5416
+shiftright
+shiftleft
+print
+print
+place 6 18
+5 10 13 1 6 3 10 5 6 11 8 13 13 1 9 10 7 7
+swap 6 5
+shiftright
+place 7 20
+8 5 8 2 9 3 2 4 12 7 6 1 1 12 3 6 11 6 5 5
+print
+shiftleft
+shiftleft
+shiftleft
+print
+shiftright
+shiftleft
+shiftright
+print
+print
+swap 4 1
+print
+place 6 14
+12 7 12 13 4 10 7 2 11 1 2 11 11 6
+shiftright
+swap 2 8
+shiftleft
+shiftleft
+swap 3 6
+shiftright
+shiftright
+shiftleft
+place 0 3
+5 3 7
+print
+shiftright
+swap 3 8
+shiftleft
+print
+print
+shiftleft
+shiftleft
+place 1 6
+9 5 9 9 3 8
+swap 2 7
+shiftleft
+swap 2 9
+shiftright
+print
+place 3 18
+2 1 2 10 5 6 9 2 13 9 12 7 13 5 3 13 12 5
+print
+place 0 3
+3 13 11
+print
+place 5 8
+1 4 10 5 7 11 12 10
+shiftright
+shiftleft
+place 0 13
+1 7 7 7 1 2 10 8 3 3 1 8 3
+print
+place 4 5
+6 3 10 1 12
+shiftright
+shiftleft
+all 12 9022
+place 3 18
+8 13 6 6 2 10 5 13 1 7 8 4 4 7 7 3 12 6
+print
+shiftright
+shiftleft
+shiftleft
+shiftright
+print
+shiftleft
+shiftleft
+swap 9 3
+swap 0 3
+print
+place 6 12
+3 11 5 8 13 1 10 1 11 1 12 10
+swap 3 2
+shiftleft
+place 8 14
+5 1 1 7 5 3 6 5 9 2 12 9 4 12
+swap 6 3
+swap 1 4
+place 9 20
+13 1 6 3 4 10 7 2 5 13 1 5 13 9 10 4 4 10 12 11
+shiftleft
+shiftright
+print
+shiftleft
+shiftleft
+print
+shiftleft
+swap 9 6
+place 3 17
+10 9 10 13 4 4 2 11 1 4 1 3 4 4 11 4 12
+shiftright
+shiftright
+swap 4 1
+shiftleft
+shiftright
+place 6 8
+1 8 5 13 6 9 7 2
+place 5 12
+4 12 10 9 9 3 9 1 10 5 4 12
+swap 5 1
+shiftleft
+swap 7 9
+place 6 14
+11 2 11 4 8 2 12 12 13 2 4 5 2 9
+place 3 9
+3 10 9 2 9 4 12 4 13
+swap 3 0
+shiftright
+print
+print
+place 7 9
+4 5 11 6 4 3 13 6 11
+shiftleft
+shiftright
+print
+place 2 4
+10 4 1 9
+print
+print
+place 6 11
+13 8 1 6 12 9 9 10 6 7 11
+shiftright
+all 11 9830
+print
+swap 2 1
+swap 0 9
+swap 4 1
+print
+swap 3 5
+place 4 10
+2 8 5 12 6 12 7 13 9 1
+swap 0 5
+swap 1 5
+shiftleft
+shiftleft
+place 8 4
+1 13 9 11
+swap 8 9
+shiftleft
+place 5 9
+13 9 4 6 2 6 7 4 10
+shiftleft
+swap 5 9
+shiftright
+shiftleft
+print
+shiftleft
+shiftright
+place 0 12
+8 9 11 2 4 7 12 13 13 5 4 11
+all 2 4659
+swap 8 4
+print
+shiftleft
+shiftright
+place 7 13
+11 1 11 9 12 2 4 12 3 6 6 10 4
+shiftright
+swap 8 3
+place 0 1
+5
+all 2 9194
+print
+shiftright
+place 5 1
+9
+shiftleft
+shiftright
+shiftright
+place 7 11
+11 4 2 8 9 5 5 7 11 9 7
+swap 9 1
+shiftleft
+shiftright
+place 1 12
+9 4 6 2 8 6 12 12 6 2 5 3
+swap 5 2
+shiftleft
+swap 2 8
+place 9 17
+13 2 5 3 3 4 6 7 5 8 10 12 5 6 9 8 12
+swap 3 8
+swap 2 8
+print
+shiftright
+place 8 14
+7 7 2 1 3 6 9 13 2 2 4 9 1 10
+clear
+place 6 10
+4 7 2 5 9 8 10 13 13 9
+print
+all 13 5893
+shiftright
+place 3 18
+9 5 9 13 8 12 8 5 11 1 11 13 12 9 7 8 8 2
+shiftleft
+place 1 12
+1 2 13 7 11 13 12 7 3 6 10 13
+shiftright
+place 2 15
+5 9 5 9 6 7 3 7 8 7 2 4 9 1 11
+place 5 8
+8 13 11 11 4 3 1 2
+shiftleft
+place 8 2
+9 3
+swap 7 6
+shiftright
+place 9 5
+8 5 13 9 5
+shiftright
+swap 4 3
+place 5 13
+7 5 7 3 7 4 5 7 5 4 11 12 13
+shiftleft
+swap 4 9
+swap 3 5
+shiftleft
+place 5 3
+5 4 12
+place 0 6
+6 9 2 8 12 11
+shiftright
+shiftright
+swap 9 0
+shiftleft
+all 5 4924
+swap 8 4
+shiftright
+place 5 17
+1 5 11 11 5 8 6 2 10 5 1 12 3 3 2 9 10
+swap 9 6
+print
+swap 6 9
+swap 1 3
+swap 7 6
+shiftright
+swap 0 2
+place 3 17
+8 5 11 13 5 13 8 4 4 12 8 6 1 7 12 5 8
+swap 8 2
+swap 4 2
+place 3 9
+8 4 5 7 9 5 6 1 11
+swap 5 0
+print
+shiftright
+shiftleft
+shiftleft
+place 7 11
+6 6 9 5 6 1 5 8 8 5 6
+swap 2 9
+place 6 5
+9 3 11 9 4
+print
+print
+shiftright
+print
+place 3 12
+7 5 3 11 11 5 9 12 8 3 6 12
+shiftleft
+swap 0 2
+shiftleft
+print
+all 13 8711
+shiftright
+place 2 2
+2 1
+print
+shiftleft
+swap 0 8
+shiftright
+place 9 8
+6 1 6 13 4 7 2 13
+print
+swap 0 2
+shiftleft
+shiftright
+swap 1 9
+place 9 3
+6 2 4
+shiftright
+print
+shiftright
+print
+swap 3 7
+print
+shiftleft
+shiftleft
+print
+place 1 1
+8
+print
+place 0 8
+1 7 10 11 8 10 11 7
+shiftleft
+shiftright
+place 2 15
+8 6 2 12 2 9 5 13 10 7 13 5 11 11 1
+swap 5 3
+shiftleft
+shiftright
+swap 6 0
+swap 8 5
+swap 1 4
+swap 9 3
+swap 6 0
+swap 0 4
+print
+shiftright
+swap 6 9
+place 4 7
+2 10 6 5 11 10 13
+shiftleft
+shiftleft
+shiftright
+shiftleft
+shiftright
+print
+shiftleft
+place 3 7
+2 4 8 6 6 11 12
+shiftleft
+shiftright
+swap 2 0
+print
+shiftright
+place 7 15
+13 11 3 2 8 8 8 2 11 7 6 3 11 10 12
+place 1 19
+7 3 7 9 5 10 12 9 12 4 6 9 5 1 3 8 10 10 10
+swap 3 1
+shiftleft
+shiftright
+place 3 1
+4
+place 2 19
+11 8 4 10 10 5 11 11 7 9 1 11 3 6 6 12 10 12 10
+shiftleft
+place 0 12
+3 4 5 13 4 8 7 9 7 11 5 7
+place 3 12
+1 13 5 3 5 4 13 3 12 3 6 12
+swap 9 0
+swap 1 8
+place 8 10
+12 10 1 13 3 12 2 2 7 1
+shiftleft
+shiftright
+shiftleft
+place 7 8
+12 12 6 6 5 8 1 12
+swap 3 5
+place 8 19
+4 6 12 9 12 2 13 2 11 12 8 2 5 4 12 1 4 6 11
+shiftright
+swap 2 1
+shiftright
+shiftright
+swap 2 9
+print
+place 3 2
+5 7
+place 3 19
+3 6 12 4 1 7 2 3 10 6 8 8 10 1 11 4 1 1 1
+swap 2 6
+print
+swap 8 6
+shiftleft
+print
+swap 4 0
+print
+shiftleft
+print
+shiftright
+print
+swap 2 3
+place 0 15
+1 3 2 10 4 1 11 4 6 3 2 10 7 4 4
+place 8 2
+6 5
+swap 7 3
+shiftright
+shiftright
+place 8 13
+3 10 3 10 1 9 7 2 13 9 13 4 6
+swap 1 3
+swap 0 3
+shiftleft
+shiftleft
+swap 6 8
+print
+place 3 13
+2 11 12 13 10 7 7 13 13 9 3 6 4
+swap 9 5
+all 6 4786
+clear
+print
+print
+print
+swap 7 1
+shiftright
+shiftleft
+place 4 6
+5 9 8 12 5 12
+print
+place 9 2
+7 3
+swap 7 2
+shiftleft
+print
+shiftright
+shiftright
+shiftleft
+print
+print
+place 2 11
+8 13 1 9 2 3 10 6 7 5 11
+place 5 15
+4 8 9 12 7 6 9 12 6 11 6 4 6 1 3
+place 6 7
+13 1 6 9 13 1 10
+all 3 6788
+swap 9 5
+shiftright
+shiftright
+print
+place 0 13
+6 10 11 13 4 5 12 8 12 11 13 2 5
+print
+place 1 19
+10 11 2 7 7 4 4 10 6 9 10 12 8 2 12 9 13 9 4
+shiftleft
+swap 1 9
+place 6 8
+11 11 10 10 9 2 5 6
+swap 1 6
+shiftleft
+shiftleft
+print
+print
+shiftright
+place 8 9
+11 10 7 10 11 11 11 7 8
+print
+shiftright
+swap 2 5
+place 1 11
+7 5 10 8 8 8 8 7 5 4 9
+shiftright
+swap 7 1
+swap 0 6
+print
+swap 8 5
+shiftleft
+shiftright
+shiftright
+shiftright
+place 6 12
+6 1 12 5 8 5 5 8 12 1 12 7
+print
+place 8 9
+1 8 2 9 3 11 6 9 13
+clear
+swap 4 2
+place 1 12
+10 8 7 1 10 3 4 12 11 8 9 3
+swap 4 6
+shiftright
+shiftright
+shiftleft
+place 6 4
+8 11 11 13
+print
+swap 3 0
+clear
+shiftright
+shiftright
+print
+place 8 7
+8 4 5 4 6 4 4
+place 6 16
+2 13 3 7 13 1 9 2 9 5 5 10 11 13 6 7
+shiftright
+print
+swap 4 0
+shiftright
+shiftleft
+shiftleft
+shiftleft
+shiftright
+print
+print
+shiftright
+place 3 16
+4 11 11 8 3 11 9 4 12 1 6 9 2 7 9 2
+shiftright
+shiftleft
+place 2 9
+6 11 8 3 6 11 10 12 12
+shiftleft
+all 11 1208
+swap 7 2
+swap 2 4
+print
+shiftright
+swap 6 4
+print
+place 0 10
+10 9 4 4 5 3 8 3 4 13
+print
+print
+place 9 4
+7 6 9 9
+shiftright
+shiftleft
+place 7 15
+2 6 6 9 10 6 2 9 8 4 3 10 3 10 12
+place 3 19
+6 5 5 12 9 6 1 7 11 12 4 5 6 11 6 8 9 4 4
+place 1 15
+5 13 10 3 13 5 6 6 3 3 1 11 9 7 9
+place 8 15
+2 13 3 9 1 7 2 10 9 8 6 13 5 8 4
+place 8 17
+5 11 3 8 5 11 2 13 2 2 13 10 7 11 13 8 8
+place 4 15
+11 5 8 9 12 11 1 13 6 9 11 1 2 3 2
+all 8 9553
+shiftright
+swap 8 2
+shiftleft
+place 8 17
+3 5 13 5 2 2 13 5 4 3 1 11 12 12 6 13 2
+place 8 16
+11 4 6 2 12 9 5 10 9 3 3 4 13 8 10 11
+place 9 15
+9 7 13 6 3 3 6 8 10 7 11 5 1 9 10
+shiftright
+print
+place 8 16
+4 4 13 13 10 9 11 7 6 12 8 3 11 12 5 5
+place 7 13
+13 9 12 2 1 13 10 7 12 9 6 11 4
+place 6 14
+11 2 10 5 11 6 12 12 10 8 7 12 1 5
+print
+all 8 1389
+shiftleft
+shiftright
+place 9 17
+8 5 1 11 6 1 4 11 3 5 3 10 12 10 1 13 8
+print
+shiftright
+clear
+shiftright
+swap 7 2
+swap 5 7
+print
+place 3 16
+1 7 13 11 1 7 13 1 8 11 6 5 1 6 7 4
+swap 5 9
+place 2 11
+12 9 1 11 12 11 13 11 2 13 3
+shiftright
+place 6 13
+5 1 12 12 7 1 10 9 7 7 5 3 6
+place 5 13
+6 7 10 13 7 8 3 8 9 4 3 2 4
+swap 2 1
+swap 2 8
+shiftleft
+shiftleft
+shiftright
+all 13 6404
+shiftleft
+swap 2 9
+place 5 4
+1 5 6 9
+print
+place 8 9
+1 8 4 3 6 13 3 2 12
+shiftright
+shiftleft
+place 6 10
+12 3 2 13 3 6 4 5 4 3
+place 1 18
+9 5 6 11 8 13 1 3 12 13 10 5 1 11 7 3 10 12
+place 8 4
+6 7 9 13
+place 2 8
+5 3 6 1 10 4 10 1
+shiftright
+shiftleft
+shiftright
+place 2 9
+12 11 2 13 4 4 5 5 11
+place 4 18
+6 3 1 9 13 6 12 10 4 11 10 10 1 13 12 3 1 4
+place 4 6
+2 9 12 13 11 4
+place 1 19
+6 5 13 3 10 2 7 10 8 11 11 9 6 11 1 4 10 3 5
+print
+swap 8 1
+swap 0 6
+shiftright
+shiftleft
+place 1 11
+8 3 8 4 12 11 5 1 12 3 9
+print
+shiftright
+swap 6 7
+swap 2 1
+place 7 18
+7 12 6 3 11 13 6 11 11 1 9 11 7 2 4 5 6 6
+place 4 6
+6 1 13 11 13 10
+shiftleft
+shiftleft
+print
+shiftleft
+clear
+place 4 1
+5
+shiftleft
+place 0 2
+7 7
+shiftright
+shiftright
+shiftleft
+shiftleft
+print
+print
+place 9 2
+2 4
+print
+print
+shiftright
+print
+place 7 14
+10 10 7 1 1 7 12 9 4 13 5 10 5 4
+shiftright
+swap 3 9
+shiftright
+print
+place 0 20
+3 3 6 1 2 10 5 7 2 9 1 3 5 7 3 4 3 1 10 3
+swap 6 0
+swap 0 8
+shiftright
+shiftleft
+place 1 11
+8 3 7 5 9 4 9 9 1 2 12
+shiftright
+all 1 7148
+swap 0 9
+shiftleft
+place 5 9
+7 11 10 3 4 5 1 2 9
+shiftright
+shiftright
+shiftleft
+place 1 8
+13 4 13 6 10 3 6 8
+place 2 5
+5 6 12 13 2
+place 3 20
+10 10 3 10 12 6 11 12 4 9 4 12 10 4 8 5 2 1 13 11
+shiftright
+place 0 11
+6 2 8 10 3 1 4 10 6 2 12
+shiftright
+print
+swap 2 1
+print
+shiftleft
+shiftleft
+print
+print
+swap 5 0
+swap 1 4
+shiftleft
+print
+place 1 12
+9 12 4 6 3 7 6 12 13 11 9 4
+shiftleft
+swap 3 1
+shiftleft
+place 2 14
+5 13 7 3 9 10 2 6 8 4 7 3 2 9
+shiftright
+place 1 2
+12 3
+print
+swap 9 4
+place 8 17
+4 3 1 11 13 3 5 3 11 8 8 5 10 10 8 2 11
+print
+place 3 12
+3 3 9 2 4 13 11 3 3 2 8 5
+swap 3 7
+print
+place 6 13
+3 1 10 13 5 7 8 1 5 7 9 6 9
+print
+place 1 1
+10
+shiftright
+all 5 120
+print
+swap 4 8
+shiftleft
+place 0 19
+7 9 13 1 10 4 11 9 9 10 13 8 3 10 8 2 7 9 3
+print
+shiftleft
+place 4 9
+3 7 9 2 1 6 12 9 12
+shiftright
+shiftleft
+swap 2 7
+shiftleft
+place 0 9
+6 8 13 12 5 3 7 3 2
+shiftright
+swap 2 5
+shiftright
+shiftright
+shiftright
+shiftleft
+swap 5 0
+shiftright
+shiftright
+swap 8 0
+place 9 9
+9 9 2 13 12 3 8 1 12
+swap 5 1
+swap 7 2
+place 3 6
+1 4 4 2 13 4
+print
+place 5 20
+9 10 3 9 8 10 12 3 1 12 9 7 10 1 7 1 12 12 8 9
+place 6 17
+3 5 10 3 4 9 7 7 5 5 9 10 4 3 12 1 7
+shiftleft
+shiftleft
+shiftright
+print
+print
+shiftleft
+shiftleft
+shiftright
+place 9 15
+7 10 8 11 10 8 12 5 13 2 4 9 10 4 8
+print
+place 7 14
+10 12 11 11 7 9 8 2 1 5 10 5 6 4
+swap 3 5
+shiftleft
+shiftright
+swap 0 9
+all 3 4973
+all 2 3930
+shiftleft
+swap 7 5
+swap 4 9
+print
+shiftright
+place 0 8
+6 11 3 9 1 13 3 1
+shiftleft
+shiftleft
+shiftleft
+shiftright
+shiftleft
+print
+swap 6 0
+shiftright
+shiftright
+shiftleft
+print
+swap 3 9
+shiftright
+shiftleft
+shiftright
+place 4 8
+7 10 8 8 2 8 8 10
+print
+shiftleft
+print
+shiftright
+shiftleft
+print
+swap 5 7
+print
+place 5 20
+11 10 3 7 5 4 5 6 1 11 7 2 3 12 1 7 5 8 4 2
+shiftright
+print
+shiftright
+swap 5 9
+shiftright
+swap 0 8
+swap 4 8
+print
+swap 6 3
+swap 2 1
+place 5 9
+6 10 12 7 13 9 1 1 11
+clear
+swap 5 1
+place 5 13
+12 10 1 10 11 7 13 3 9 3 5 11 6
+all 13 3057
+swap 9 5
+swap 1 8
+swap 0 3
+shiftright
+swap 9 3
+shiftleft
+shiftright
+swap 7 3
+print
+place 5 16
+11 5 1 7 11 10 12 4 2 9 8 5 13 3 4 9
+swap 9 1
+shiftright
+place 1 18
+4 3 4 7 13 5 4 9 11 10 2 3 13 4 9 3 6 3
+swap 0 2
+shiftleft
+place 3 18
+10 11 2 13 13 12 10 6 12 4 5 8 8 2 13 2 12 12
+place 8 9
+5 3 5 4 1 2 10 10 8
+shiftleft
+all 8 4122
+shiftleft
+swap 2 8
+place 8 13
+6 12 13 5 10 4 1 2 9 6 8 1 3
+shiftright
+place 3 7
+1 3 5 3 9 2 7
+place 1 16
+13 9 4 3 9 13 3 7 1 8 6 1 10 12 2 5
+swap 0 1
+place 8 13
+11 7 12 7 13 13 11 11 9 5 11 8 10
+clear
+clear
+print
+shiftright
+print
+shiftright
+shiftleft
+swap 7 4
+place 0 8
+13 2 9 1 13 12 4 11
+swap 7 4
+print
+shiftright
+place 0 11
+13 5 13 11 2 10 8 6 11 11 4
+print
+shiftleft
+print
+place 6 14
+2 10 1 4 12 4 9 8 3 3 8 1 1 8
+shiftleft
+swap 4 1
+shiftleft
+print
+print
+place 1 14
+13 13 6 9 12 2 9 1 11 5 8 7 5 8
+clear
+swap 7 2
+shiftleft
+print
+print
+place 2 8
+4 4 2 12 12 9 4 10
+swap 6 3
+shiftright
+shiftright
+shiftright
+shiftright
+place 6 11
+4 5 3 7 8 10 11 9 9 4 2
+shiftright
+shiftleft
+place 3 16
+13 11 7 2 6 2 4 7 10 10 3 9 5 10 12 13
+shiftright
+shiftleft
+print
+print
+shiftright
+print
+shiftright
+shiftright
+shiftright
+shiftright
+shiftright
+print
+shiftleft
+swap 0 3
+swap 1 3
+swap 7 4
+shiftright
+place 1 14
+7 10 3 1 11 12 9 6 1 9 6 6 7 6
+swap 5 8
+place 6 4
+7 13 5 10
+place 0 10
+9 9 6 2 8 10 7 9 1 11
+place 7 15
+12 11 4 7 8 5 9 10 6 7 3 2 9 11 12
+place 1 16
+2 7 11 3 9 6 4 13 2 3 7 4 1 7 8 3
+print
+shiftright
+shiftleft
+place 5 11
+13 1 2 5 10 3 6 11 1 3 1
+print
+shiftright
+place 3 7
+5 4 12 11 7 7 8
+clear
+print
+print
+place 0 5
+4 13 8 3 11
+shiftright
+place 5 20
+5 10 8 3 8 13 4 3 12 5 11 7 5 8 5 13 9 5 6 3
+print
+swap 0 2
+print
+swap 7 2
+swap 8 5
+swap 5 6
+place 1 19
+7 3 7 10 4 11 2 7 9 7 3 3 4 11 7 2 10 9 1
+shiftleft
+shiftright
+shiftright
+swap 3 8
+shiftleft
+shiftright
+shiftleft
+shiftright
+swap 9 6
+place 1 1
+10
+all 10 6181
+shiftright
+place 5 17
+9 3 4 4 1 12 8 11 8 12 2 7 10 10 5 7 11
+swap 3 7
+print
+print
+shiftright
+place 7 18
+10 12 3 5 1 3 3 1 12 6 2 4 3 7 6 7 3 4
+print
+shiftright
+shiftleft
+swap 6 5
+shiftright
+shiftright
+swap 5 8
+swap 5 4
+place 9 16
+5 13 7 1 3 6 11 11 2 2 8 13 10 6 13 5
+print
+swap 1 6
+shiftright
+place 4 12
+5 5 5 6 2 7 2 11 12 10 3 11
+swap 8 2
+swap 1 7
+shiftright
+shiftright
+swap 7 0
+print
+shiftleft
+shiftright
+all 10 4122
+print
+print
+shiftleft
+swap 4 3
+shiftright
+shiftleft
+place 6 7
+6 7 4 12 9 12 2
+swap 1 3
+shiftright
+place 1 17
+9 1 5 10 1 7 13 6 4 2 6 2 6 6 12 10 5
+shiftright
+print
+shiftleft
+swap 9 8
+print
+print
+shiftright
+swap 7 6
+print
+shiftright
+print
+swap 6 4
+place 0 13
+5 1 2 8 2 10 5 2 6 5 6 2 6
+place 1 8
+6 11 7 6 7 1 1 12
+shiftleft
+print
+place 7 2
+11 7
+place 1 5
+10 2 8 4 3
+shiftleft
+shiftright
+print
+shiftleft
+shiftright
+swap 4 1
+swap 7 4
+shiftright
+swap 0 1
+print
+shiftleft
+shiftright
+clear
+print
+print
+swap 5 4
+swap 1 7
+print
+print
+shiftright
+shiftright
+print
+shiftright
+shiftright
+swap 8 3
+print
+swap 9 2
+place 7 15
+9 9 3 7 6 8 6 11 12 7 11 11 10 4 11
+shiftright
+shiftright
+print
+print
+print
+shiftleft
+shiftleft
+print
+swap 1 0
+place 0 1
+7
+place 4 19
+5 8 13 7 13 11 10 4 2 12 9 4 10 7 12 11 9 9 4
+print
+shiftright
+shiftright
+print
+print
+place 6 13
+9 9 2 8 5 12 9 7 5 3 3 8 5
+swap 9 6
+shiftright
+shiftright
+place 8 3
+2 8 5
+swap 9 3
+shiftleft
+shiftright
+shiftleft
+print
+print
+shiftright
+print
+swap 4 1
+swap 5 2
+shiftright
+shiftleft
+swap 7 1
+swap 5 1
+shiftright
+print
+shiftleft
+swap 9 7
+all 7 1282
+shiftleft
+swap 6 2
+place 9 8
+7 10 6 9 13 10 4 7
+swap 5 0
+shiftleft
+swap 2 3
+place 4 14
+5 12 3 4 9 9 4 7 13 2 3 12 9 1
+print
+print
+place 0 1
+1
+print
+place 9 16
+8 8 5 1 6 2 11 8 11 6 13 11 13 11 11 7
+place 5 3
+5 12 10
+swap 2 3
+shiftleft
+all 4 6675
+place 7 1
+1
+swap 0 5
+shiftright
+place 4 7
+4 2 5 5 9 9 10
+swap 6 8
+place 4 12
+5 13 6 9 7 1 13 5 12 13 1 10
+swap 9 7
+shiftleft
+print
+print
+swap 5 1
+shiftright
+print
+swap 1 7
+place 5 4
+4 11 8 1
+place 9 4
+3 5 11 10
+swap 4 2
+swap 6 9
+place 9 12
+12 5 6 8 4 5 3 7 13 6 10 10
+print
+place 7 15
+8 13 10 2 2 5 12 5 12 1 12 9 12 10 2
+shiftleft
+place 3 4
+5 6 7 11
+print
+shiftright
+place 0 10
+1 5 7 8 7 10 7 11 10 6
+shiftright
+shiftleft
+place 5 13
+9 1 12 13 3 4 3 5 3 13 2 2 8
+place 1 3
+10 12 4
+shiftleft
+shiftright
+shiftright
+swap 0 5
+shiftleft
+shiftright
+print
+shiftright
+shiftleft
+swap 6 7
+shiftright
+shiftleft
+shiftright
+shiftleft
+place 9 9
+13 5 11 6 2 10 7 3 5
+print
+shiftleft
+swap 7 1
+swap 9 1
+shiftleft
+swap 2 7
+print
+shiftright
+place 4 9
+6 11 2 7 8 9 12 9 4
+place 0 8
+5 4 3 10 4 6 13 11
+shiftright
+all 10 4410
+shiftleft
+shiftleft
+print
+print
+shiftright
+swap 5 7
+place 2 13
+7 5 12 12 12 5 13 4 2 8 8 3 12
+print
+print
+swap 0 5
+swap 8 5
+swap 7 2
+shiftleft
+shiftright
+swap 4 5
+print
+swap 9 7
+place 5 12
+9 4 12 2 11 9 4 10 10 3 11 6
+swap 9 6
+print
+print
+shiftleft
+swap 4 3
+shiftright
+print
+shiftleft
+all 8 8044
+place 3 17
+10 1 6 5 4 11 2 10 7 5 1 8 13 7 9 5 1
+shiftleft
+print
+shiftleft
+shiftleft
+print
+swap 9 6
+shiftright
+place 0 1
+7
+swap 7 5
+all 7 8494
+shiftright
+print
+swap 0 2
+shiftright
+swap 6 5
+swap 3 0
+shiftright
+clear
+shiftleft
+print
+shiftleft
+swap 2 8
+print
+shiftleft
+print
+print
+place 0 14
+10 2 4 2 7 7 1 13 1 9 8 7 5 6
+shiftright
+print
+clear
+shiftleft
+shiftright
+shiftleft
+print
+shiftright
+shiftright
+shiftleft
+place 3 14
+3 4 9 9 12 8 4 10 10 3 4 9 11 2
+shiftleft
+place 8 14
+8 5 3 7 12 8 8 5 4 9 3 12 2 7
+print
+shiftleft
+print
+print
+print
+shiftleft
+shiftleft
+shiftright
+place 9 5
+8 7 6 9 3
+shiftleft
+shiftright
+swap 3 4
+swap 6 1
+shiftright
+print
+print
+swap 7 6
+place 7 16
+6 6 10 11 6 4 8 2 10 11 2 13 9 5 10 4
+print
+print
+print
+shiftleft
+swap 5 8
+shiftleft
+all 9 6782
+all 6 6958
+shiftleft
+swap 4 8
+shiftleft
+shiftleft
+shiftleft
+shiftright
+print
+place 9 8
+9 3 13 13 2 3 1 10
+shiftleft
+shiftright
+all 5 9860
+place 0 3
+1 10 9
+shiftleft
+place 1 6
+13 8 10 9 1 6
+swap 1 4
+shiftright
+shiftleft
+shiftright
+place 3 17
+8 5 10 9 1 1 6 12 8 11 2 2 4 11 3 6 7
+place 4 3
+10 13 7
+swap 4 0
+shiftleft
+shiftleft
+place 9 2
+11 11
+swap 6 2
+shiftright
+shiftleft
+shiftleft
+shiftright
+print
+swap 4 5
+place 8 15
+8 1 13 12 13 2 5 6 8 8 5 1 8 7 5
+all 7 1802
+print
+place 8 4
+7 6 7 5
+swap 4 5
+swap 8 6
+place 2 2
+6 1
+place 1 8
+8 13 8 12 1 10 1 6
+print
+shiftleft
+print
+place 8 14
+8 6 13 8 7 12 9 1 3 3 1 6 4 1
+print
+swap 4 2
+print
+print
+shiftright
+print
+swap 8 4
+swap 3 4
+print
+swap 0 4
+print
+shiftright
+clear
+place 2 12
+12 7 13 1 8 8 4 3 12 4 3 4
+swap 9 4
+place 6 18
+3 2 8 9 9 7 4 8 4 12 2 10 3 11 2 2 3 1
+print
+place 2 2
+2 2
+shiftright
+place 1 5
+11 7 5 13 4
+shiftleft
+print
+swap 5 1
+shiftleft
+print
+shiftright
+shiftright
+shiftleft
+swap 3 4
+print
+shiftleft
+swap 1 9
+shiftleft
+shiftleft
+shiftright
+shiftright
+print
+shiftright
+shiftleft
+place 8 17
+12 8 11 13 13 8 3 11 8 2 4 10 11 9 1 2 11
+shiftright
+place 9 13
+2 7 12 12 6 3 5 10 5 13 3 2 7
+print
+shiftright
+shiftleft
+place 1 7
+13 6 2 10 3 1 4
+shiftleft
+shiftright
+print
+place 2 11
+8 7 8 2 1 1 7 9 9 3 3
+print
+shiftright
+shiftleft
+shiftleft
+shiftleft
+print
+swap 5 7
+swap 8 9
+place 6 9
+5 4 12 5 13 1 4 5 5
+all 9 7931
+place 0 9
+4 5 12 5 12 2 2 11 8
+place 8 4
+11 1 9 5
+print
+shiftleft
+shiftleft
+shiftright
+place 8 15
+7 2 9 5 10 2 13 11 6 11 11 9 7 5 2
+clear
+swap 8 5
+shiftleft
+swap 5 6
+shiftleft
+shiftleft
+shiftleft
+shiftleft
+place 5 15
+10 9 6 8 13 9 13 11 11 5 12 11 7 10 2
+shiftright
+print
+print
+swap 4 1
+swap 6 1
+place 8 3
+6 1 1
+place 8 16
+10 13 5 9 8 1 3 4 8 4 10 7 1 6 3 8
+print
+print
+print
+place 8 13
+12 1 9 5 6 5 6 1 9 5 2 13 11
+clear
+print
+shiftleft
+shiftleft
+shiftleft
+swap 7 9
+place 5 1
+10
+place 0 10
+10 9 9 10 12 3 9 4 6 12
+shiftright
+swap 2 9
+swap 9 0
+swap 7 9
+all 2 5682
+place 0 7
+11 7 4 8 3 8 3
+print
+swap 6 9
+shiftleft
+print
+shiftright
+place 2 10
+11 13 8 6 4 10 2 1 1 3
+print
+shiftright
+shiftleft
+place 1 18
+5 11 13 4 1 7 12 3 1 11 5 11 4 2 3 10 6 8
+place 4 15
+4 4 5 12 5 7 11 11 2 12 11 1 13 9 1
+place 0 5
+3 8 3 3 9
+shiftright
+swap 9 7
+shiftright
+print
+shiftleft
+swap 9 0
+swap 7 6
+print
+shiftleft
+place 3 13
+7 13 5 5 12 3 13 6 6 7 12 9 11
+swap 5 7
+swap 5 4
+print
+place 7 13
+2 4 5 13 1 6 1 9 4 13 2 2 9
+shiftright
+place 5 4
+11 13 9 3
+swap 8 0
+shiftright
+print
+shiftleft
+place 7 16
+11 12 2 2 6 6 2 6 2 5 10 13 8 2 8 5
+shiftleft
+place 1 4
+9 3 9 13
+place 5 13
+8 5 7 1 3 7 6 3 7 4 8 7 8
+print
+shiftleft
+shiftright
+shiftright
+swap 4 9
+print
+print
+shiftright
+shiftright
+all 8 9695
+print
+swap 2 9
+place 6 14
+5 12 9 3 12 13 1 5 3 6 13 13 6 2
+swap 2 1
+shiftright
+swap 4 7
+print
+all 4 6701
+shiftleft
+shiftleft
+place 4 2
+10 9
+shiftleft
+swap 2 7
+shiftleft
+swap 0 2
+print
+shiftright
+shiftright
+shiftright
+shiftright
+print
+swap 8 0
+swap 8 0
+shiftleft
+print
+swap 9 5
+shiftright
+shiftright
+shiftleft
+place 5 18
+4 1 3 9 5 3 3 10 9 6 13 3 12 12 13 2 11 9
+shiftleft
+shiftleft
+swap 0 7
+swap 6 3
+print
+place 0 12
+6 5 5 12 11 13 10 12 10 13 7 10
+swap 5 6
+place 2 10
+11 2 8 6 9 4 11 4 4 5
+shiftleft
+print
+shiftleft
+shiftleft
+place 5 20
+11 4 10 11 10 6 6 3 6 7 3 6 3 11 4 11 7 6 13 13
+swap 7 0
+clear
+shiftright
+print
+place 8 18
+12 13 3 10 13 8 7 4 5 1 4 4 11 12 7 2 12 2
+shiftright
+print
+place 8 12
+4 7 9 8 6 6 11 12 2 2 11 11
+place 9 13
+12 8 9 5 3 11 11 6 9 1 7 9 4
+place 5 13
+5 9 2 12 1 2 10 12 3 3 5 6 13
+shiftleft
+shiftleft
+place 3 5
+13 10 13 4 3
+place 8 6
+13 9 1 9 5 1
+shiftleft
+swap 3 9
+print
+shiftleft
+shiftright
+shiftleft
+print
+shiftright
+shiftleft
+print
+place 8 17
+1 9 10 3 9 2 4 13 12 11 7 6 6 1 8 7 5
+print
+place 3 7
+2 4 4 4 12 11 11
+print
+shiftright
+shiftright
+swap 7 6
+swap 4 7
+place 6 20
+4 9 5 10 5 8 7 10 4 9 11 8 9 2 5 2 2 9 5 2
+place 1 9
+5 2 12 10 11 5 2 13 12
+swap 2 8
+shiftright
+shiftleft
+shiftleft
+shiftleft
+print
+all 8 5535
+print
+clear
+print
+shiftright
+shiftright
+swap 1 9
+place 5 6
+4 3 1 7 13 13
+print
+place 3 16
+6 13 6 6 4 8 4 1 12 8 7 5 2 13 11 1
+print
+swap 2 1
+swap 6 4
+shiftright
+print
+shiftright
+shiftright
+shiftleft
+place 8 13
+9 9 9 9 2 11 5 1 8 1 11 3 11
+swap 1 4
+all 8 8451
+shiftleft
+swap 0 1
+shiftright
+clear
+place 5 10
+2 11 12 13 10 1 1 3 6 13
+all 1 5464
+all 12 7962
+shiftright
+place 3 17
+13 7 2 9 7 12 3 10 6 13 1 5 5 5 12 6 6
+shiftright
+swap 4 2
+place 4 2
+8 13
+print
+clear
+place 7 11
+7 1 10 2 6 5 6 12 9 4 1
+place 4 16
+2 3 13 8 13 12 4 1 9 6 9 10 10 13 1 5
+place 1 20
+11 5 7 7 11 10 3 10 12 3 11 5 7 1 11 2 10 5 6 4
+place 2 4
+9 1 1 9
+place 5 13
+6 5 5 12 10 2 6 7 12 11 5 8 12
+place 2 6
+4 1 3 6 6 5
+shiftleft
+shiftleft
+clear
+swap 5 0
+print
+shiftleft
+print
+place 3 16
+2 2 4 5 3 11 2 2 1 4 7 2 6 11 1 4
+swap 3 7
+print
+print
+print
+place 5 19
+8 6 5 11 8 3 8 11 6 6 10 8 3 3 7 4 13 9 13
+shiftleft
+swap 2 8
+shiftleft
+swap 5 4
+clear
+shiftleft
+print
+place 2 2
+2 9
+shiftright
+print
+place 1 17
+6 10 5 7 4 13 3 9 10 9 7 1 2 9 12 3 4
+place 4 10
+3 10 2 6 7 10 8 4 6 12
+place 3 12
+5 7 7 12 6 13 4 13 6 2 12 4
+place 3 13
+11 13 10 11 3 4 13 3 2 2 5 1 7
+print
+shiftleft
+shiftleft
+place 4 6
+1 1 3 12 6 12
+print
+print
+shiftright
+swap 3 1
+print
+swap 2 4
+shiftright
+shiftright
+swap 3 4
+swap 9 1
+print
+shiftleft
+print
+swap 9 0
+shiftleft
+print
+shiftleft
+swap 8 1
+shiftleft
+place 9 16
+4 12 2 11 7 10 12 3 3 8 11 1 6 13 9 8
+swap 2 3
+shiftright
+print
+shiftleft
+swap 3 0
+shiftright
+place 4 10
+6 10 2 4 3 8 2 2 9 2
+place 4 16
+9 1 12 3 5 12 3 8 7 8 8 4 3 1 8 12
+shiftleft
+shiftleft
+place 1 18
+3 4 6 3 5 3 3 11 8 11 1 13 13 4 7 1 8 10
+place 8 14
+3 10 13 1 5 8 8 11 10 4 7 12 5 8
+shiftright
+place 5 1
+2
+shiftleft
+shiftright
+print
+shiftleft
+shiftleft
+print
+all 7 3312
+shiftleft
+shiftright
+shiftright
+shiftleft
+swap 7 0
+shiftleft
+print
+place 6 15
+10 1 7 6 4 13 11 1 7 12 6 6 8 10 13
+shiftleft
+place 3 16
+8 5 4 4 13 13 12 13 6 5 6 9 9 8 11 11
+print
+shiftright
+swap 7 0
+print
+shiftright
+shiftleft
+shiftleft
+shiftright
+shiftright
+shiftright
+shiftleft
+swap 9 6
+swap 1 2
+swap 9 5
+swap 1 0
+print
+place 3 12
+11 11 12 8 9 5 1 10 2 9 1 12
+swap 5 4
+shiftright
+print
+swap 1 9
+shiftright
+swap 2 3
+shiftright
+shiftright
+print
+clear
+swap 4 6
+place 7 7
+11 2 13 7 7 6 8
+swap 8 7
+place 7 11
+10 8 1 3 2 12 4 10 6 9 6
+place 8 17
+10 12 12 9 2 1 11 1 8 12 12 8 12 8 4 10 3
+print
+swap 9 6
+shiftleft
+swap 1 6
+shiftleft
+shiftright
+shiftright
+swap 2 6
+print
+print
+shiftright
+place 6 10
+10 9 11 9 2 2 8 12 13 13
+place 1 17
+8 6 11 11 8 7 10 4 1 3 10 4 7 8 9 7 11
+place 3 8
+4 4 9 4 5 2 8 5
+shiftleft
+shiftright
+swap 4 9
+shiftright
+place 8 16
+9 2 8 9 7 7 6 11 6 1 13 3 9 2 1 4
+shiftright
+shiftright
+shiftleft
+shiftright
+shiftleft
+print
+place 5 17
+7 1 1 10 2 3 5 1 11 10 12 12 1 3 10 6 13
+swap 3 5
+shiftright
+shiftright
+clear
+swap 4 9
+shiftleft
+swap 2 6
+shiftleft
+place 9 19
+5 12 8 13 5 12 10 6 11 6 8 5 8 9 4 5 3 4 11
+print
+shiftright
+print
+place 4 5
+8 7 11 2 8
+place 9 1
+11
+swap 7 8
+print
+shiftleft
+swap 2 9
+place 8 5
+13 5 7 4 5
+swap 3 6
+shiftright
+clear
+shiftleft
+print
+shiftleft
+place 8 10
+12 10 13 12 10 10 3 5 3 11
+shiftright
+print
+print
+shiftleft
+shiftright
+print
+swap 0 7
+place 6 9
+8 4 11 8 13 6 3 11 13
+shiftleft
+place 1 3
+13 3 11
+shiftright
+shiftright
+place 5 1
+4
+shiftleft
+swap 6 9
+place 2 14
+3 12 9 7 1 4 8 5 3 7 9 9 2 4
+print
+print
+shiftright
+print
+print
+shiftleft
+print
+place 5 8
+4 8 8 6 2 6 13 12
+clear
+shiftleft
+shiftright
+place 2 11
+1 5 10 4 6 12 6 2 12 9 9
+swap 9 6
+place 3 18
+10 5 8 13 8 7 1 7 8 8 13 11 1 13 2 8 9 6
+place 7 9
+4 11 8 11 8 2 13 9 2
+shiftleft
+print
+print
+place 3 14
+13 1 12 10 3 8 9 8 5 7 2 1 3 8
+shiftright
+shiftright
+swap 2 3
+place 0 9
+1 11 6 10 5 2 2 4 6
+place 2 18
+2 6 9 5 9 9 9 2 8 10 10 3 10 11 3 10 6 8
+place 5 18
+7 10 4 5 4 3 3 1 11 6 2 3 7 13 2 10 7 6
+shiftleft
+swap 5 2
+shiftright
+clear
+swap 7 8
+swap 1 0
+print
+swap 0 6
+swap 1 3
+place 2 14
+4 9 4 11 7 2 5 12 5 3 7 6 6 1
+shiftleft
+print
+shiftleft
+place 0 9
+8 13 8 9 11 10 9 4 12
+place 5 6
+5 10 12 2 4 11
+place 1 18
+13 7 12 1 5 2 10 6 3 6 7 3 4 5 1 4 13 9
+swap 2 5
+print
+place 3 2
+9 7
+all 8 7769
+clear
+shiftright
+swap 6 3
+place 6 13
+10 2 6 6 12 2 10 5 11 12 11 8 10
+place 3 19
+6 1 10 6 11 10 12 3 8 6 1 2 12 9 4 7 8 7 5
+shiftright
+shiftright
+print
+shiftleft
+place 6 6
+9 12 12 7 8 1
+shiftleft
+print
+print
+place 8 17
+12 10 11 4 10 6 6 5 1 8 7 5 6 11 12 2 7
+swap 1 2
+swap 5 4
+print
+print
+print
+shiftright
+place 3 11
+9 8 4 10 10 11 4 8 2 3 5
+swap 9 8
+shiftright
+place 2 6
+10 5 10 12 11 1
+shiftleft
+print
+swap 8 0
+swap 7 6
+place 5 11
+4 3 12 9 2 11 11 2 3 6 9
+print
+swap 5 0
+place 5 13
+2 8 8 4 3 12 1 12 1 6 1 2 2
+print
+place 5 6
+4 9 10 13 13 1
+place 3 13
+9 4 2 4 4 1 7 13 7 3 9 8 8
+shiftright
+shiftright
+shiftright
+shiftleft
+print
+print
+place 7 8
+9 3 10 12 9 2 1 3
+place 1 10
+11 7 5 9 11 10 13 8 8 7
+shiftleft
+print
+place 6 20
+8 1 2 9 2 2 1 2 10 5 8 5 7 12 4 8 4 1 7 4
+shiftright
+shiftleft
+print
+shiftleft
+place 9 4
+10 4 5 2
+shiftright
+shiftleft
+shiftleft
+place 5 15
+13 9 10 4 8 8 6 13 8 8 2 8 8 13 5
+shiftleft
+shiftleft
+swap 3 2
+shiftright
+swap 7 1
+shiftright
+print
+place 6 15
+2 11 4 8 9 11 7 9 9 6 6 4 10 13 7
+shiftleft
+swap 7 4
+place 7 16
+5 12 10 7 10 2 8 9 2 1 1 9 2 13 3 9
+swap 3 6
+place 0 17
+11 2 8 10 12 6 5 9 10 2 6 5 7 10 12 13 8
+shiftright
+place 4 7
+11 7 12 8 4 5 10
+print
+swap 9 4
+swap 6 9
+place 9 8
+9 4 9 7 4 9 4 11
+print
+print
+place 6 1
+9
+swap 3 6
+swap 5 6
+place 5 8
+11 12 12 9 4 12 11 1
+place 8 16
+12 3 5 3 13 11 7 9 8 4 12 13 10 3 13 4
+shiftleft
+swap 2 0
+clear
+print
+print
+place 8 18
+4 10 11 6 5 12 6 1 10 4 12 3 9 1 5 1 12 4
+clear
+shiftright
+shiftleft
+all 3 8197
+print
+shiftright
+shiftleft
+place 1 9
+4 9 5 1 10 6 11 1 4
+shiftright
+swap 2 6
+swap 9 0
+swap 6 8
+shiftleft
+shiftright
+place 9 19
+5 11 10 11 4 3 5 1 5 9 2 13 3 6 9 9 6 5 11
+print
+clear
+shiftleft
+place 3 6
+11 5 12 13 2 10
+shiftleft
+shiftleft
+shiftright
+print
+shiftleft
+shiftleft
+print
+print
+shiftleft
+place 7 2
+10 6
+shiftleft
+shiftleft
+shiftleft
+print
+shiftleft
+print
+print
+print
+shiftright
+place 2 20
+6 7 11 1 13 6 1 6 6 8 7 3 4 13 5 9 9 4 8 9
+shiftleft
+shiftleft
+print
+swap 8 1
+shiftright
+shiftright
+shiftright
+place 7 13
+12 11 2 11 12 5 4 13 2 6 5 8 6
+shiftright
+place 5 18
+12 9 4 4 10 5 7 11 3 13 7 12 9 12 7 12 3 7
+place 9 10
+5 12 5 2 9 11 8 8 2 7
+place 2 20
+3 9 3 8 4 5 11 1 2 2 1 9 4 4 2 12 9 1 1 11
+place 2 14
+7 12 6 11 8 10 7 3 1 8 3 11 7 13
+shiftleft
+shiftleft
+place 8 12
+13 4 12 7 8 7 12 9 8 3 11 5
+shiftright
+shiftleft
+print
+swap 4 6
+shiftright
+print
+shiftleft
+print
+shiftright
+print
+print
+print
+shiftleft
+swap 8 3
+place 7 4
+3 5 5 3
+print
+shiftright
+print
+shiftright
+shiftleft
+swap 9 0
+shiftright
+swap 3 9
+shiftright
+swap 0 6
+shiftright
+print
+shiftright
+swap 5 0
+place 2 17
+10 11 4 1 10 9 1 2 3 12 4 7 11 1 10 9 1
+shiftleft
+print
+swap 6 0
+shiftright
+swap 5 0
+place 2 16
+2 3 11 1 5 6 2 1 10 3 9 9 5 5 5 1
+swap 7 2
+place 4 5
+8 2 13 9 9
+place 5 11
+8 12 11 8 2 3 4 12 6 3 5
+shiftleft
+place 8 12
+8 9 1 13 2 10 11 2 13 5 9 5
+print
+swap 3 8
+swap 8 5
+print
+print
+place 8 14
+1 5 11 12 3 6 3 3 2 2 5 6 13 13
+place 2 7
+4 1 9 4 4 4 1
+shiftright
+shiftleft
+print
+shiftleft
+shiftleft
+print
+clear
+print
+swap 7 4
+swap 1 0
+swap 2 4
+print
+swap 7 5
+print
+shiftleft
+place 6 10
+7 10 13 8 1 7 13 4 2 10
+place 1 20
+12 8 6 11 12 13 13 9 6 9 10 6 6 10 12 12 12 10 4 5
+swap 7 1
+swap 7 4
+swap 1 4
+print
+shiftleft
+print
+shiftright
+print
+print
+print
+print
+swap 7 0
+place 3 1
+5
+shiftright
+place 6 8
+11 5 1 6 9 2 1 5
+place 5 17
+9 5 13 9 4 6 2 13 2 10 5 2 4 13 8 12 7
+shiftleft
+print
+shiftleft
+print
+place 5 8
+3 7 4 13 10 12 13 3
+place 6 16
+8 2 5 13 11 7 7 13 1 8 4 7 7 9 12 7
+swap 8 4
+shiftleft
+place 1 4
+6 5 11 6
+print
+swap 6 1
+shiftleft
+place 4 18
+10 11 1 6 8 13 5 4 8 4 6 5 1 11 5 13 5 5
+print
+shiftleft
+place 0 15
+9 12 12 2 6 2 7 12 1 5 3 6 12 10 4
+shiftright
+print
+print
+swap 8 1
+print
+shiftleft
+print
+shiftright
+shiftright
+place 2 20
+11 6 13 9 7 4 7 4 9 2 6 10 4 8 7 8 6 7 5 13
+place 1 7
+10 12 1 8 2 4 10
+shiftleft
+place 1 12
+11 13 7 7 4 13 7 13 10 5 10 1
+shiftright
+shiftright
+swap 5 9
+print
+place 4 5
+6 13 13 9 2
+shiftleft
+shiftright
+shiftleft
+shiftleft
+place 1 8
+8 3 5 1 8 2 5 1
+print
+clear
+shiftright
+print
+clear
+shiftleft
+place 0 12
+13 11 9 4 9 2 7 11 13 13 6 1
+shiftleft
+swap 9 6
+place 9 19
+8 7 5 4 1 2 12 2 11 10 2 6 3 12 10 5 9 10 5
+all 10 667
+shiftleft
+place 3 14
+3 13 13 10 3 6 10 11 11 2 2 13 13 4
+swap 8 7
+swap 0 1
+place 4 13
+10 5 8 6 12 12 2 9 5 5 2 5 13
+shiftright
+shiftleft
+swap 3 0
+shiftleft
+shiftright
+place 5 8
+7 11 12 7 11 2 13 5
+shiftleft
+place 7 15
+1 10 13 12 4 13 3 7 13 2 2 13 10 4 10
+shiftleft
+swap 1 0
+shiftleft
+shiftleft
+shiftright
+shiftright
+shiftleft
+all 3 1421
+print
+swap 7 6
+shiftleft
+swap 0 1
+print
+all 8 3768
+print
+shiftleft
+swap 3 7
+shiftleft
+shiftleft
+print
+place 0 6
+3 9 13 8 2 9
+shiftright
+place 3 15
+1 10 11 8 12 7 5 13 9 6 3 10 10 5 8
+place 4 16
+7 5 1 4 9 12 1 1 1 12 2 2 6 7 9 1
+place 3 13
+10 8 2 3 1 6 13 5 12 10 2 3 7
+shiftright
+print
+print
+all 13 1201
+place 2 14
+7 5 11 1 8 4 5 12 6 2 4 8 3 7
+print
+swap 9 7
+shiftleft
+shiftright
+print
+shiftright
+shiftleft
+place 7 4
+7 12 10 6
+swap 5 4
+place 9 12
+3 8 12 9 8 2 13 8 2 4 9 7
+shiftleft
+swap 4 5
+shiftright
+place 0 16
+10 8 3 3 3 1 3 7 13 5 9 13 8 2 13 7
+place 0 18
+6 11 2 8 2 5 12 6 6 4 9 4 13 7 12 13 6 6
+swap 9 7
+swap 2 6
+print
+place 6 4
+8 12 5 1
+swap 5 8
+shiftleft
+shiftleft
+shiftright
+shiftleft
+swap 7 8
+place 7 10
+12 10 5 8 3 5 9 3 1 4
+print
+shiftright
+swap 3 1
+shiftright
+print
+swap 6 5
+shiftleft
+print
+print
+swap 1 8
+print
+print
+swap 6 8
+shiftleft
+shiftright
+place 3 14
+13 7 9 13 6 13 2 12 10 6 1 10 5 5
+shiftright
+swap 3 7
+shiftleft
+shiftright
+shiftright
+shiftright
+shiftright
+print
+shiftleft
+print
+print
+print
+shiftright
+shiftleft
+swap 6 4
+shiftleft
+shiftright
+swap 8 1
+print
+swap 3 0
+shiftright
+print
+swap 9 0
+place 8 5
+6 8 8 6 10
+place 0 2
+5 1
+swap 0 3
+shiftright
+print
+all 7 3077
+swap 2 8
+shiftleft
+swap 5 0
+swap 3 5
+shiftright
+print
+shiftright
+shiftright
+swap 2 5
+swap 5 1
+shiftleft
+print
+shiftleft
+clear
+print
+shiftleft
+print
+all 12 8657
+shiftright
+print
+swap 5 6
+swap 2 4
+swap 8 2
+swap 1 9
+shiftleft
+shiftleft
+swap 1 2
+print
+shiftleft
+shiftright
+shiftright
+print
+shiftleft
+swap 1 7
+swap 6 5
+print
+place 7 14
+1 3 6 2 6 7 12 13 12 1 4 8 2 13
+print
+place 1 15
+8 10 13 10 7 11 3 2 5 4 2 2 3 11 3
+shiftright
+clear
+swap 1 4
+swap 4 6
+print
+place 2 6
+12 9 13 6 6 2
+shiftleft
+swap 3 6
+shiftright
+place 6 10
+6 10 1 11 10 10 5 3 5 10
+all 3 1351
+place 5 12
+9 1 1 11 5 11 5 7 7 12 1 1
+shiftright
+print
+swap 1 5
+print
+swap 5 1
+clear
+shiftleft
+print
+print
+shiftright
+swap 1 7
+print
+place 2 18
+13 8 13 12 11 3 8 3 8 12 1 3 4 2 4 6 8 1
+shiftright
+print
+swap 6 9
+shiftleft
+shiftright
+print
+swap 6 8
+print
+shiftleft
+swap 5 9
+shiftleft
+print
+swap 8 4
+shiftright
+print
+swap 1 6
+shiftright
+print
+place 9 1
+4
+place 6 14
+9 7 7 11 8 7 10 7 5 7 7 2 10 9
+shiftright
+shiftright
+shiftleft
+print
+shiftright
+print
+swap 2 7
+swap 5 9
+print
+print
+swap 4 7
+place 4 3
+1 3 10
+shiftright
+place 3 18
+9 13 7 13 2 1 6 11 13 2 9 6 2 3 5 1 8 6
+shiftleft
+place 2 18
+5 2 8 11 13 6 12 1 8 12 10 10 4 1 9 1 5 6
+shiftright
+print
+place 3 19
+9 6 9 4 6 5 8 3 9 3 12 13 11 8 6 7 2 11 4
+shiftleft
+swap 1 4
+place 3 3
+13 8 7
+place 3 19
+6 11 2 10 7 12 11 8 9 5 1 1 5 7 13 13 6 2 1
+place 1 11
+13 8 13 7 3 3 9 13 11 9 9
+shiftright
+swap 8 3
+place 2 10
+9 3 11 7 9 1 11 2 6 8
+place 4 9
+10 5 12 6 8 7 10 6 9
+swap 6 4
+print
+place 9 20
+12 8 11 13 9 7 12 7 12 11 8 9 2 5 3 10 12 2 12 3
+shiftleft
+shiftleft
+print
+shiftright
+place 5 20
+1 6 4 9 12 10 13 10 12 9 13 13 11 4 13 11 8 11 2 11
+shiftright
+shiftleft
+print
+swap 5 8
+shiftleft
+shiftright
+swap 7 2
+shiftleft
+shiftleft
+swap 3 9
+print
+place 3 14
+9 3 7 8 2 4 3 3 8 2 6 7 2 10
+place 8 7
+9 12 10 8 11 11 10
+shiftright
+place 6 2
+3 10
+swap 4 2
+swap 5 2
+swap 1 0
+shiftleft
+shiftleft
+swap 1 6
+clear
+shiftleft
+print
+swap 9 5
+place 5 15
+9 3 8 13 13 4 9 4 12 1 9 1 3 5 3
+print
+swap 5 1
+print
+place 7 5
+4 1 3 7 13
+shiftleft
+swap 6 2
+swap 8 7
+shiftright
+shiftleft
+swap 3 8
+shiftleft
+print
+shiftright
+shiftleft
+swap 1 7
+shiftleft
+shiftright
+place 1 7
+3 5 4 7 12 8 3
+print
+all 1 8442
+shiftright
+shiftleft
+shiftleft
+print
+place 1 10
+5 8 6 4 12 5 9 8 5 3
+place 9 11
+12 10 7 6 3 1 12 11 11 1 5
+swap 9 2
+shiftright
+shiftleft
+print
+swap 3 4
+swap 2 5
+place 8 5
+3 12 9 5 6
+shiftleft
+shiftright
+print
+swap 5 1
+swap 2 5
+place 0 5
+2 6 12 10 12
+shiftleft
+shiftleft
+swap 3 6
+shiftleft
+swap 1 0
+shiftright
+shiftleft
+swap 1 6
+swap 4 2
+shiftright
+place 0 16
+13 7 1 2 7 1 10 4 12 4 4 7 10 6 1 5
+print
+print
+shiftright
+shiftleft
+print
+shiftleft
+shiftleft
+shiftleft
+print
+place 9 2
+7 11
+print
+print
+place 4 5
+2 12 5 1 5
+swap 6 4
+place 2 3
+13 13 1
+print
+shiftright
+place 9 19
+9 11 8 6 11 10 10 4 10 9 2 13 7 11 6 8 5 10 12
+print
+print
+shiftleft
+print
+print
+swap 0 8
+print
+shiftright
+place 3 1
+5
+shiftleft
+swap 9 0
+place 9 17
+11 12 11 5 12 11 6 9 1 5 6 4 6 5 11 8 13
+print
+print
+shiftleft
+swap 9 6
+swap 8 7
+print
+swap 1 4
+print
+shiftright
+swap 8 4
+shiftright
+all 6 1243
+shiftleft
+shiftright
+place 7 11
+2 6 9 6 6 8 4 10 10 3 7
+swap 4 9
+shiftleft
+swap 9 0
+shiftleft
+place 2 3
+2 10 13
+print
+shiftleft
+shiftleft
+swap 3 9
+shiftright
+shiftright
+print
+print
+place 7 10
+11 1 5 4 6 2 12 2 13 13
+swap 8 1
+shiftright
+print
+shiftright
+shiftleft
+shiftright
+shiftright
+shiftleft
+all 12 2641
+all 2 5547
+all 8 1722
+print
+shiftright
+shiftright
+shiftright
+shiftleft
+print
+print
+shiftleft
+print
+swap 2 5
+shiftleft
+shiftleft
+place 3 2
+10 13
+place 3 2
+6 6
+shiftleft
+place 5 4
+8 13 3 9
+place 7 17
+5 7 1 2 10 8 10 9 3 8 4 1 9 7 2 9 12
+print
+shiftleft
+shiftleft
+shiftright
+place 6 10
+11 8 3 3 12 8 9 13 9 1
+shiftleft
+swap 8 6
+swap 4 0
+swap 0 4
+swap 9 8
+place 1 11
+4 8 9 5 9 7 10 7 13 3 6
+print
+print
+shiftright
+print
+shiftright
+shiftleft
+shiftright
+shiftleft
+swap 2 1
+swap 9 7
+place 8 15
+3 2 11 9 1 1 5 7 1 10 12 4 6 9 1
+shiftleft
+swap 2 8
+swap 6 8
+shiftright
+shiftright
+shiftright
+place 4 10
+13 7 5 9 10 2 4 7 12 4
+place 5 19
+3 5 9 8 3 5 4 11 2 12 6 8 10 8 4 5 13 1 1
+shiftleft
+swap 0 7
+shiftright
+print
+shiftleft
+place 9 5
+2 7 10 2 12
+shiftleft
+shiftleft
+place 7 11
+6 9 13 6 13 9 5 7 12 1 8
+shiftleft
+shiftright
+swap 4 6
+shiftright
+shiftright
+swap 4 2
+place 0 7
+4 3 9 7 6 13 3
+shiftright
+shiftright
+swap 1 7
+shiftleft
+place 5 1
+8
+place 5 3
+4 10 5
+swap 5 6
+shiftleft
+print
+all 3 1049
+shiftleft
+place 6 18
+11 1 3 11 4 2 9 8 8 6 3 8 2 7 8 11 5 5
+print
+shiftleft
+place 4 13
+9 7 5 13 4 2 2 11 11 10 4 4 3
+shiftleft
+print
+print
+swap 6 2
+shiftleft
+place 8 9
+12 13 4 3 13 4 11 4 8
+print
+swap 5 8
+print
+print
+shiftright
+shiftleft
+swap 5 6
+place 6 12
+5 12 5 2 4 3 5 10 11 12 13 1
+shiftright
+place 7 5
+7 9 3 9 8
+place 4 3
+5 11 9
+shiftright
+shiftleft
+place 1 13
+9 12 4 12 10 10 11 4 11 7 3 10 1
+shiftleft
+print
+swap 2 4
+print
+print
+print
+place 6 13
+3 6 10 12 5 7 13 5 13 8 10 7 8
+shiftright
+swap 5 3
+place 0 17
+5 8 5 13 9 3 9 11 2 9 5 11 9 5 12 3 3
+swap 7 6
+place 6 1
+1
+shiftright
+all 8 7953
+print
+shiftright
+shiftright
+print
+shiftleft
+print
+swap 4 0
+swap 1 2
+shiftright
+shiftright
+print
+shiftleft
+shiftleft
+swap 7 1
+print
+print
+swap 3 7
+print
+swap 5 9
+shiftleft
+place 9 19
+4 1 3 9 4 6 9 10 9 10 13 13 4 3 3 4 13 11 3
+print
+all 1 3169
+shiftright
+swap 2 8
+print
+shiftright
+swap 6 7
+swap 5 8
+swap 2 0
+swap 0 1
+place 1 6
+13 11 9 2 12 2
+place 2 2
+8 3
+shiftright
+all 13 2319
+place 9 1
+1
+shiftleft
+shiftleft
+print
+swap 7 4
+shiftleft
+shiftright
+place 9 13
+9 3 5 11 11 7 6 7 4 11 10 13 7
+swap 8 0
+shiftright
+shiftright
+shiftleft
+swap 7 9
+shiftleft
+shiftright
+shiftleft
+print
+print
+place 6 20
+10 6 5 13 7 10 11 9 11 13 8 7 7 2 1 8 8 12 6 5
+shiftleft
+swap 6 0
+shiftleft
+shiftright
+shiftleft
+shiftleft
+print
+swap 5 2
+place 1 8
+9 9 5 10 13 8 12 13
+shiftright
+shiftleft
+shiftright
+print
+print
+shiftleft
+clear
+clear
+shiftright
+shiftleft
+shiftleft
+place 2 17
+11 4 4 6 1 10 13 4 6 7 8 4 2 7 8 10 12
+print
+print
+place 8 7
+11 6 1 5 12 2 6
+swap 7 6
+place 1 1
+9
+swap 5 3
+shiftleft
+print
+swap 7 1
+place 7 12
+10 9 8 7 8 6 6 11 7 12 2 3
+print
+shiftright
+place 6 5
+4 12 5 5 4
+print
+shiftright
+place 6 11
+3 4 8 11 13 3 3 6 10 11 11
+print
+swap 3 8
+shiftright
+swap 8 9
+shiftright
+swap 2 5
+shiftright
+swap 5 8
+print
+shiftleft
+place 0 5
+3 4 1 5 10
+clear
+shiftright
+place 3 14
+9 9 11 7 10 1 6 2 12 6 4 5 4 12
+swap 5 1
+print
+swap 4 6
+place 5 20
+6 6 13 11 7 12 13 9 12 12 5 9 5 6 7 9 1 1 5 9
+place 9 11
+7 9 7 12 11 11 3 6 3 5 1
+print
+shiftleft
+print
+print
+shiftright
+place 6 1
+2
+shiftright
+shiftright
+shiftright
+swap 1 3
+swap 0 6
+swap 7 6
+place 5 8
+7 2 5 1 6 10 10 2
+swap 4 0
+shiftleft
+shiftright
+print
+print
+shiftright
+swap 3 8
+shiftright
+swap 8 5
+place 6 13
+11 10 6 8 6 5 8 5 4 13 1 3 8
+shiftright
+shiftleft
+shiftleft
+swap 2 9
+swap 2 6
+shiftleft
+place 4 18
+6 11 1 2 9 11 10 11 13 11 10 7 5 11 6 12 9 6
+print
+print
+shiftright
+swap 9 0
+shiftright
+swap 1 8
+place 2 17
+7 9 11 1 7 2 10 13 4 5 13 10 1 5 1 3 2
+place 8 13
+4 2 10 4 12 12 5 11 6 11 11 8 7
+place 8 15
+12 3 7 9 2 12 10 2 4 9 9 8 4 7 6
+swap 5 0
+swap 0 7
+place 7 17
+10 4 6 9 4 1 3 8 3 8 7 2 10 1 13 7 4
+shiftright
+shiftleft
+swap 8 1
+shiftright
+shiftright
+shiftleft
+swap 8 6
+swap 0 6
+shiftright
+shiftright
+shiftright
+shiftright
+shiftright
+shiftleft
+place 0 3
+9 3 1
+shiftright
+shiftleft
+print
+print
+shiftright
+shiftleft
+shiftright
+place 7 14
+9 5 4 8 6 3 7 10 9 1 1 3 5 11
+shiftleft
+print
+print
+shiftleft
+swap 4 1
+shiftleft
+print
+place 1 9
+13 2 7 5 10 12 1 10 5
+swap 9 3
+shiftright
+shiftright
+print
+shiftleft
+place 5 11
+5 3 4 9 7 3 13 8 4 6 5
+print
+shiftright
+place 7 4
+10 7 4 9
+print
+place 1 6
+9 4 6 12 2 6
+all 12 6103
+swap 9 5
+place 6 10
+5 12 2 4 4 5 2 4 5 11
+place 2 20
+1 1 4 11 7 9 13 6 4 2 7 4 2 10 2 1 10 13 8 12
+shiftleft
+shiftright
+shiftleft
+shiftright
+print
+place 2 15
+2 6 8 12 9 8 7 12 2 1 8 2 12 3 12
+swap 5 0
+place 6 6
+2 12 13 7 2 2
+swap 7 6
+place 1 6
+2 13 4 3 5 6
+shiftright
+swap 8 9
+shiftright
+place 0 11
+4 13 8 1 11 13 12 11 1 10 10
+place 1 5
+10 5 13 9 6
+print
+place 0 11
+2 4 7 10 13 9 12 4 10 2 13
+swap 0 5
+print
+print
+place 3 16
+13 11 7 6 13 3 13 12 10 10 1 12 13 12 9 2
+print
+swap 9 8
+swap 4 8
+print
+shiftleft
+swap 8 5
+shiftright
+swap 3 6
+swap 4 6
+place 5 5
+5 3 4 9 12
+print
+print
+print
+print
+place 9 11
+1 11 13 12 10 5 9 7 3 1 8
+shiftleft
+print
+shiftright
+print
+shiftleft
+shiftleft
+shiftright
+swap 8 0
+shiftright
+shiftleft
+print
+print
+print
+print
+shiftleft
+swap 4 7
+shiftleft
+place 0 6
+3 8 9 5 13 8
+swap 3 9
+print
+shiftleft
+print
+swap 4 8
+shiftleft
+shiftleft
+shiftleft
+place 4 8
+8 3 4 3 13 6 10 9
+print
+swap 9 6
+shiftright
+shiftright
+shiftleft
+swap 2 6
+print
+swap 5 0
+swap 1 2
+swap 1 5
+place 8 15
+9 1 13 8 2 1 13 2 10 6 5 5 10 11 2
+shiftright
+shiftleft
+print
+print
+place 9 8
+7 1 12 8 10 11 4 11
+place 3 6
+5 11 4 12 13 3
+shiftright
+swap 7 2
+swap 0 2
+print
+swap 2 4
+shiftleft
+print
+place 3 3
+9 6 7
+shiftright
+place 3 17
+11 7 2 9 2 2 9 2 3 1 7 9 6 5 11 6 5
+place 5 7
+13 4 4 13 6 5 4
+print
+place 9 13
+12 6 3 11 8 5 1 5 4 12 7 8 3
+place 2 10
+12 6 11 9 10 2 11 1 6 3
+print
+place 1 9
+9 5 1 9 3 10 1 13 3
+shiftleft
+print
+shiftleft
+shiftleft
+shiftleft
+clear
+swap 4 3
+shiftleft
+place 6 10
+12 13 10 8 13 4 8 1 1 7
+shiftleft
+place 2 11
+8 1 2 9 3 2 11 3 6 2 5
+shiftleft
+all 5 9414
+shiftright
+place 4 18
+6 6 1 5 4 12 7 3 10 5 3 4 12 3 4 1 7 9
+shiftright
+clear
+shiftright
+print
+print
+print
+shiftright
+place 3 1
+12
+print
+shiftright
+place 8 5
+3 6 1 3 8
+shiftright
+shiftright
+shiftright
+shiftleft
+shiftleft
+place 8 4
+1 9 6 8
+print
+shiftright
+swap 5 4
+print
+print
+clear
+place 9 10
+5 6 13 13 1 12 9 13 9 3
+place 7 5
+2 12 5 8 8
+swap 8 6
+place 3 12
+10 13 6 9 7 11 7 11 1 4 13 8
+shiftright
+clear
+swap 8 7
+swap 4 7
+shiftright
+swap 6 9
+swap 7 5
+print
+swap 0 2
+place 8 18
+3 1 4 9 9 8 10 5 2 8 13 7 6 4 6 1 1 5
+print
+place 0 20
+2 7 1 13 5 3 1 6 9 6 9 11 8 13 7 8 9 12 5 9
+shiftright
+shiftright
+print
+shiftright
+place 6 4
+1 8 5 10
+place 3 20
+9 1 6 5 11 3 2 7 5 13 3 5 3 4 8 6 6 1 10 2
+shiftleft
+shiftright
+swap 6 2
+swap 5 0
+print
+place 3 7
+4 3 11 8 13 5 5
+print
+print
+place 6 10
+13 2 11 9 1 10 5 13 10 1
+place 2 3
+12 9 1
+swap 1 8
+swap 0 5
+print
+swap 1 8
+swap 0 1
+print
+place 4 12
+12 4 11 1 3 6 7 9 2 9 1 1
+place 2 6
+2 2 6 4 5 9
+shiftright
+shiftright
+place 9 14
+11 13 10 3 5 10 13 8 8 3 7 5 10 10
+swap 7 8
+print
+shiftright
+shiftleft
+swap 9 0
+swap 9 4
+all 2 5251
+shiftright
+shiftright
+shiftright
+shiftright
+shiftleft
+place 6 11
+13 4 7 2 10 9 3 6 10 5 8
+print
+place 5 8
+2 13 6 6 8 1 4 9
+place 7 2
+6 1
+shiftleft
+print
+print
+place 4 1
+4
+shiftleft
+swap 7 3
+shiftright
+print
+shiftleft
+shiftleft
+shiftleft
+place 2 19
+10 8 6 13 3 2 6 7 10 8 12 8 10 3 7 1 7 13 3
+shiftleft
+swap 5 2
+shiftright
+swap 9 6
+shiftright
+place 1 8
+11 11 8 7 6 3 3 2
+shiftleft
+clear
+shiftright
+place 0 14
+1 3 11 4 6 11 2 12 9 6 2 9 2 1
+shiftright
+shiftleft
+shiftleft
+shiftleft
+shiftleft
+all 10 8121
+print
+place 2 13
+2 3 3 5 4 1 2 2 2 7 5 12 13
+swap 2 3
+print
+place 4 16
+9 10 13 1 11 1 11 10 8 10 10 5 6 9 10 13
+place 2 18
+4 8 7 5 2 4 2 1 2 7 3 12 3 7 10 1 9 4
+swap 3 6
+swap 3 2
+shiftright
+all 1 2101
+shiftleft
+swap 9 3
+shiftleft
+shiftright
+shiftleft
+swap 0 8
+print
+swap 3 0
+shiftright
+shiftleft
+shiftright
+shiftleft
+place 0 18
+8 11 9 10 8 5 13 11 11 8 2 1 1 4 6 10 5 9
+all 9 314
+print
+swap 3 4
+print
+swap 0 7
+swap 7 2
+shiftright
+swap 1 6
+print
+place 3 19
+4 1 12 11 7 7 7 10 1 1 7 3 8 4 11 1 1 13 2
+place 9 10
+1 3 6 13 9 6 8 4 12 6
+swap 8 2
+shiftright
+shiftright
+print
+shiftright
+swap 2 7
+shiftright
+swap 6 8
+shiftright
+shiftleft
+print
+shiftleft
+shiftright
+place 6 15
+8 2 13 5 6 8 7 11 5 7 12 10 13 2 13
+swap 9 6
+shiftleft
+shiftleft
+print
+shiftright
+shiftright
+place 8 14
+3 2 11 4 3 12 7 7 12 8 4 3 13 5
+swap 7 1
+place 0 18
+8 5 3 5 9 4 10 2 5 12 5 6 1 12 7 9 6 2
+swap 1 2
+print
+swap 4 5
+swap 0 7
+shiftleft
+clear
+shiftleft
+swap 0 9
+shiftleft
+place 7 5
+11 9 10 6 12
+shiftleft
+shiftleft
+shiftright
+shiftright
+print
+place 5 11
+3 3 10 7 13 12 1 8 11 10 12
+shiftleft
+clear
+swap 7 2
+shiftleft
+place 6 20
+5 5 2 7 9 9 12 12 6 2 8 1 2 1 10 12 5 7 12 12
+place 5 19
+4 10 2 2 12 6 3 12 6 3 11 8 4 13 6 13 6 10 8
+swap 2 0
+shiftright
+place 6 13
+1 10 11 1 12 13 7 8 4 7 6 8 4
+shiftleft
+swap 5 9
+print
+swap 7 4
+shiftleft
+shiftleft
+place 9 3
+8 6 10
+place 0 10
+10 5 2 7 4 13 3 1 11 4
+print
+shiftright
+shiftleft
+shiftright
+shiftleft
+place 3 2
+3 3
+shiftright
+place 1 15
+5 10 8 11 5 11 8 10 8 12 2 9 4 7 3
+swap 5 6
+shiftright
+place 8 6
+7 12 3 10 6 6
+print
+place 7 12
+2 13 1 5 8 9 10 5 13 1 9 11
+shiftleft
+shiftleft
+print
+place 7 11
+3 7 8 3 7 2 1 8 10 11 11
+shiftleft
+print
+shiftleft
+place 0 8
+5 10 12 7 4 13 1 11
+shiftright
+place 0 1
+8
+place 8 19
+4 3 6 7 4 2 10 6 10 11 3 11 9 2 7 13 7 13 3
+print
+print
+clear
+print
+place 5 9
+13 13 4 2 7 2 9 11 7
+shiftright
+shiftleft
+place 6 20
+4 12 8 7 11 11 11 7 4 6 7 12 7 7 7 5 10 2 10 12
+place 1 14
+8 13 4 8 3 5 10 5 4 4 6 5 9 2
+print
+shiftleft
+print
+shiftleft
+shiftleft
+shiftright
+place 8 14
+5 12 1 6 7 1 4 9 4 6 1 6 8 6
+place 4 11
+4 8 11 9 10 11 1 11 11 5 12
+place 0 1
+9
+shiftleft
+shiftright
+shiftleft
+shiftleft
+print
+place 9 8
+4 13 5 8 4 5 11 13
+swap 9 1
+shiftright
+shiftleft
+shiftleft
+shiftleft
+print
+swap 5 2
+swap 8 9
+print
+swap 8 6
+swap 9 0
+swap 1 2
+shiftleft
+print
+shiftleft
+shiftleft
+place 9 1
+6
+shiftright
+shiftright
+print
+print
+shiftright
+place 5 5
+13 10 12 13 7
+shiftright
+print
+shiftleft
+shiftleft
+print
+swap 3 1
+all 2 9438
+shiftleft
+print
+print
+shiftright
+shiftleft
+shiftright
+shiftleft
+shiftleft
+shiftright
+shiftleft
+shiftleft
+print
+shiftright
+print
+place 5 15
+8 6 4 10 2 12 4 11 13 8 5 12 6 1 1
+place 2 12
+11 9 8 12 11 8 11 13 5 8 13 11
+shiftleft
+place 2 1
+11
+place 1 5
+1 8 2 10 11
+place 6 4
+1 2 4 8
+place 0 10
+13 6 3 9 4 8 6 9 4 12
+shiftleft
+shiftleft
+print
+shiftleft
+place 3 15
+1 12 5 4 7 3 7 13 3 8 9 4 2 10 13
+shiftright
+swap 7 3
+print
+place 0 16
+9 2 1 9 11 7 4 5 5 9 12 13 4 10 2 4
+shiftleft
+shiftleft
+print
+clear
+print
+shiftleft
+swap 5 7
+print
+place 0 1
+7
+shiftright
+shiftleft
+shiftright
+print
+shiftright
+print
+place 9 8
+3 10 7 7 8 4 5 1
+shiftright
+print
+shiftright
+print
+clear
+place 3 2
+12 8
+shiftleft
+shiftleft
+shiftleft
+place 4 4
+7 13 4 13
+swap 3 0
+print
+shiftright
+place 5 8
+6 2 3 2 5 8 7 5
+shiftright
+swap 6 0
+place 6 5
+3 13 2 11 1
+shiftleft
+place 1 8
+13 12 9 4 1 3 1 12
+print
+shiftright
+swap 6 8
+shiftleft
+print
+print
+place 9 1
+3
+shiftleft
+shiftleft
+swap 5 1
+place 5 15
+7 3 6 7 8 7 5 11 10 8 3 4 10 7 4
+shiftleft
+place 3 14
+10 4 6 6 2 6 8 3 11 6 11 10 12 9
+place 7 19
+4 8 2 13 2 9 1 1 10 12 12 8 11 1 8 4 13 10 4
+print
+print
+place 3 4
+3 3 12 9
+shiftright
+swap 8 2
+print
+shiftright
+shiftleft
+place 9 16
+8 7 7 4 8 5 1 3 3 9 13 10 3 5 4 2
+place 0 10
+7 12 1 10 7 12 8 2 3 7
+shiftleft
+print
+place 7 4
+10 12 4 1
+all 13 9929
+swap 8 1
+shiftleft
+print
+swap 1 0
+print
+all 5 5409
+place 3 19
+1 8 1 1 8 2 4 4 12 11 6 1 13 1 5 8 6 5 6
+shiftright
+shiftright
+print
+shiftright
+swap 5 8
+shiftright
+shiftleft
+print
+swap 4 8
+shiftleft
+shiftleft
+swap 3 6
+shiftright
+all 2 9362
+print
+shiftright
+shiftright
+place 9 5
+3 7 11 7 3
+swap 3 1
+place 2 1
+3
+shiftright
+shiftright
+shiftleft
+swap 3 4
+print
+shiftleft
+place 4 20
+8 5 9 10 3 1 11 7 9 5 6 12 1 2 9 7 1 11 3 7
+shiftleft
+swap 3 9
+place 6 8
+4 13 11 6 2 7 4 8
+shiftleft
+shiftleft
+print
+swap 4 5
+shiftleft
+shiftright
+swap 1 4
+shiftright
+shiftleft
+print
+swap 6 9
+shiftleft
+swap 6 7
+shiftleft
+place 7 12
+8 1 5 7 9 10 11 7 4 1 1 7
+swap 0 9
+place 2 15
+2 4 6 10 5 7 6 7 3 8 9 11 12 7 7
+shiftright
+shiftright
+shiftleft
+place 9 10
+6 8 7 1 13 6 4 8 10 4
+shiftright
+print
+shiftleft
+swap 2 9
+shiftright
+shiftright
+swap 4 8
+swap 7 1
+print
+shiftleft
+shiftright
+place 8 13
+5 9 5 4 2 11 11 1 9 3 12 4 4
+place 7 11
+2 5 12 10 5 7 11 5 6 7 9
+shiftright
+shiftright
+place 4 9
+10 10 10 6 4 6 10 10 8
+swap 3 9
+place 5 19
+6 6 13 12 3 2 13 4 11 1 12 13 4 1 12 3 9 2 7
+swap 7 1
+print
+shiftright
+print
+shiftleft
+shiftleft
+shiftleft
+shiftright
+print
+shiftright
+swap 9 8
+print
+print
+shiftleft
+swap 2 1
+print
+print
+swap 9 5
+shiftleft
+swap 8 6
+clear
+shiftleft
+place 4 15
+5 7 8 3 2 13 6 1 3 4 13 11 2 12 1
+shiftleft
+place 3 17
+3 13 1 7 6 5 11 9 7 3 3 5 6 12 4 7 8
+shiftright
+swap 5 4
+place 4 2
+11 9
+shiftleft
+place 4 9
+2 6 12 2 13 13 12 3 9
+place 2 16
+1 2 9 5 6 8 6 2 8 11 8 13 13 9 7 7
+shiftleft
+shiftright
+print
+shiftright
+swap 9 1
+all 7 6638
+swap 1 4
+swap 9 1
+swap 1 4
+shiftleft
+place 1 9
+12 7 5 6 10 6 3 9 10
+swap 4 9
+shiftleft
+swap 7 2
+shiftright
+shiftright
+swap 3 9
+shiftright
+shiftleft
+shiftright
+shiftright
+shiftleft
+shiftright
+all 9 9321
+place 2 15
+3 9 3 10 13 7 6 5 11 11 9 10 12 2 12
+place 2 20
+1 2 3 7 7 9 13 3 3 5 13 13 5 1 5 12 10 9 5 8
+swap 6 4
+swap 8 5
+print
+shiftright
+print
+shiftleft
+all 1 4431
+shiftright
+place 5 6
+4 7 4 11 2 3
+swap 7 0
+swap 4 8
+place 9 12
+5 1 2 13 1 11 12 12 12 8 12 3
+print
+swap 0 1
+print
+shiftright
+place 0 8
+5 5 7 10 13 7 1 4
+swap 1 2
+all 8 3321
+swap 6 3
+shiftright
+shiftleft
+shiftright
+swap 4 7
+place 9 1
+9
+swap 9 3
+swap 7 4
+shiftright
+print
+print
+place 8 12
+13 8 11 9 7 10 5 8 7 12 12 7
+shiftright
+place 9 15
+12 10 3 4 6 11 7 9 1 5 6 6 4 12 1
+shiftright
+swap 5 3
+print
+place 9 18
+2 8 13 2 8 4 9 7 12 4 4 8 9 7 5 5 6 1
+print
+shiftright
+shiftright
+swap 8 1
+shiftright
+print
+all 13 5510
+shiftright
+swap 1 0
+shiftleft
+place 4 19
+10 13 5 10 7 13 1 5 13 3 3 13 12 10 7 12 8 5 7
+place 2 5
+1 1 12 8 9
+shiftleft
+place 2 20
+12 7 1 4 13 3 2 12 11 8 11 5 7 4 7 4 7 6 8 6
+shiftright
+shiftright
+place 6 5
+13 8 10 5 5
+swap 6 4
+swap 0 9
+print
+shiftright
+print
+swap 5 0
+swap 0 4
+shiftright
+print
+swap 1 9
+all 9 5464
+swap 1 0
+place 2 14
+8 11 12 11 7 2 2 3 1 10 1 6 9 2
+shiftright
+shiftleft
+place 6 16
+4 7 10 1 6 5 9 10 6 2 4 12 2 3 12 9
+shiftright
+print
+shiftright
+print
+swap 1 2
+shiftright
+shiftleft
+place 6 15
+6 2 6 6 7 4 6 3 2 12 12 3 6 4 6
+place 6 13
+6 13 10 11 7 11 1 13 7 10 8 11 9
+swap 2 8
+place 3 6
+1 5 5 8 12 2
+place 8 2
+10 12
+shiftleft
+print
+place 1 9
+13 1 11 4 9 8 9 9 9
+swap 8 0
+shiftleft
+swap 6 5
+shiftright
+shiftright
+swap 1 8
+print
+place 2 14
+12 1 2 5 9 4 11 4 10 4 2 12 5 4
+shiftright
+swap 0 3
+shiftleft
+shiftright
+shiftleft
+print
+shiftright
+shiftleft
+swap 9 4
+swap 0 1
+place 9 15
+1 6 8 9 6 4 12 8 9 12 7 5 11 10 4
+shiftleft
+swap 6 5
+shiftright
+print
+place 1 14
+12 1 11 13 3 9 2 5 9 4 6 9 11 6
+shiftright
+shiftleft
+shiftleft
+shiftright
+shiftright
+shiftright
+print
+print
+place 4 20
+5 5 3 13 13 2 8 5 12 5 11 7 7 3 2 9 11 3 10 11
+print
+print
+all 7 454
+all 13 3289
+swap 1 6
+shiftleft
+place 7 6
+2 4 13 4 12 3
+print
+shiftright
+place 5 2
+7 12
+shiftleft
+place 0 4
+7 10 13 7
+shiftleft
+swap 1 4
+place 2 9
+2 3 12 3 4 11 4 4 11
+shiftright
+place 8 7
+12 1 8 3 3 9 1
+shiftleft
+place 3 2
+10 1
+shiftleft
+shiftright
+shiftleft
+shiftright
+place 4 11
+9 3 6 1 9 9 1 11 5 7 7
+print
+shiftleft
+shiftleft
+shiftright
+place 9 19
+1 6 5 13 7 5 8 8 11 2 7 5 12 7 11 9 7 13 6
+shiftleft
+swap 3 6
+print
+shiftleft
+place 3 8
+4 13 1 13 4 2 9 5
+place 0 15
+5 11 2 3 13 13 8 3 13 12 8 9 5 9 6
+shiftleft
+shiftleft
+place 0 16
+1 1 12 11 3 3 11 10 2 6 1 9 12 7 2 10
+swap 6 3
+swap 0 3
+shiftleft
+place 1 13
+6 13 13 4 4 10 4 4 11 6 10 7 8
+swap 4 8
+shiftleft
+shiftleft
+shiftleft
+clear
+shiftright
+print
+swap 7 1
+place 2 15
+9 13 6 6 13 13 10 6 12 3 9 13 7 11 4
+swap 3 8
+shiftright
+all 10 100
+shiftright
+place 7 17
+7 11 6 2 12 6 5 13 12 9 9 5 7 2 5 9 5
+shiftleft
+shiftleft
+shiftright
+swap 8 7
+shiftleft
+print
+shiftright
+place 2 2
+9 1
+swap 9 6
+place 2 10
+3 10 2 11 6 10 10 7 2 6
+shiftright
+shiftleft
+place 1 5
+2 6 10 7 6
+print
+shiftright
+place 6 4
+7 2 12 12
+shiftright
+place 7 6
+8 4 7 11 3 3
+shiftright
+swap 7 6
+shiftleft
+shiftleft
+shiftright
+place 8 8
+11 10 8 5 4 12 5 1
+shiftleft
+shiftright
+swap 9 4
+place 6 3
+2 10 13
+swap 2 5
+shiftright
+place 0 8
+9 11 12 2 2 7 10 1
+place 4 4
+1 1 7 6
+swap 8 5
+place 1 2
+5 9
+shiftright
+swap 8 7
+shiftleft
+all 5 7980
+place 1 16
+1 5 9 6 4 11 4 11 12 1 2 9 6 11 4 2
+place 1 9
+5 1 2 12 10 5 13 7 11
+swap 5 8
+place 7 5
+4 10 3 4 2
+shiftright
+shiftleft
+shiftright
+shiftleft
+swap 8 5
+place 0 10
+6 8 1 9 5 8 10 12 1 11
+print
+shiftright
+shiftleft
+print
+shiftright
+shiftright
+place 6 8
+12 1 4 13 2 13 5 5
+print
+place 6 16
+3 9 6 3 12 10 9 8 7 7 4 10 10 2 2 10
+shiftright
+swap 7 8
+shiftleft
+print
+shiftleft
+swap 8 2
+shiftright
+place 3 16
+4 5 11 3 10 3 7 11 4 12 4 11 8 6 7 8
+print
+shiftleft
+shiftleft
+print
+shiftright
+all 4 7839
+print
+shiftright
+shiftright
+place 6 18
+9 3 11 10 6 6 9 6 12 7 6 4 1 12 4 7 12 7
+all 7 298
+shiftright
+swap 1 6
+shiftleft
+print
+swap 6 1
+shiftleft
+print
+print
+place 5 7
+5 9 12 10 12 7 7
+swap 5 6
+shiftright
+place 4 3
+8 12 13
+place 3 9
+7 8 8 10 1 8 1 3 1
+print
+place 8 15
+3 12 9 2 10 5 7 11 7 10 12 3 11 3 11
+print
+shiftleft
+shiftleft
+swap 2 6
+swap 3 9
+place 3 15
+11 13 6 6 11 1 11 11 5 9 11 4 6 8 5
+swap 9 1
+swap 5 2
+shiftleft
+place 9 11
+4 9 10 3 3 13 5 7 1 4 8
+shiftleft
+shiftleft
+shiftright
+shiftleft
+print
+shiftleft
+print
+place 3 8
+3 7 7 1 13 9 2 8
+print
+swap 8 9
+shiftright
+print
+shiftright
+all 11 5802
+shiftright
+print
+shiftleft
+print
+shiftright
+place 9 6
+8 7 10 10 10 13
+shiftright
+shiftright
+shiftleft
+swap 2 9
+shiftleft
+shiftright
+place 7 1
+9
+shiftleft
+swap 4 3
+swap 3 0
+shiftright
+shiftleft
+place 8 8
+12 4 12 3 7 11 5 4
+swap 5 8
+shiftright
+shiftright
+place 0 3
+2 7 2
+shiftleft
+shiftright
+shiftright
+swap 0 2
+shiftright
+shiftleft
+print
+shiftleft
+shiftleft
+shiftleft
+print
+print
+print
+place 5 18
+9 7 12 5 8 2 4 6 9 10 5 7 10 2 2 12 8 11
+shiftright
+print
+place 7 4
+2 6 9 10
+swap 9 4
+swap 8 6
+shiftright
+place 5 17
+1 4 6 8 9 10 9 10 10 2 2 3 2 8 4 10 12
+place 4 17
+6 10 5 2 3 2 2 12 11 10 13 6 13 8 6 8 3
+shiftleft
+print
+swap 3 0
+place 8 14
+8 13 6 5 8 9 13 13 5 10 10 8 3 5
+swap 8 5
+shiftleft
+swap 0 9
+shiftleft
+print
+place 1 15
+3 12 12 9 5 1 9 6 13 6 1 7 1 11 7
+swap 5 0
+print
+shiftright
+print
+print
+shiftright
+shiftleft
+shiftleft
+print
+swap 8 2
+swap 2 8
+place 9 18
+2 12 6 3 5 7 11 4 11 7 9 6 9 7 10 4 7 4
+swap 6 7
+print
+print
+place 3 17
+6 3 4 9 2 10 5 11 4 9 5 8 12 9 10 6 12
+print
+all 11 5110
+print
+shiftright
+swap 0 8
+print
+place 9 9
+4 1 3 4 12 11 1 13 9
+swap 8 1
+swap 8 3
+place 1 14
+6 4 5 6 12 8 2 5 7 11 4 5 4 2
+shiftright
+shiftright
+place 0 7
+6 7 2 3 2 1 10
+shiftright
+shiftright
+shiftleft
+place 7 4
+6 4 13 6
+print
+shiftleft
+print
+place 5 11
+6 1 2 8 1 7 6 12 5 8 5
+shiftleft
+place 9 16
+6 4 6 12 1 9 5 11 6 10 2 1 12 3 3 1
+swap 1 2
+shiftleft
+swap 9 1
+shiftright
+print
+swap 1 8
+place 3 19
+7 5 5 1 3 11 11 7 11 1 11 2 8 5 9 1 10 10 2
+shiftleft
+shiftright
+shiftright
+print
+shiftleft
+shiftleft
+print
+shiftright
+swap 5 0
+shiftleft
+all 3 143
+print
+print
+all 4 4039
+place 0 2
+1 9
+clear
+print
+place 5 17
+4 6 12 2 10 10 8 13 6 8 12 13 9 5 6 1 13
+place 6 4
+12 9 6 1
+print
+shiftright
+swap 6 7
+place 6 13
+9 7 6 5 2 7 11 9 1 8 4 7 9
+shiftright
+shiftright
+swap 9 0
+swap 5 7
+shiftleft
+shiftright
+clear
+print
+clear
+print
+swap 5 6
+swap 0 4
+print
+shiftright
+print
+shiftleft
+place 8 16
+6 10 10 11 5 5 2 11 13 2 11 5 13 9 9 6
+swap 8 3
+place 0 7
+12 2 3 1 1 11 13
+shiftleft
+shiftleft
+swap 8 3
+swap 9 1
+place 1 14
+5 1 10 12 11 3 8 1 2 5 2 13 5 7
+print
+print
+print
+place 5 7
+5 11 4 1 10 2 13
+shiftleft
+shiftright
+shiftright
+place 9 7
+1 3 12 3 11 5 10
+print
+shiftright
+print
+shiftright
+place 8 2
+9 10
+shiftleft
+place 7 5
+6 5 9 7 3
+swap 7 1
+shiftleft
+print
+shiftleft
+place 4 6
+9 1 4 7 1 8
+print
+swap 9 6
+clear
+place 2 16
+3 7 11 4 1 10 6 11 12 3 8 1 4 13 10 11
+place 1 9
+9 12 4 3 1 2 13 12 7
+place 7 18
+1 4 4 1 10 2 8 12 7 8 7 1 2 12 7 1 8 1
+shiftright
+shiftright
+print
+shiftleft
+swap 3 2
+place 1 15
+6 11 3 11 12 8 4 4 11 6 8 6 6 5 8
+print
+place 7 19
+8 7 4 9 9 7 2 5 11 5 1 5 4 1 2 8 12 8 5
+place 9 1
+9
+place 3 3
+12 8 6
+print
+shiftleft
+all 6 8765
+print
+shiftright
+shiftleft
+shiftright
+swap 3 0
+swap 1 4
+shiftright
+print
+print
+shiftleft
+print
+print
+shiftleft
+shiftright
+print
+clear
+clear
+place 5 12
+12 2 3 4 7 13 13 10 8 2 6 7
+shiftleft
+print
+shiftleft
+swap 2 6
+print
+print
+shiftleft
+swap 8 6
+print
+swap 3 9
+shiftleft
+place 5 9
+2 4 2 8 7 4 7 1 9
+print
+place 9 12
+11 1 10 11 10 10 2 13 1 1 11 9
+place 4 12
+10 7 8 9 1 2 3 3 1 12 12 11
+print
+swap 9 2
+shiftright
+swap 3 1
+shiftright
+shiftright
+shiftright
+swap 3 4
+shiftright
+shiftright
+swap 2 5
+place 5 12
+11 9 7 4 6 8 12 7 10 1 13 6
+swap 9 1
+swap 0 5
+print
+print
+shiftright
+shiftleft
+print
+swap 0 5
+print
+print
+place 8 12
+6 8 6 12 12 8 10 11 4 2 9 1
+place 4 6
+12 11 10 3 10 7
+swap 3 6
+shiftleft
+shiftleft
+place 9 5
+6 13 1 8 2
+place 3 10
+12 2 5 2 3 12 10 10 10 7
+shiftright
+swap 9 0
+clear
+print
+print
+place 4 16
+3 6 10 6 9 12 7 6 13 3 12 8 1 1 1 10
+shiftleft
+swap 2 6
+shiftleft
+shiftright
+place 7 6
+11 13 10 11 9 1
+print
+swap 9 0
+print
+swap 2 7
+place 2 7
+13 10 6 12 7 5 9
+swap 1 3
+shiftright
+swap 8 0
+shiftright
+shiftright
+place 3 9
+12 9 12 8 6 2 5 3 8
+swap 2 3
+place 8 16
+7 3 12 9 11 8 6 5 5 3 9 5 11 8 6 6
+shiftleft
+place 3 17
+12 13 4 8 7 11 9 9 9 8 8 2 10 6 5 2 8
+shiftleft
+print
+swap 4 6
+swap 9 4
+shiftleft
+swap 6 9
+clear
+shiftright
+print
+shiftright
+print
+print
+shiftleft
+shiftright
+shiftleft
+clear
+place 4 8
+7 4 3 13 2 3 8 9
+print
+place 5 5
+8 2 4 5 7
+shiftright
+shiftright
+swap 9 4
+place 1 1
+8
+place 5 16
+2 11 9 6 11 3 10 13 2 6 9 9 1 12 5 7
+shiftleft
+swap 6 8
+place 2 17
+6 12 8 3 2 1 6 4 11 6 9 9 7 7 7 1 13
+place 4 9
+10 5 4 4 10 3 7 12 10
+swap 5 7
+swap 6 1
+shiftleft
+place 5 9
+6 13 7 5 9 3 13 8 5
+shiftleft
+shiftleft
+shiftleft
+shiftright
+shiftleft
+print
+print
+shiftleft
+swap 9 6
+shiftleft
+print
+shiftright
+print
+shiftright
+clear
+shiftright
+shiftleft
+print
+print
+print
+place 0 16
+9 1 9 6 13 10 6 3 9 4 7 4 5 7 8 9
+print
+place 2 6
+4 10 7 7 2 10
+shiftleft
+swap 7 3
+swap 4 2
+swap 3 9
+place 5 8
+12 5 6 12 5 12 11 5
+place 7 14
+3 5 1 5 12 11 13 7 5 10 12 8 4 5
+swap 9 4
+place 6 8
+10 8 1 7 12 1 13 6
+shiftright
+swap 9 3
+shiftright
+shiftright
+swap 7 4
+place 6 15
+5 9 10 2 1 3 13 2 6 3 1 13 5 9 8
+swap 2 7
+swap 6 2
+place 7 19
+12 1 6 11 13 4 13 6 5 7 4 4 10 12 5 3 5 11 1
+swap 6 8
+print
+place 0 9
+10 7 2 3 5 5 12 7 8
+place 6 11
+1 3 9 5 12 13 12 4 8 3 10
+shiftleft
+shiftright
+shiftleft
+shiftleft
+shiftright
+shiftright
+swap 1 9
+swap 0 9
+clear
+place 9 4
+10 5 4 13
+print
+shiftleft
+print
+swap 7 9
+swap 6 1
+place 6 12
+10 13 13 13 13 1 2 2 6 4 2 10
+place 4 15
+6 13 2 6 10 12 3 11 8 12 5 3 5 10 12
+shiftleft
+shiftleft
+shiftright
+place 8 1
+7
+place 5 20
+2 11 13 3 4 4 5 2 2 1 11 7 4 3 5 8 11 12 2 9
+shiftright
+swap 9 4
+print
+swap 4 2
+shiftleft
+place 9 2
+11 10
+swap 3 5
+shiftright
+shiftleft
+shiftright
+shiftleft
+print
+shiftleft
+shiftright
+shiftleft
+shiftleft
+shiftleft
+swap 3 9
+shiftright
+shiftright
+shiftleft
+print
+shiftright
+shiftleft
+swap 1 6
+print
+place 0 1
+11
+shiftleft
+shiftleft
+place 7 7
+1 2 7 5 11 10 7
+place 2 6
+4 1 11 10 11 13
+swap 9 5
+shiftleft
+place 1 4
+8 7 6 7
+shiftright
+swap 7 4
+print
+print
+print
+print
+shiftleft
+swap 0 9
+all 3 3004
+swap 4 1
+shiftleft
+swap 9 1
+print
+swap 4 3
+place 1 6
+4 13 8 8 9 6
+shiftleft
+print
+place 9 11
+11 10 11 8 8 10 3 8 10 5 13
+all 2 7510
+print
+swap 5 6
+place 3 6
+12 12 1 13 12 12
+shiftleft
+shiftleft
+shiftright
+swap 5 3
+place 1 10
+13 5 7 9 13 2 11 10 3 4
+shiftleft
+shiftleft
+all 4 7809
+shiftleft
+swap 6 1
+place 4 11
+7 6 11 2 5 11 5 8 1 13 13
+swap 0 1
+print
+swap 8 0
+shiftright
+place 2 3
+6 2 12
+swap 7 6
+print
+swap 3 1
+place 8 18
+7 12 11 9 8 6 9 12 6 9 11 8 7 5 11 4 1 2
+swap 1 5
+swap 0 5
+swap 0 2
+shiftleft
+shiftleft
+shiftright
+shiftright
+shiftleft
+place 4 9
+13 13 10 11 7 10 8 1 3
+shiftright
+print
+shiftleft
+place 0 18
+1 2 3 10 13 13 9 11 12 8 7 12 9 6 7 13 8 1
+shiftleft
+shiftright
+swap 3 0
+shiftleft
+shiftleft
+swap 6 8
+shiftright
+print
+shiftright
+shiftleft
+swap 5 4
+shiftright
+print
+swap 3 9
+swap 7 3
+print
+swap 9 1
+print
+place 2 19
+2 13 12 13 9 13 11 12 6 7 1 8 7 12 6 3 6 2 3
+shiftleft
+swap 1 5
+place 4 16
+13 10 9 5 7 9 2 1 2 7 2 5 13 8 8 6
+shiftright
+shiftleft
+shiftleft
+shiftright
+shiftright
+shiftright
+swap 9 7
+print
+print
+shiftright
+shiftright
+shiftright
+shiftleft
+shiftleft
+shiftright
+shiftleft
+shiftleft
+place 1 14
+8 11 8 11 9 7 10 2 11 1 2 8 2 3
+print
+place 7 3
+11 10 8
+shiftright
+swap 8 6
+swap 9 4
+place 3 7
+11 3 10 12 6 10 11
+place 4 8
+4 12 7 13 8 4 5 10
+shiftleft
+shiftright
+swap 3 7
+shiftleft
+place 8 9
+2 10 6 1 2 4 12 1 13
+place 0 19
+6 8 5 2 12 5 11 13 4 3 5 13 11 1 5 5 1 2 4
+shiftleft
+shiftleft
+shiftright
+print
+swap 5 7
+place 5 2
+11 8
+shiftleft
+shiftleft
+place 8 16
+8 7 5 3 6 3 5 8 12 5 11 3 3 1 7 5
+place 8 3
+4 6 10
+swap 2 7
+swap 2 4
+shiftleft
+swap 2 8
+print
+shiftleft
+shiftleft
+place 6 12
+13 13 11 2 10 2 3 10 1 8 2 1
+shiftright
+swap 2 5
+place 8 4
+4 5 12 7
+shiftright
+print
+shiftright
+shiftright
+shiftleft
+shiftright
+shiftleft
+print
+print
+shiftright
+shiftleft
+all 2 5189
+swap 3 9
+print
+shiftright
+swap 1 6
+place 3 4
+7 6 4 12
+shiftleft
+shiftright
+shiftleft
+place 0 20
+7 2 10 11 6 2 9 9 9 10 9 2 1 3 4 4 8 12 11 1
+swap 8 7
+swap 3 2
+place 3 19
+12 3 11 4 2 12 3 10 13 5 7 4 13 9 8 13 12 3 9
+swap 0 6
+print
+all 6 6094
+shiftleft
+shiftleft
+place 9 15
+12 9 6 9 6 5 13 11 7 9 13 11 3 6 9
+place 4 18
+9 12 7 1 12 6 10 11 3 10 8 2 9 9 5 10 9 8
+swap 5 6
+place 2 1
+3
+place 3 17
+11 4 6 5 8 4 5 9 3 4 7 10 6 12 4 8 1
+print
+print
+place 7 17
+4 13 11 12 7 4 13 10 9 13 6 10 3 5 13 9 1
+swap 0 2
+shiftleft
+place 5 5
+3 9 3 8 5
+place 4 14
+13 3 6 13 11 3 4 8 5 11 11 13 5 9
+place 9 9
+8 1 7 13 12 4 13 5 12
+place 1 7
+6 2 7 13 6 13 6
+shiftright
+shiftleft
+swap 1 2
+place 7 3
+6 6 6
+place 0 2
+7 4
+shiftleft
+all 1 5107
+shiftleft
+shiftleft
+print
+shiftright
+swap 0 6
+place 9 4
+3 1 2 3
+shiftleft
+print
+print
+shiftleft
+clear
+place 6 5
+11 2 12 10 12
+place 5 17
+6 1 5 11 10 5 1 12 3 11 3 2 13 5 11 1 13
+place 7 7
+11 5 13 8 13 13 5
+shiftright
+swap 9 1
+shiftright
+swap 0 5
+swap 8 0
+shiftright
+shiftright
+print
+print
+print
+shiftright
+shiftleft
+print
+shiftright
+shiftleft
+shiftright
+print
+shiftright
+print
+swap 4 9
+print
+place 1 14
+13 4 13 2 3 4 7 13 2 3 12 13 13 9
+shiftright
+place 8 17
+9 3 3 7 3 1 2 8 5 6 10 1 9 3 10 5 11
+print
+print
+place 0 18
+4 10 12 4 11 6 11 8 3 13 7 2 1 12 7 10 11 7
+place 7 1
+2
+place 3 3
+2 5 2
+shiftleft
+print
+swap 7 2
+shiftright
+shiftleft
+swap 5 1
+place 5 5
+3 11 3 1 8
+swap 1 8
+place 4 12
+8 13 1 11 2 3 8 7 3 8 1 10
+print
+print
+clear
+shiftright
+clear
+place 2 3
+1 9 4
+shiftleft
+shiftleft
+swap 1 3
+print
+print
+swap 1 3
+print
+all 3 1360
+print
+place 4 1
+11
+shiftleft
+swap 0 2
+place 4 20
+6 3 2 7 4 13 13 11 9 9 11 7 11 10 7 8 13 6 11 13
+shiftright
+shiftleft
+shiftright
+print
+print
+shiftright
+all 4 5245
+shiftright
+print
+place 3 10
+13 9 1 11 11 5 12 6 6 12
+shiftright
+place 3 15
+4 1 7 7 8 5 3 5 10 9 3 7 5 8 12
+print
+shiftleft
+print
+clear
+swap 0 8
+place 0 20
+12 9 11 7 9 7 10 9 12 6 3 1 6 13 12 5 13 13 2 13
+place 1 5
+5 2 13 3 7
+place 9 10
+2 8 12 4 3 2 11 9 13 5
+shiftright
+print
+print
+shiftright
+place 2 11
+5 2 9 4 6 5 5 12 8 6 7
+shiftleft
+swap 7 3
+swap 0 2
+shiftright
+place 6 10
+9 12 3 8 4 12 10 6 11 3
+place 7 1
+7
+shiftleft
+shiftright
+shiftleft
+swap 1 8
+shiftright
+shiftleft
+shiftright
+shiftright
+shiftleft
+shiftleft
+shiftright
+shiftleft
+print
+place 5 16
+1 4 7 11 2 7 12 5 9 4 10 2 2 13 8 9
+print
+shiftleft
+print
+shiftright
+shiftright
+print
+shiftleft
+shiftleft
+swap 5 2
+swap 3 7
+place 5 7
+3 7 13 10 7 9 3
+shiftleft
+print
+swap 0 7
+place 0 10
+7 6 6 9 1 1 12 3 2 4
+print
+swap 2 1
+swap 5 3
+print
+place 2 3
+12 10 7
+shiftleft
+print
+place 8 18
+13 10 10 6 2 3 2 13 11 1 10 12 8 10 11 5 6 2
+swap 0 6
+shiftleft
+swap 5 4
+shiftright
+print
+print
+shiftleft
+swap 9 4
+clear
+shiftright
+print
+shiftleft
+print
+print
+place 0 5
+8 3 8 7 11
+shiftright
+place 2 3
+7 12 12
+all 8 2156
+clear
+shiftleft
+place 7 6
+7 10 9 10 10 7
+shiftright
+shiftleft
+shiftleft
+place 3 1
+1
+shiftright
+print
+print
+shiftleft
+shiftleft
+print
+shiftleft
+place 1 9
+9 11 11 7 3 7 10 12 5
+place 5 6
+10 9 4 7 3 10
+swap 3 4
+swap 0 9
+shiftleft
+shiftleft
+print
+place 6 8
+10 1 12 4 4 2 6 3
+swap 3 5
+swap 0 9
+shiftright
+print
+place 7 15
+6 11 11 2 3 13 2 12 8 12 1 6 13 10 3
+shiftleft
+shiftleft
+swap 3 1
+all 6 614
+print
+print
+swap 9 2
+place 0 14
+2 9 3 6 12 10 2 3 1 1 3 9 13 2
+print
+swap 8 9
+shiftleft
+shiftleft
+shiftright
+shiftright
+shiftright
+place 1 7
+2 4 10 1 12 12 1
+print
+shiftleft
+print
+place 9 18
+11 12 11 5 3 1 12 11 3 7 8 12 6 7 6 7 7 6
+swap 6 7
+place 1 9
+5 8 2 8 9 3 10 5 13
+print
+print
+place 1 12
+5 2 1 2 6 4 6 4 10 9 1 2
+swap 0 5
+shiftright
+swap 8 9
+shiftleft
+print
+shiftright
+print
+shiftleft
+shiftleft
+print
+swap 4 8
+place 8 12
+10 7 11 5 8 1 13 6 1 6 1 5
+all 11 5544
+shiftright
+shiftleft
+swap 6 9
+place 9 5
+11 4 9 5 4
+shiftleft
+place 8 8
+3 1 4 10 4 13 4 11
+shiftright
+shiftleft
+swap 4 7
+shiftright
+swap 0 3
+swap 7 6
+place 3 11
+3 8 11 11 12 8 10 9 1 5 12
+shiftright
+shiftright
+swap 3 7
+shiftleft
+print
+shiftright
+print
+all 4 490
+shiftright
+shiftleft
+shiftright
+place 0 6
+4 11 7 9 10 10
+shiftleft
+place 7 4
+3 6 8 2
+swap 9 3
+print
+place 5 19
+4 4 12 8 11 12 6 13 10 2 12 3 1 8 2 3 4 5 8
+shiftleft
+shiftright
+shiftright
+print
+print
+shiftleft
+swap 2 3
+print
+shiftleft
+print
+swap 5 0
+shiftleft
+shiftright
+swap 9 1
+print
+swap 7 0
+place 9 15
+7 13 6 1 7 2 11 8 12 8 2 12 11 11 10
+place 4 12
+10 3 3 4 10 2 7 2 5 5 9 8
+place 0 6
+7 11 1 7 1 2
+shiftright
+place 5 2
+6 2
+shiftright
+place 0 3
+10 13 11
+shiftleft
+place 5 9
+4 8 4 11 12 7 4 9 11
+shiftleft
+swap 3 9
+print
+swap 1 6
+swap 7 1
+place 8 9
+2 12 5 8 3 4 10 8 12
+place 3 13
+7 11 6 12 9 12 5 1 5 4 12 6 11
+print
+shiftleft
+place 1 5
+1 13 1 2 10
+shiftleft
+shiftleft
+place 8 12
+13 13 3 3 7 3 7 3 4 9 7 12
+print
+shiftright
+swap 1 5
+swap 7 4
+print
+shiftright
+swap 7 9
+shiftright
+print
+print
+shiftleft
+swap 2 4
+swap 0 8
+shiftright
+place 1 11
+1 5 1 10 9 10 4 2 4 4 9
+shiftright
+print
+print
+print
+shiftleft
+shiftleft
+shiftright
+shiftleft
+shiftright
+print
+shiftleft
+place 5 12
+10 12 10 2 12 1 2 4 8 10 1 9
+swap 4 9
+swap 8 2
+print
+print
+shiftright
+swap 1 6
+place 1 4
+10 1 3 9
+shiftright
+swap 6 2
+place 6 4
+8 12 2 11
+shiftleft
+swap 6 2
+shiftright
+shiftleft
+shiftright
+swap 9 0
+swap 7 4
+shiftright
+swap 7 3
+swap 4 0
+print
+shiftright
+print
+shiftleft
+swap 9 6
+place 5 4
+5 5 6 12
+shiftright
+place 2 3
+8 4 4
+swap 7 1
+place 1 14
+7 11 13 9 11 12 7 11 1 2 1 5 9 6
+place 4 10
+4 12 10 12 5 4 3 1 4 11
+print
+shiftleft
+shiftright
+swap 4 5
+print
+swap 8 6
+print
+shiftleft
+swap 7 2
+place 1 14
+7 7 8 2 6 3 6 7 2 10 10 7 7 13
+swap 7 9
+shiftleft
+shiftleft
+print
+swap 9 3
+shiftleft
+clear
+place 8 5
+10 6 9 9 11
+shiftleft
+swap 7 1
+shiftright
+shiftright
+swap 4 5
+print
+shiftleft
+place 0 6
+7 11 6 12 7 12
+shiftright
+shiftright
+swap 4 0
+print
+shiftleft
+swap 9 7
+swap 0 9
+shiftleft
+place 9 8
+9 3 6 5 11 5 1 13
+shiftright
+print
+print
+print
+print
+shiftright
+swap 1 9
+swap 5 6
+print
+swap 9 8
+swap 1 5
+shiftright
+place 3 6
+8 12 4 12 10 13
+shiftleft
+swap 5 8
+shiftright
+clear
+shiftright
+place 7 18
+9 3 3 10 7 2 6 3 8 9 5 8 12 12 11 7 5 1
+print
+shiftright
+swap 0 7
+place 8 19
+1 12 9 13 13 6 3 9 2 13 7 4 5 9 9 2 4 2 9
+place 3 12
+4 8 13 2 2 8 8 10 4 1 8 3
+swap 4 6
+shiftleft
+shiftleft
+shiftright
+swap 2 9
+print
+shiftright
+shiftleft
+shiftleft
+shiftright
+swap 6 3
+print
+shiftleft
+shiftright
+swap 7 6
+swap 4 8
+shiftright
+shiftleft
+place 4 5
+3 3 3 9 9
+swap 2 7
+shiftleft
+shiftleft
+shiftright
+all 8 7117
+place 5 11
+5 5 1 1 2 3 4 12 9 6 13
+print
+swap 8 2
+print
+place 3 7
+5 1 7 2 6 4 12
+swap 8 5
+shiftleft
+all 2 8435
+place 2 12
+8 8 1 13 13 8 10 10 3 2 6 13
+place 7 12
+9 13 9 6 1 5 7 4 11 10 2 13
+print
+place 0 9
+5 1 13 3 8 3 4 11 6
+print
+swap 4 7
+place 0 12
+10 12 3 2 4 3 7 9 9 12 12 2
+print
+swap 2 8
+print
+place 2 12
+13 11 12 9 8 7 13 13 11 7 6 9
+shiftright
+print
+print
+shiftleft
+shiftleft
+place 5 5
+8 6 2 1 6
+shiftleft
+shiftleft
+print
+shiftleft
+print
+print
+print
+place 5 19
+6 4 8 11 5 9 1 9 4 12 10 2 10 7 1 4 9 4 2
+swap 0 2
+shiftright
+print
+place 9 10
+6 11 11 2 8 8 12 3 9 2
+place 5 19
+5 4 8 12 11 5 7 12 13 10 8 7 2 1 9 10 1 4 2
+place 5 13
+3 6 9 4 8 1 13 6 7 8 7 7 4
+place 7 18
+11 5 10 4 3 10 9 11 8 12 11 10 2 13 11 6 2 8
+print
+print
+shiftright
+shiftright
+shiftleft
+swap 6 9
+shiftright
+shiftleft
+place 4 11
+6 9 4 1 12 5 10 11 10 2 5
+print
+place 0 15
+7 13 10 9 1 5 10 11 7 5 1 10 12 7 1
+shiftright
+swap 3 5
+shiftright
+shiftleft
+shiftright
+print
+shiftright
+place 6 20
+4 5 12 1 12 8 7 7 7 5 7 7 2 12 3 3 4 12 11 7
+swap 6 0
+swap 7 1
+place 2 3
+9 1 13
+shiftleft
+swap 2 5
+print
+place 2 5
+4 2 10 11 4
+shiftleft
+clear
+swap 6 9
+shiftright
+all 8 7289
+print
+shiftleft
+shiftleft
+swap 1 2
+print
+swap 7 9
+shiftleft
+swap 2 4
+place 3 8
+4 10 5 3 8 6 10 3
+shiftleft
+place 0 10
+7 1 8 2 7 7 12 9 3 8
+place 7 14
+1 13 9 2 2 4 2 9 3 11 12 4 8 3
+shiftright
+shiftleft
+swap 3 8
+print
+swap 1 4
+place 6 10
+9 8 6 6 13 13 10 5 8 4
+shiftleft
+swap 5 2
+print
+place 0 20
+3 1 11 4 5 3 7 11 10 12 7 11 13 11 4 2 1 5 3 4
+shiftleft
+place 0 11
+2 5 11 11 8 7 3 2 1 2 6
+shiftright
+print
+shiftright
+swap 1 2
+shiftleft
+place 2 16
+3 3 3 10 9 8 7 11 9 1 5 1 2 7 9 8
+shiftleft
+shiftleft
+print
+place 1 17
+9 9 9 13 7 7 6 4 6 10 12 9 3 6 10 7 3
+shiftright
+shiftleft
+print
+print
+shiftright
+shiftleft
+shiftleft
+shiftright
+swap 6 3
+shiftright
+print
+shiftleft
+shiftright
+place 8 16
+7 8 13 2 6 10 8 1 10 2 4 5 11 4 1 13
+swap 4 9
+shiftright
+shiftright
+place 8 3
+8 9 4
+swap 1 7
+swap 2 8
+shiftright
+print
+print
+all 5 8561
+print
+clear
+shiftright
+print
+clear
+shiftright
+shiftleft
+swap 1 5
+clear
+shiftleft
+all 6 6241
+swap 5 2
+shiftright
+print
+print
+place 2 20
+8 2 8 2 6 2 1 1 5 11 1 10 8 6 8 3 8 7 8 9
+swap 9 1
+swap 9 6
+place 5 8
+3 6 11 13 5 12 4 9
+shiftleft
+shiftleft
+swap 8 0
+shiftright
+swap 0 7
+print
+clear
+print
+swap 5 0
+shiftright
+shiftright
+shiftleft
+place 9 13
+3 11 10 5 5 7 2 7 13 6 6 1 3
+shiftleft
+shiftright
+shiftleft
+print
+shiftleft
+swap 2 3
+place 6 14
+5 12 3 3 5 8 10 10 9 6 6 5 8 11
+print
+swap 3 5
+swap 7 3
+shiftright
+place 4 18
+12 2 9 6 5 12 11 8 10 4 11 9 6 9 2 13 10 3
+shiftleft
+shiftright
+clear
+print
+all 5 7237
+shiftleft
+place 3 8
+9 1 11 13 9 9 12 5
+swap 6 0
+shiftleft
+place 6 14
+9 13 5 10 5 2 4 10 9 12 13 2 1 6
+place 8 7
+8 5 5 11 8 1 5
+all 13 191
+shiftleft
+place 0 6
+2 6 13 5 10 5
+shiftleft
+shiftright
+print
+shiftright
+print
+shiftleft
+print
+shiftleft
+swap 0 3
+shiftright
+shiftleft
+swap 2 8
+place 3 3
+8 10 10
+swap 8 1
+swap 2 5
+print
+shiftright
+shiftleft
+shiftright
+shiftleft
+shiftright
+shiftright
+print
+print
+print
+shiftright
+shiftleft
+print
+print
+place 9 16
+2 12 3 1 2 9 7 10 13 12 2 1 5 3 8 2
+shiftright
+shiftleft
+shiftright
+shiftright
+place 7 14
+3 6 5 12 9 12 5 10 3 12 10 6 5 3
+shiftleft
+print
+shiftright
+shiftleft
+print
+swap 1 4
+shiftright
+place 2 1
+9
+place 4 4
+7 1 2 2
+print
+shiftleft
+place 8 2
+9 9
+shiftleft
+print
+print
+shiftleft
+swap 4 1
+shiftright
+shiftright
+swap 7 6
+shiftright
+shiftright
+all 7 882
+place 1 20
+9 2 12 10 2 4 4 2 4 3 6 10 7 6 9 7 2 5 6 8
+shiftright
+print
+place 3 8
+3 1 9 9 2 10 9 4
+swap 9 5
+clear
+shiftright
+shiftright
+place 3 7
+1 4 8 1 1 8 9
+swap 6 4
+shiftright
+print
+shiftleft
+shiftright
+shiftright
+shiftleft
+shiftleft
+shiftright
+swap 6 0
+shiftright
+print
+shiftleft
+swap 9 8
+shiftleft
+shiftleft
+shiftright
+shiftright
+print
+print
+place 6 11
+7 8 13 2 4 4 6 1 3 13 9
+shiftleft
+shiftleft
+swap 9 2
+place 7 8
+10 12 3 7 8 7 8 9
+shiftleft
+shiftleft
+place 3 13
+10 1 5 4 2 3 10 13 10 11 8 2 5
+place 2 18
+1 4 13 5 11 11 1 9 6 7 9 9 4 9 12 5 6 8
+place 0 15
+11 3 2 12 7 9 13 9 9 6 6 9 10 12 1
+print
+shiftright
+place 8 14
+3 10 6 7 6 7 5 12 2 1 9 6 13 1
+print
+shiftleft
+shiftleft
+place 0 5
+6 8 2 10 13
+place 2 10
+3 4 13 9 9 13 6 7 4 2
+swap 6 8
+swap 6 1
+shiftleft
+shiftright
+all 10 9352
+print
+swap 0 9
+shiftleft
+shiftright
+shiftright
+place 8 12
+7 10 7 8 13 7 13 12 2 5 4 7
+place 9 3
+8 10 13
+all 4 9949
+shiftleft
+shiftleft
+swap 0 9
+shiftright
+shiftright
+shiftleft
+shiftright
+swap 9 0
+print
+swap 5 7
+place 8 1
+1
+place 3 6
+9 13 11 13 4 11
+shiftleft
+print
+place 2 7
+13 8 4 11 3 9 1
+print
+shiftright
+shiftright
+shiftright
+swap 3 5
+shiftleft
+print
+all 2 4192
+shiftright
+shiftright
+swap 6 4
+shiftleft
+swap 6 1
+place 7 14
+8 7 7 4 2 4 3 10 5 10 2 10 2 10
+shiftleft
+swap 0 1
+print
+print
+shiftleft
+place 7 3
+4 11 9
+shiftleft
+print
+print
+swap 6 5
+shiftleft
+print
+shiftleft
+place 8 13
+4 1 8 10 10 12 4 6 8 11 3 11 9
+shiftright
+shiftleft
+swap 6 4
+shiftleft
+shiftleft
+print
+shiftleft
+place 9 7
+13 2 9 10 1 4 8
+place 4 10
+6 12 7 4 12 3 5 13 4 10
+print
+place 1 18
+11 5 3 9 13 13 5 7 6 13 11 10 10 4 6 6 9 2
+shiftright
+shiftleft
+print
+swap 2 8
+print
+print
+clear
+place 4 16
+6 2 9 4 2 3 11 11 5 6 13 3 12 7 10 2
+shiftleft
+swap 5 0
+print
+all 2 8500
+swap 3 4
+place 5 2
+4 1
+print
+clear
+shiftleft
+shiftleft
+place 8 4
+1 8 8 9
+shiftright
+shiftleft
+print
+print
+place 6 10
+5 7 9 5 8 9 1 10 1 9
+shiftleft
+shiftright
+shiftleft
+shiftleft
+shiftleft
+swap 8 9
+print
+swap 0 3
+print
+shiftleft
+place 2 2
+5 6
+place 6 2
+1 1
+print
+swap 4 6
+all 4 6344
+shiftright
+swap 2 1
+shiftright
+print
+shiftleft
+shiftright
+shiftleft
+place 5 2
+3 11
+shiftleft
+shiftleft
+place 7 5
+12 10 10 11 9
+print
+place 4 11
+5 13 1 8 1 5 1 3 13 8 8
+shiftleft
+print
+print
+place 4 2
+2 6
+place 8 1
+11
+place 5 4
+3 2 4 2
+place 5 3
+12 10 11
+place 0 12
+13 7 11 3 4 13 7 5 13 1 10 2
+place 0 6
+6 12 8 6 4 9
+shiftright
+shiftleft
+swap 7 0
+place 7 20
+3 10 12 5 13 7 1 13 2 12 10 1 2 13 13 3 2 2 13 11
+place 6 14
+5 10 7 9 8 11 7 10 4 7 7 4 7 12
+clear
+swap 4 9
+place 1 16
+12 10 1 11 7 11 4 5 5 11 8 11 6 9 2 9
+shiftright
+swap 0 8
+shiftright
+shiftright
+swap 5 8
+shiftright
+swap 0 6
+shiftleft
+shiftleft
+shiftright
+swap 0 8
+place 8 17
+2 7 10 13 1 8 10 9 9 4 9 13 12 4 12 3 2
+swap 2 7
+shiftleft
+print
+shiftright
+place 2 18
+5 9 4 7 8 12 7 8 13 12 3 6 12 11 11 4 3 1
+shiftleft
+place 6 15
+2 4 9 4 11 13 13 4 12 7 1 2 1 3 13
+place 2 15
+11 5 4 10 2 1 8 12 12 2 12 7 1 2 2
+print
+print
+shiftleft
+print
+shiftright
+shiftleft
+shiftleft
+swap 4 0
+shiftright
+swap 9 2
+shiftleft
+print
+place 2 9
+8 9 4 4 5 9 10 9 5
+swap 7 5
+shiftleft
+place 4 13
+4 1 13 2 12 13 3 5 2 5 3 9 12
+place 2 1
+12
+place 0 15
+4 10 11 4 9 13 4 10 9 1 5 5 1 9 9
+swap 5 7
+swap 0 4
+print
+shiftleft
+shiftright
+print
+shiftright
+place 3 13
+4 8 2 9 7 8 1 7 10 8 9 13 2
+shiftleft
+print
+print
+place 6 3
+11 8 10
+print
+place 1 1
+4
+all 5 1383
+place 0 14
+6 13 9 8 1 2 8 8 1 10 11 6 2 6
+place 0 1
+8
+swap 9 4
+shiftright
+shiftright
+shiftright
+swap 2 4
+shiftright
+print
+shiftleft
+shiftright
+shiftright
+print
+print
+shiftleft
+place 2 16
+8 4 5 13 11 1 1 9 11 12 12 9 13 8 8 3
+swap 6 4
+shiftright
+place 2 6
+9 3 10 13 7 9
+swap 4 3
+print
+print
+shiftright
+place 3 17
+1 7 4 5 4 4 7 6 8 9 11 2 9 7 10 9 1
+place 4 8
+6 12 13 6 4 13 13 3
+place 9 7
+4 3 13 2 12 7 12
+shiftright
+print
+swap 5 2
+print
+place 4 11
+11 11 3 3 8 1 3 8 12 3 12
+swap 9 7
+shiftleft
+print
+print
+shiftright
+swap 4 0
+shiftright
+shiftright
+shiftright
+place 2 11
+5 2 2 3 8 3 8 8 7 7 4
+swap 3 8
+shiftright
+place 3 4
+11 4 1 5
+print
+swap 9 1
+swap 0 6
+shiftleft
+shiftleft
+shiftright
+place 5 14
+1 12 10 12 5 11 9 10 6 10 4 7 12 7
+swap 6 0
+swap 3 8
+swap 1 2
+place 9 8
+1 8 8 9 6 3 1 10
+print
+place 4 20
+4 4 7 13 4 3 2 8 11 3 5 3 12 11 11 5 3 11 12 6
+shiftright
+print
+print
+swap 4 9
+shiftleft
+place 6 9
+4 9 8 5 10 11 3 4 8
+print
+swap 6 5
+shiftright
+print
+swap 7 4
+swap 7 4
+shiftleft
+shiftleft
+place 7 14
+7 9 4 10 5 1 8 2 1 4 1 2 12 8
+print
+print
+shiftleft
+shiftleft
+clear
+shiftleft
+place 1 4
+9 10 13 11
+swap 6 7
+swap 5 4
+swap 8 1
+shiftleft
+shiftright
+print
+place 0 17
+13 13 7 2 7 9 6 9 4 13 2 3 1 11 4 13 8
+shiftleft
+clear
+print
+all 8 6212
+print
+shiftleft
+shiftleft
+place 2 9
+11 11 11 11 1 1 3 2 11
+swap 6 7
+all 6 9346
+swap 4 2
+print
+all 12 6353
+swap 9 5
+swap 7 4
+swap 4 8
+shiftleft
+place 2 12
+6 4 1 3 3 8 9 10 12 4 2 13
+shiftleft
+print
+place 1 20
+3 4 11 4 5 12 4 10 9 5 4 1 1 9 8 6 10 9 7 9
+shiftright
+print
+print
+shiftleft
+print
+swap 7 6
+swap 5 7
+place 9 7
+7 2 8 3 12 11 10
+place 2 13
+3 8 12 3 5 9 3 8 6 4 1 10 10
+shiftright
+swap 5 3
+swap 3 6
+place 2 9
+6 5 12 3 12 2 11 7 1
+swap 7 0
+shiftleft
+shiftleft
+swap 8 9
+shiftright
+clear
+shiftleft
+print
+swap 4 5
+all 1 1825
+swap 2 7
+shiftright
+shiftleft
+swap 7 4
+place 5 1
+13
+shiftright
+shiftright
+place 8 7
+8 4 6 11 6 4 9
+shiftleft
+swap 7 3
+clear
+place 8 18
+5 8 6 2 2 9 13 2 4 3 4 12 1 10 9 2 12 12
+print
+shiftright
+place 8 16
+10 3 10 13 1 9 8 8 9 4 7 10 11 1 1 2
+print
+print
+place 0 19
+7 12 10 10 4 10 7 1 3 4 9 11 7 9 5 4 12 3 13
+shiftright
+print
+place 1 4
+3 1 2 13
+print
+shiftleft
+place 9 13
+12 1 10 11 5 10 13 1 1 12 12 2 9
+shiftright
+swap 0 1
+swap 2 4
+shiftright
+shiftright
+place 5 5
+3 4 1 2 6
+print
+place 4 2
+9 9
+shiftleft
+shiftleft
+print
+shiftleft
+swap 8 4
+swap 8 6
+shiftright
+print
+shiftleft
+swap 7 5
+shiftleft
+all 9 7719
+swap 5 9
+swap 7 2
+shiftright
+shiftright
+swap 4 3
+shiftright
+shiftright
+print
+shiftright
+place 3 18
+13 1 6 11 10 1 9 10 8 11 4 1 5 9 4 1 12 4
+swap 5 9
+shiftleft
+swap 6 5
+swap 7 8
+shiftleft
+place 0 5
+7 6 9 4 8
+place 8 11
+6 13 13 6 2 11 6 4 6 10 8
+all 9 6535
+print
+shiftleft
+swap 6 1
+print
+shiftright
+print
+all 10 7527
+place 9 4
+13 5 8 12
+swap 1 4
+shiftright
+shiftleft
+place 4 8
+2 5 3 11 9 1 12 2
+shiftleft
+place 1 19
+3 11 7 1 13 5 9 13 2 1 12 1 2 3 4 9 9 5 12
+swap 4 0
+print
+shiftright
+swap 5 8
+place 4 6
+12 12 13 3 7 1
+print
+shiftright
+place 1 16
+1 9 4 2 4 4 8 13 3 1 3 1 13 8 10 5
+place 4 6
+12 7 6 13 8 7
+shiftleft
+shiftleft
+shiftleft
+print
+swap 4 7
+all 3 9611
+swap 4 8
+place 9 15
+7 9 11 13 11 1 7 2 7 9 11 13 12 3 2
+place 9 6
+12 6 2 3 9 12
+shiftright
+swap 9 2
+shiftright
+place 4 8
+6 7 11 6 3 11 5 12
+shiftright
+place 9 20
+7 11 9 10 13 3 10 6 2 3 7 3 10 13 6 9 8 2 13 5
+place 4 16
+2 5 12 5 1 5 4 11 1 9 4 10 7 13 1 8
+place 4 9
+5 6 6 3 5 11 12 8 5
+print
+swap 9 8
+swap 3 1
+swap 8 9
+shiftleft
+print
+swap 2 5
+place 7 13
+3 4 3 1 4 6 10 12 5 5 7 1 7
+shiftright
+print
+shiftleft
+place 4 14
+1 6 13 3 5 11 4 13 3 2 6 12 6 13
+swap 4 3
+swap 0 8
+swap 1 6
+place 5 3
+12 2 3
+shiftright
+shiftright
+shiftright
+swap 9 3
+place 8 2
+3 1
+swap 0 2
+print
+shiftleft
+shiftleft
+place 7 13
+2 1 11 11 13 9 6 1 9 5 9 9 11
+shiftright
+shiftleft
+print
+place 7 16
+8 2 11 8 1 8 9 3 5 7 1 10 1 7 11 12
+clear
+shiftright
+print
+shiftright
+place 1 20
+7 1 4 2 9 6 11 1 7 6 12 8 11 1 9 11 1 12 9 4
+print
+shiftleft
+place 4 1
+7
+place 0 13
+4 6 5 3 6 9 9 4 4 2 6 5 12
+print
+shiftleft
+clear
+clear
+print
+shiftleft
+swap 2 1
+place 9 15
+2 13 1 13 3 12 9 10 10 1 9 1 2 7 7
+shiftright
+shiftright
+place 7 14
+11 11 1 5 9 8 7 1 6 12 13 10 10 10
+shiftright
+place 6 11
+13 9 11 4 5 4 2 10 6 3 11
+place 7 17
+9 11 2 12 5 1 5 5 2 5 11 9 12 13 9 13 13
+place 1 2
+6 11
+swap 6 1
+print
+shiftleft
+print
+swap 6 4
+swap 7 8
+place 3 11
+5 11 8 10 5 10 4 11 10 4 1
+swap 1 6
+swap 4 6
+shiftright
+print
+shiftright
+swap 2 9
+shiftright
+swap 9 8
+clear
+print
+print
+place 4 15
+11 13 10 12 6 10 11 4 13 9 9 5 5 9 2
+place 9 13
+5 11 6 5 1 7 5 4 7 12 4 11 3
+swap 2 1
+swap 4 5
+swap 0 7
+shiftleft
+print
+place 2 8
+3 8 11 2 10 5 7 1
+shiftright
+shiftleft
+print
+shiftleft
+place 6 18
+12 7 3 12 4 1 13 7 7 8 4 6 2 8 8 7 1 6
+place 0 6
+3 13 3 13 10 7
+shiftleft
+shiftright
+print
+shiftleft
+shiftright
+shiftleft
+place 3 4
+8 1 6 11
+swap 4 6
+shiftright
+shiftright
+shiftleft
+print
+place 9 2
+1 6
+print
+swap 6 5
+print
+shiftleft
+swap 7 8
+shiftright
+print
+shiftleft
+place 2 10
+4 12 1 11 10 3 13 9 7 9
+print
+clear
+swap 0 5
+print
+clear
+swap 5 0
+print
+print
+place 9 1
+12
+swap 1 9
+shiftright
+shiftright
+shiftleft
+shiftright
+swap 0 8
+swap 4 0
+print
+shiftright
+shiftright
+place 4 15
+10 1 1 8 12 5 9 3 7 3 6 8 1 4 3
+place 2 13
+12 5 9 3 4 6 3 12 2 8 8 2 7
+shiftleft
+swap 9 5
+shiftleft
+shiftright
+shiftleft
+shiftleft
+shiftleft
+print
+shiftleft
+print
+print
+shiftright
+print
+shiftleft
+shiftright
+shiftright
+shiftright
+shiftleft
+swap 4 5
+shiftleft
+print
+place 3 4
+7 7 13 12
+shiftleft
+shiftright
+shiftright
+swap 3 6
+print
+shiftright
+swap 6 7
+swap 3 4
+shiftright
+shiftright
+swap 4 0
+place 1 6
+9 8 12 6 10 4
+print
+swap 6 4
+shiftright
+shiftleft
+print
+place 0 9
+10 3 11 2 1 13 3 4 3
+swap 3 6
+shiftright
+shiftleft
+swap 6 5
+print
+shiftright
+place 9 16
+9 11 9 7 10 9 10 5 9 12 1 7 3 13 1 1
+print
+shiftleft
+shiftleft
+shiftright
+shiftleft
+swap 2 5
+place 9 10
+12 7 4 9 8 2 8 13 6 1
+place 6 7
+10 2 8 4 6 4 2
+print
+shiftright
+shiftright
+place 5 1
+9
+shiftright
+place 4 6
+7 8 1 3 5 9
+swap 1 3
+print
+swap 0 8
+shiftleft
+print
+place 4 15
+2 11 4 6 5 10 5 13 11 10 4 6 11 4 13
+print
+place 5 8
+3 1 6 11 5 13 6 2
+place 4 9
+8 2 6 3 6 5 9 5 12
+shiftright
+place 7 2
+6 5
+shiftright
+print
+place 8 12
+1 12 11 10 8 6 12 2 6 4 11 4
+swap 4 8
+place 3 16
+10 4 2 11 4 8 8 5 10 3 8 4 8 5 6 4
+place 7 15
+2 2 4 5 9 11 2 2 4 4 5 6 10 7 6
+print
+shiftleft
+shiftleft
+place 9 15
+12 11 9 7 2 10 7 7 11 13 7 4 4 3 8
+swap 0 9
+place 3 2
+5 6
+place 9 13
+6 6 10 7 11 12 12 5 13 2 1 1 6
+place 6 3
+7 2 12
+clear
+swap 3 2
+swap 7 6
+swap 5 7
+print
+shiftright
+place 8 2
+7 6
+clear
+shiftleft
+shiftleft
+print
+print
+print
+place 2 9
+8 13 6 11 12 5 10 7 3
+swap 6 9
+swap 1 5
+print
+swap 1 0
+shiftleft
+shiftleft
+place 9 5
+9 2 9 1 3
+clear
+shiftright
+shiftright
+place 4 5
+9 3 5 8 11
+place 4 9
+10 7 6 7 4 7 10 8 11
+shiftleft
+print
+swap 5 4
+shiftleft
+place 2 11
+2 12 1 1 1 9 10 2 13 5 5
+shiftleft
+print
+shiftleft
+print
+print
+shiftright
+place 6 11
+9 8 8 9 8 6 9 10 3 8 10
+shiftright
+shiftright
+place 8 13
+11 2 7 9 5 10 3 4 13 5 3 8 6
+all 5 2107
+print
+place 5 17
+7 12 4 10 13 6 6 4 6 11 9 9 6 9 10 2 9
+place 3 16
+6 13 3 1 2 4 7 9 3 6 4 3 7 8 11 7
+shiftright
+place 2 13
+2 13 9 10 9 3 3 8 3 4 7 6 10
+print
+print
+place 6 5
+2 10 13 6 2
+print
+shiftleft
+shiftleft
+shiftleft
+place 2 3
+13 13 13
+swap 1 4
+swap 3 4
+shiftright
+shiftleft
+place 1 6
+13 1 13 6 1 10
+shiftleft
+shiftright
+print
+print
+shiftleft
+print
+print
+shiftright
+shiftright
+print
+shiftright
+shiftleft
+shiftleft
+place 0 20
+6 9 1 10 4 9 10 5 1 10 7 12 10 13 10 11 1 10 4 12
+swap 1 0
+print
+place 2 7
+5 1 3 4 7 9 2
+place 3 2
+13 13
+shiftleft
+print
+print
+shiftleft
+shiftright
+swap 0 5
+print
+shiftleft
+place 1 16
+5 13 12 6 11 4 7 9 11 7 2 10 1 4 3 10
+all 11 6125
+swap 9 2
+swap 5 3
+print
+shiftright
+swap 0 1
+swap 8 5
+shiftleft
+print
+shiftright
+shiftright
+print
+swap 0 4
+print
+swap 7 3
+shiftright
+all 1 967
+place 3 15
+2 5 11 6 3 5 6 9 1 4 3 6 4 5 5
+place 4 12
+6 8 12 9 8 6 5 9 12 10 6 8
+swap 9 2
+place 8 7
+8 9 5 3 10 12 9
+shiftright
+swap 1 7
+print
+swap 6 7
+place 2 20
+4 3 5 5 5 4 5 1 10 10 3 11 4 9 10 10 7 1 9 5
+shiftright
+shiftright
+place 2 1
+11
+print
+place 3 4
+9 7 4 8
+swap 8 0
+place 1 13
+11 3 13 4 12 6 6 11 11 10 13 1 12
+swap 9 1
+print
+place 0 20
+13 10 3 10 5 9 11 7 13 13 4 11 6 9 9 4 5 9 12 5
+print
+place 7 10
+3 4 9 10 11 3 8 12 1 3
+print
+shiftleft
+place 5 16
+9 8 2 8 8 6 10 4 8 12 10 12 11 11 6 8
+shiftleft
+shiftright
+place 3 12
+11 13 4 13 2 9 11 7 5 3 11 5
+place 8 11
+12 5 4 13 12 6 8 5 5 6 2
+print
+swap 8 3
+clear
+swap 8 5
+shiftleft
+shiftleft
+shiftright
+shiftleft
+shiftleft
+swap 3 9
+clear
+shiftleft
+print
+print
+place 9 3
+6 10 6
+shiftleft
+clear
+shiftleft
+swap 2 8
+place 2 16
+2 12 7 1 12 6 6 6 7 4 7 9 8 10 4 11
+place 7 5
+7 12 4 12 12
+swap 2 6
+print
+print
+swap 5 4
+print
+swap 2 0
+shiftright
+swap 4 5
+shiftleft
+place 7 6
+8 11 2 13 5 2
+shiftleft
+swap 4 7
+shiftright
+shiftleft
+shiftright
+print
+all 4 4256
+place 1 13
+1 4 5 6 4 6 10 2 5 2 12 1 6
+swap 3 2
+print
+print
+shiftleft
+shiftright
+print
+print
+swap 1 2
+place 3 18
+13 2 5 13 9 13 10 2 9 5 12 1 5 13 3 12 7 9
+print
+place 5 7
+13 4 4 6 4 3 2
+shiftright
+print
+print
+shiftright
+shiftleft
+clear
+swap 3 0
+swap 1 2
+shiftleft
+print
+shiftright
+shiftright
+shiftright
+swap 5 4
+swap 0 3
+shiftleft
+swap 6 8
+shiftleft
+print
+place 6 3
+1 1 13
+shiftleft
+print
+shiftright
+shiftright
+place 0 3
+13 5 3
+print
+shiftright
+swap 9 1
+shiftright
+swap 0 5
+place 5 18
+4 3 6 11 13 3 6 4 8 6 7 7 5 8 1 11 6 13
+print
+print
+shiftright
+shiftright
+place 7 15
+13 7 5 1 12 3 10 8 12 9 4 7 3 1 6
+place 2 14
+4 7 8 11 9 5 11 7 10 11 3 6 1 2
+shiftleft
+place 4 3
+1 10 4
+shiftleft
+place 7 6
+6 5 1 12 5 4
+print
+swap 7 1
+swap 0 3
+shiftright
+shiftright
+shiftleft
+print
+swap 7 3
+shiftright
+shiftleft
+shiftleft
+shiftleft
+shiftright
+all 8 6938
+place 1 7
+1 2 11 9 5 8 5
+place 1 10
+1 1 2 4 3 5 1 9 1 4
+shiftleft
+shiftleft
+clear
+swap 4 0
+place 0 11
+1 4 11 6 9 6 11 5 13 7 13
+shiftright
+swap 5 0
+print
+shiftleft
+place 1 17
+3 10 3 8 10 8 3 2 9 1 8 10 8 8 6 5 8
+swap 2 4
+shiftleft
+swap 6 3
+place 8 16
+11 3 13 2 7 13 2 5 6 12 12 9 10 13 3 6
+place 2 16
+13 4 1 11 10 4 1 5 7 1 11 8 11 11 10 4
+swap 0 6
+swap 5 4
+swap 2 3
+shiftleft
+print
+swap 9 5
+shiftleft
+swap 8 4
+shiftleft
+print
+place 7 11
+2 3 6 11 1 12 7 6 6 3 8
+shiftleft
+place 2 2
+12 7
+place 9 12
+6 9 6 12 2 9 4 5 2 10 6 1
+clear
+swap 0 7
+print
+print
+swap 5 0
+shiftright
+shiftleft
+shiftleft
+print
+print
+swap 9 4
+swap 9 6
+swap 0 7
+place 6 19
+7 10 3 9 8 9 12 11 6 1 2 3 2 1 4 3 12 6 5
+shiftleft
+shiftright
+place 0 13
+12 3 11 1 10 11 13 1 9 7 6 2 13
+print
+place 0 10
+7 4 12 6 5 11 13 4 3 4
+place 8 6
+12 6 13 11 2 6
+place 8 1
+1
+shiftright
+shiftleft
+print
+place 3 18
+7 13 6 13 11 9 6 2 6 3 9 7 2 5 7 13 8 8
+swap 0 8
+place 1 3
+7 10 12
+clear
+shiftright
+place 8 17
+13 4 13 13 11 9 7 8 1 10 13 5 13 8 10 4 3
+shiftleft
+shiftleft
+shiftright
+all 13 4707
+place 1 17
+8 9 11 5 9 5 3 2 13 9 5 7 1 5 12 5 12
+print
+swap 2 0
+swap 7 8
+place 3 1
+10
+print
+swap 6 1
+shiftleft
+swap 9 0
+place 3 16
+4 12 3 1 13 4 1 2 7 5 1 12 11 10 5 5
+place 4 13
+1 5 11 2 5 13 11 13 3 7 9 11 6
+print
+clear
+place 8 4
+13 8 11 5
+place 7 2
+6 11
+shiftright
+swap 7 6
+place 7 19
+6 12 5 3 8 10 1 8 1 9 12 5 8 5 7 13 7 13 12
+shiftright
+place 2 8
+9 5 6 13 5 7 5 4
+swap 4 0
+print
+place 0 17
+13 2 10 5 6 8 4 5 9 1 9 3 3 1 12 6 1
+swap 7 6
+shiftleft
+print
+shiftright
+shiftleft
+shiftright
+shiftright
+shiftright
+print
+shiftleft
+place 7 14
+4 12 1 4 13 12 9 6 4 9 11 11 10 6
+swap 7 3
+swap 4 7
+all 6 6878
+swap 5 1
+shiftleft
+shiftright
+swap 3 9
+shiftright
+print
+place 9 3
+12 8 11
+place 3 20
+11 1 5 2 11 3 3 4 9 6 3 1 6 2 3 11 2 6 10 3
+shiftleft
+print
+print
+shiftright
+swap 6 0
+place 2 4
+9 8 4 4
+place 8 9
+11 3 9 9 12 6 2 3 4
+print
+all 1 7413
+place 6 15
+3 2 9 13 9 5 12 12 4 8 9 9 3 10 9
+shiftright
+print
+shiftright
+swap 6 9
+print
+all 13 3869
+shiftleft
+swap 5 6
+shiftright
+print
+print
+swap 0 8
+print
+print
+shiftright
+shiftleft
+shiftleft
+shiftright
+print
+swap 1 0
+clear
+place 0 8
+11 13 11 5 8 4 8 5
+shiftleft
+print
+shiftleft
+place 3 18
+11 1 4 5 6 13 5 8 1 11 3 9 6 5 7 1 1 4
+shiftleft
+place 0 16
+5 4 11 4 13 9 12 3 6 3 2 7 10 8 11 10
+place 2 12
+11 7 2 13 10 9 7 2 13 9 10 13
+shiftright
+place 8 4
+3 7 11 8
+shiftleft
+print
+shiftleft
+shiftleft
+swap 7 6
+swap 9 2
+shiftleft
+place 1 17
+12 8 6 9 8 8 10 6 11 8 8 7 7 10 8 10 1
+swap 8 4
+place 2 9
+7 3 2 8 7 8 9 11 6
+place 2 2
+7 7
+shiftright
+shiftleft
+place 3 12
+2 4 5 11 2 10 4 1 6 10 11 10
+place 3 7
+8 10 4 10 1 1 1
+swap 0 8
+shiftleft
+shiftleft
+place 6 18
+5 2 8 1 11 3 11 10 8 5 8 7 7 6 11 10 4 13
+shiftleft
+print
+place 7 13
+3 3 2 13 4 3 10 1 9 9 7 1 4
+shiftright
+place 0 2
+7 3
+shiftright
+place 1 18
+5 5 7 3 5 7 1 6 8 8 13 5 3 2 5 13 11 3
+shiftleft
+swap 1 4
+shiftleft
+place 9 8
+4 1 8 2 12 10 13 6
+swap 6 0
+shiftright
+print
+shiftleft
+shiftleft
+print
+print
+shiftright
+shiftleft
+shiftright
+place 2 15
+1 8 7 5 2 8 1 5 12 9 4 5 9 3 9
+shiftleft
+shiftleft
+place 3 7
+7 5 3 1 9 8 11
+swap 1 6
+shiftleft
+swap 7 6
+place 6 18
+10 4 12 7 6 10 12 10 3 3 3 1 3 8 1 4 4 10
+swap 0 6
+swap 1 7
+print
+all 4 1233
+shiftright
+place 4 8
+6 13 9 10 9 6 8 9
+swap 9 3
+place 4 9
+7 6 6 13 11 7 7 10 11
+shiftright
+all 8 5461
+swap 3 4
+shiftright
+swap 1 8
+shiftright
+place 9 17
+12 6 7 9 13 13 10 8 4 1 6 11 1 5 11 10 2
+shiftleft
+shiftright
+swap 7 5
+shiftleft
+place 3 9
+8 12 2 1 9 12 11 6 6
+shiftright
+place 4 6
+10 3 10 9 4 7
+swap 1 5
+print
+shiftright
+shiftright
+print
+print
+place 5 18
+3 1 3 13 9 1 3 4 3 2 3 5 9 13 7 7 11 4
+shiftleft
+print
+swap 3 5
+shiftleft
+shiftright
+print
+print
+swap 7 8
+shiftright
+shiftright
+shiftleft
+shiftleft
+swap 2 5
+place 8 9
+7 11 5 4 7 4 13 2 11
+print
+print
+swap 4 5
+swap 9 0
+swap 5 1
+swap 2 8
+print
+shiftleft
+shiftleft
+swap 5 0
+place 4 11
+12 1 7 5 5 7 1 4 2 7 5
+shiftright
+print
+print
+clear
+place 1 6
+5 3 4 5 11 6
+swap 8 0
+shiftleft
+print
+shiftleft
+swap 0 1
+shiftright
+shiftleft
+all 5 5316
+shiftleft
+swap 2 9
+shiftleft
+swap 1 0
+swap 4 3
+swap 3 6
+swap 3 6
+swap 7 1
+swap 5 9
+shiftleft
+print
+clear
+print
+print
+place 5 4
+8 6 9 13
+swap 0 7
+print
+swap 3 2
+print
+swap 6 0
+place 3 17
+13 4 7 6 13 2 10 13 12 7 4 11 9 6 4 4 10
+swap 1 6
+place 6 8
+11 2 9 8 7 4 1 12
+print
+shiftleft
+swap 2 0
+print
+print
+print
+print
+shiftleft
+shiftright
+place 2 20
+2 5 12 9 2 8 8 7 7 10 7 6 2 4 6 1 1 2 5 10
+print
+place 3 1
+7
+shiftleft
+shiftright
+print
+shiftright
+shiftleft
+shiftleft
+swap 9 2
+place 6 8
+12 8 2 5 4 8 7 11
+shiftleft
+place 5 9
+6 7 5 11 6 13 10 6 12
+shiftleft
+print
+print
+shiftleft
+swap 5 9
+place 9 8
+10 5 8 8 7 3 6 9
+swap 5 1
+shiftright
+place 6 19
+11 11 8 10 4 8 13 9 2 12 7 13 7 8 10 12 4 1 7
+place 1 5
+9 5 1 4 11
+shiftleft
+print
+shiftright
+shiftleft
+shiftright
+print
+shiftright
+print
+place 4 15
+12 9 3 3 2 6 1 9 3 6 12 3 9 10 3
+place 4 16
+7 3 7 4 5 13 9 4 3 5 2 4 3 6 5 4
+place 0 12
+9 1 2 11 11 13 13 4 4 6 10 13
+place 8 13
+13 12 2 4 6 12 6 8 3 12 7 2 1
+swap 6 8
+shiftright
+print
+shiftleft
+shiftright
+print
+swap 9 2
+swap 4 7
+shiftright
+place 9 9
+11 12 5 13 8 1 6 9 4
+swap 1 9
+clear
+shiftright
+place 6 10
+9 4 13 8 10 12 5 10 5 11
+swap 0 3
+place 0 7
+13 13 9 13 10 9 1
+swap 1 4
+shiftleft
+shiftright
+swap 1 9
+shiftleft
+swap 6 0
+swap 7 2
+swap 7 5
+place 0 13
+10 13 13 12 4 3 1 9 4 3 10 12 3
+clear
+swap 2 6
+place 5 2
+11 1
+shiftleft
+shiftleft
+place 7 16
+4 8 8 4 11 5 9 4 9 12 5 9 11 4 11 10
+swap 5 9
+shiftleft
+swap 6 7
+shiftright
+shiftleft
+swap 0 3
+shiftleft
+shiftright
+swap 2 3
+place 8 13
+2 11 1 12 1 1 6 7 3 3 6 5 4
+print
+place 0 12
+7 6 7 2 1 7 5 7 13 1 6 13
+swap 2 0
+print
+print
+print
+print
+shiftleft
+swap 3 8
+place 0 14
+3 2 13 13 6 4 7 4 5 10 1 11 8 2
+swap 4 8
+print
+shiftleft
+swap 8 0
+place 2 19
+8 2 6 11 6 10 10 8 12 10 8 5 2 4 8 7 7 12 9
+shiftleft
+shiftleft
+clear
+swap 9 7
+print
+place 3 9
+10 4 8 11 3 8 9 4 13
+shiftleft
+print
+swap 2 0
+swap 5 4
+swap 2 5
+swap 2 4
+swap 3 6
+print
+swap 9 2
+print
+place 7 20
+6 13 5 8 3 2 4 7 12 10 12 11 8 11 7 12 5 11 9 3
+place 0 11
+10 1 5 5 8 8 2 10 4 4 1
+shiftright
+shiftleft
+shiftleft
+place 4 4
+6 13 7 5
+print
+print
+place 2 20
+6 5 10 8 12 10 11 1 4 13 3 5 7 9 6 6 6 2 12 7
+swap 2 4
+shiftleft
+shiftleft
+shiftright
+shiftright
+swap 8 3
+swap 6 5
+shiftleft
+shiftright
+shiftleft
+swap 1 3
+clear
+print
+shiftleft
+print
+shiftright
+print
+print
+swap 5 8
+shiftright
+swap 7 0
+place 6 12
+8 12 8 9 5 8 7 9 9 8 12 9
+print
+print
+swap 5 4
+shiftright
+print
+place 1 3
+12 3 8
+shiftleft
+place 2 3
+8 5 9
+print
+shiftleft
+shiftright
+shiftleft
+print
+shiftright
+swap 6 4
+shiftleft
+shiftright
+shiftleft
+swap 4 2
+swap 7 6
+shiftleft
+shiftleft
+clear
+swap 5 1
+clear
+shiftleft
+shiftleft
+place 0 6
+13 4 4 5 10 1
+shiftright
+print
+shiftright
+shiftright
+swap 9 1
+all 10 6315
+print
+place 1 10
+12 2 6 1 6 9 10 6 7 2
+swap 7 6
+shiftright
+place 1 2
+1 12
+print
+place 6 20
+10 13 12 9 10 10 7 5 4 12 10 5 6 6 1 12 11 4 7 7
+print
+swap 9 3
+shiftleft
+swap 2 1
+shiftleft
+swap 5 0
+print
+shiftright
+shiftleft
+swap 4 6
+shiftleft
+place 9 16
+6 12 11 6 6 7 9 7 8 11 6 7 6 3 6 1
+shiftright
+place 7 19
+12 11 13 2 2 12 2 10 2 13 12 6 9 2 13 11 2 9 12
+place 4 4
+4 6 3 4
+shiftright
+shiftleft
+shiftright
+shiftleft
+shiftright
+place 7 19
+3 2 13 12 7 12 6 7 3 13 12 5 9 7 11 11 7 13 2
+shiftright
+shiftright
+swap 9 5
+place 7 5
+7 7 11 11 6
+shiftright
+print
+shiftleft
+print
+place 2 4
+4 12 5 5
+print
+swap 2 1
+print
+print
+shiftleft
+place 2 19
+8 8 6 5 8 4 3 11 12 10 8 9 3 5 2 11 9 2 8
+print
+shiftright
+place 2 7
+9 1 13 11 13 6 9
+print
+print
+shiftleft
+place 6 19
+11 6 4 7 6 5 8 12 1 8 6 12 5 9 12 8 6 1 3
+place 3 7
+6 7 6 13 12 11 11
+swap 4 9
+print
+print
+shiftleft
+place 0 16
+5 12 6 12 10 6 2 9 8 12 12 5 7 11 8 4
+place 8 16
+3 9 3 12 9 10 11 8 1 4 10 2 1 4 6 6
+print
+swap 3 4
+place 0 15
+7 1 4 9 13 4 12 1 6 12 4 13 1 12 7
+shiftleft
+place 0 10
+13 10 11 10 4 4 9 7 13 9
+print
+place 8 6
+12 2 6 10 13 2
+print
+swap 5 1
+swap 5 2
+shiftleft
+shiftleft
+shiftleft
+shiftright
+all 2 7209
+shiftleft
+print
+shiftright
+shiftright
+shiftright
+place 4 13
+9 11 6 2 12 6 13 1 10 7 12 7 3
+shiftleft
+place 3 5
+4 9 13 10 7
+shiftleft
+shiftright
+shiftright
+print
+shiftright
+shiftright
+place 0 15
+12 12 11 1 6 10 5 6 6 1 9 13 4 8 11
+place 5 5
+9 9 8 2 4
+place 0 7
+9 8 13 1 1 10 13
+shiftleft
+shiftleft
+swap 9 7
+shiftright
+shiftleft
+shiftleft
+place 4 3
+12 1 4
+shiftleft
+place 8 17
+4 2 3 3 6 12 13 4 10 11 1 12 5 4 1 8 5
+shiftright
+shiftleft
+shiftright
+print
+swap 7 6
+shiftright
+print
+place 8 15
+8 6 11 11 1 13 10 12 12 1 4 9 7 5 13
+place 3 1
+8
+place 6 19
+7 13 5 6 8 9 11 10 10 12 13 1 2 6 9 9 5 2 2
+print
+shiftright
+swap 9 6
+place 2 2
+12 4
+clear
+place 9 16
+8 4 3 12 12 8 13 11 10 10 8 7 13 3 4 5
+shiftright
+print
+print
+place 0 12
+11 11 10 1 7 5 9 9 5 8 9 7
+place 7 2
+5 10
+shiftleft
+shiftright
+clear
+swap 2 3
+place 3 6
+3 6 11 10 5 2
+all 11 6622
+print
+swap 3 5
+print
+shiftleft
+place 3 6
+8 4 12 11 1 7
+swap 8 9
+shiftright
+print
+place 3 4
+6 11 2 13
+shiftright
+swap 7 4
+shiftleft
+swap 8 7
+shiftleft
+shiftright
+place 0 17
+6 10 3 12 7 2 8 10 7 4 11 13 7 1 13 12 9
+print
+shiftleft
+shiftleft
+place 0 19
+10 4 4 2 13 1 1 6 9 9 7 6 4 5 3 8 13 2 5
+place 5 6
+5 7 7 6 2 7
+swap 9 7
+print
+print
+place 9 14
+4 5 7 12 9 7 9 9 1 6 13 10 1 8
+shiftright
+place 7 6
+4 3 9 7 5 12
+print
+shiftleft
+shiftleft
+place 8 6
+4 2 12 3 13 4
+place 0 2
+1 12
+shiftleft
+shiftleft
+shiftleft
+place 7 4
+6 9 2 11
+shiftright
+shiftleft
+shiftright
+swap 9 1
+place 7 8
+3 4 6 8 11 5 4 12
+shiftright
+shiftleft
+print
+shiftright
+shiftleft
+shiftright
+shiftleft
+shiftleft
+shiftleft
+print
+shiftleft
+place 8 11
+9 5 8 12 3 6 13 1 4 5 13
+print
+place 3 8
+12 4 6 12 2 8 3 4
+shiftright
+print
+swap 5 6
+place 2 1
+11
+shiftleft
+shiftright
+place 8 8
+2 8 1 10 3 9 1 3
+swap 5 8
+print
+print
+place 6 18
+2 12 13 4 10 3 4 10 2 9 3 8 13 3 3 11 1 3
+swap 3 7
+swap 3 8
+shiftright
+shiftleft
+place 4 2
+11 4
+clear
+shiftright
+print
+place 7 1
+2
+print
+place 6 8
+11 8 11 11 9 5 6 7
+shiftright
+swap 2 5
+place 4 13
+1 4 1 1 11 8 5 1 7 6 1 7 2
+shiftright
+print
+shiftleft
+shiftleft
+swap 5 1
+shiftleft
+shiftright
+place 2 12
+8 8 7 6 6 9 8 5 8 7 6 8
+print
+place 5 17
+12 9 12 2 2 6 6 1 7 11 9 1 9 3 9 2 8
+shiftleft
+shiftleft
+shiftright
+place 1 19
+5 13 8 12 13 1 11 1 9 10 4 3 3 11 11 2 6 6 5
+print
+shiftright
+place 7 6
+11 4 11 5 11 6
+place 2 4
+4 3 11 3
+shiftleft
+print
+shiftright
+swap 9 6
+swap 1 6
+shiftright
+shiftright
+print
+print
+swap 9 5
+place 4 7
+4 6 8 6 13 9 7
+place 7 10
+13 4 3 4 2 4 4 10 7 10
+print
+shiftleft
+shiftleft
+shiftleft
+place 2 8
+1 13 12 6 12 9 8 7
+print
+shiftright
+shiftright
+place 7 12
+3 9 8 2 5 4 3 12 4 10 2 7
+swap 3 4
+shiftleft
+swap 8 6
+print
+print
+swap 4 9
+swap 9 0
+swap 7 8
+swap 1 0
+place 1 1
+5
+place 3 14
+4 10 9 8 9 11 9 6 11 7 3 5 8 9
+swap 9 8
+shiftleft
+swap 2 0
+place 6 18
+12 1 12 10 13 13 12 6 7 8 10 12 4 6 8 1 11 12
+print
+swap 3 9
+place 8 6
+5 9 11 4 2 4
+shiftleft
+print
+swap 7 6
+shiftright
+shiftleft
+shiftright
+shiftright
+print
+shiftright
+place 8 15
+3 12 8 4 4 10 2 5 11 8 4 3 1 5 10
+shiftleft
+shiftleft
+swap 7 0
+shiftleft
+shiftright
+shiftright
+shiftleft
+shiftright
+shiftright
+place 6 17
+7 8 1 9 1 9 8 4 9 1 7 13 13 2 8 3 13
+swap 4 6
+shiftright
+shiftright
+shiftleft
+place 0 4
+11 13 4 8
+shiftright
+place 7 1
+12
+shiftleft
+shiftright
+shiftright
+swap 7 8
+shiftleft
+all 5 9693
+swap 2 8
+place 6 7
+10 13 2 6 9 9 9
+print
+shiftleft
+print
+all 7 4044
+place 2 1
+4
+shiftright
+swap 2 7
+print
+shiftright
+swap 6 8
+print
+print
+place 8 15
+1 11 3 1 11 7 10 11 9 11 13 11 8 2 10
+place 3 19
+10 2 6 11 13 6 13 10 11 7 8 8 11 7 6 8 10 3 7
+place 7 20
+10 5 3 9 3 10 1 7 9 2 10 8 3 11 13 8 11 4 1 10
+shiftright
+print
+shiftleft
+swap 2 5
+print
+shiftleft
+shiftright
+shiftleft
+place 1 18
+10 3 11 6 7 4 5 13 2 2 2 2 6 5 13 11 6 12
+swap 4 8
+swap 6 2
+shiftleft
+print
+clear
+shiftright
+swap 4 1
+shiftleft
+place 6 1
+11
+shiftright
+shiftleft
+place 2 16
+5 1 2 1 2 12 13 13 13 13 4 2 13 11 4 8
+shiftleft
+shiftright
+place 3 13
+5 1 11 4 2 4 10 8 12 10 10 13 7
+shiftleft
+shiftleft
+clear
+shiftright
+swap 8 3
+print
+shiftleft
+print
+shiftright
+shiftleft
+place 3 11
+6 6 8 13 4 10 9 13 1 10 6
+print
+swap 8 9
+place 9 5
+5 11 12 7 1
+print
+shiftright
+swap 0 1
+print
+swap 9 0
+print
+shiftleft
+print
+place 9 16
+1 5 8 10 5 7 5 13 5 5 3 12 1 2 6 1
+shiftright
+swap 0 3
+print
+place 0 4
+12 3 9 2
+shiftleft
+shiftright
+print
+swap 5 4
+shiftright
+swap 2 6
+place 1 20
+3 11 5 10 12 11 6 1 6 8 8 13 6 7 12 10 6 3 2 11
+shiftright
+shiftright
+shiftright
+shiftright
+place 2 12
+4 5 12 1 1 6 13 6 12 13 2 12
+shiftleft
+place 0 10
+7 7 10 2 1 2 12 7 3 8
+shiftleft
+place 8 2
+10 5
+swap 7 5
+swap 1 9
+place 4 2
+10 9
+shiftright
+swap 1 3
+print
+print
+place 2 16
+1 2 5 3 9 12 10 1 4 9 5 7 13 6 12 9
+shiftleft
+clear
+swap 6 4
+place 9 10
+13 6 13 13 10 12 4 11 2 1
+swap 4 6
+place 9 10
+11 11 10 10 2 13 2 5 3 8
+shiftleft
+print
+place 0 14
+5 11 3 12 12 1 1 9 9 11 7 2 3 7
+shiftright
+shiftright
+shiftleft
+shiftright
+shiftright
+print
+place 4 8
+2 1 10 4 6 5 2 1
+swap 3 7
+print
+place 6 3
+11 9 12
+shiftleft
+shiftleft
+shiftleft
+shiftleft
+shiftleft
+shiftleft
+shiftright
+place 3 7
+13 6 2 3 13 1 1
+print
+shiftleft
+place 5 14
+9 10 7 6 7 5 1 1 12 7 5 6 4 3
+shiftleft
+swap 2 4
+place 9 6
+9 10 7 9 8 7
+place 0 11
+13 3 13 3 2 3 6 11 3 13 12
+shiftleft
+clear
+shiftright
+shiftright
+print
+swap 1 8
+shiftleft
+all 8 1517
+shiftright
+print
+shiftright
+swap 5 0
+shiftright
+print
+print
+shiftleft
+place 9 7
+3 12 12 9 3 10 6
+swap 6 4
+swap 9 0
+place 8 6
+8 13 13 11 4 9
+shiftright
+clear
+swap 7 6
+place 8 5
+13 2 12 4 13
+shiftleft
+print
+swap 8 6
+shiftright
+print
+shiftleft
+print
+shiftright
+shiftright
+clear
+shiftleft
+shiftright
+swap 5 3
+shiftright
+print
+print
+all 5 8864
+shiftright
+swap 8 2
+shiftright
+swap 0 5
+print
+swap 9 4
+swap 4 2
+shiftleft
+place 4 1
+13
+shiftright
+print
+shiftright
+shiftright
+swap 9 1
+shiftright
+shiftleft
+shiftright
+print
+place 2 7
+12 11 10 1 9 7 1
+print
+swap 9 3
+shiftright
+print
+shiftleft
+print
+place 0 5
+2 2 10 12 2
+shiftright
+place 8 3
+8 8 13
+shiftleft
+shiftright
+clear
+shiftright
+print
+shiftleft
+print
+shiftright
+print
+print
+shiftright
+swap 1 6
+swap 7 2
+clear
+print
+print
+shiftleft
+print
+shiftright
+shiftright
+place 8 14
+8 11 8 12 5 12 10 1 8 4 1 6 7 11
+shiftright
+swap 1 5
+shiftright
+print
+place 1 14
+13 13 5 7 1 13 4 2 6 4 12 4 5 8
+clear
+print
+shiftleft
+place 8 6
+10 1 4 5 9 6
+print
+shiftleft
+shiftright
+place 6 5
+10 10 11 13 4
+shiftright
+print
+shiftright
+print
+shiftright
+place 7 15
+10 10 13 5 8 8 6 10 4 8 2 2 13 2 3
+shiftright
+shiftright
+print
+swap 0 9
+swap 0 1
+swap 8 6
+shiftleft
+swap 0 5
+shiftright
+swap 0 7
+swap 4 2
+shiftleft
+print
+place 3 11
+3 5 12 6 10 12 3 9 7 5 1
+print
+print
+place 9 13
+7 1 6 2 4 11 11 7 5 13 10 10 7
+shiftleft
+shiftleft
+swap 0 2
+all 5 7763
+place 8 17
+12 2 6 3 12 6 13 13 13 12 3 10 8 13 9 10 7
+shiftright
+place 3 11
+4 7 12 3 12 7 3 4 11 2 3
+place 2 8
+12 9 12 1 13 8 11 12
+print
+swap 5 4
+swap 3 2
+place 0 2
+7 4
+shiftright
+place 4 9
+8 10 3 5 3 7 7 5 12
+place 8 17
+4 6 1 6 7 7 13 6 6 13 1 13 11 8 7 8 3
+swap 5 2
+swap 2 8
+print
+shiftleft
+place 2 20
+8 9 1 13 9 12 13 13 1 11 1 3 9 8 12 13 6 2 1 6
+print
+swap 8 1
+shiftright
+print
+print
+print
+shiftleft
+swap 2 5
+shiftright
+print
+print
+swap 1 8
+shiftright
+place 9 11
+8 13 13 2 13 5 5 10 3 2 1
+place 1 18
+10 2 5 6 13 8 4 2 5 7 1 5 2 2 4 13 8 4
+shiftleft
+shiftleft
+place 8 18
+5 7 2 9 10 8 1 2 13 13 10 5 3 9 7 6 3 8
+print
+print
+shiftleft
+print
+shiftright
+shiftleft
+place 5 17
+10 5 2 1 11 12 1 8 10 4 13 9 2 12 2 9 8
+shiftleft
+shiftleft
+place 3 13
+1 9 6 9 6 11 10 1 3 12 6 1 4
+place 4 17
+10 6 7 2 9 12 1 6 7 6 9 3 2 8 6 5 4
+shiftleft
+clear
+place 2 18
+6 1 9 2 8 6 3 4 6 8 3 1 13 13 5 4 3 2
+shiftright
+shiftright
+swap 2 4
+shiftright
+swap 8 6
+print
+shiftright
+print
+print
+place 5 4
+13 8 6 9
+shiftleft
+place 5 15
+8 7 13 2 4 2 11 4 12 6 11 11 13 6 12
+place 7 14
+10 5 13 2 7 3 11 5 5 8 12 6 13 7
+shiftleft
+place 6 10
+1 12 1 11 11 8 9 10 6 13
+place 4 16
+6 8 11 2 13 2 3 6 2 9 11 13 3 10 3 3
+shiftright
+shiftleft
+shiftleft
+shiftleft
+swap 4 8
+shiftright
+swap 9 0
+shiftright
+swap 0 9
+shiftleft
+place 9 10
+2 10 12 12 3 8 2 10 8 8
+print
+shiftright
+place 3 8
+11 5 5 12 8 1 11 3
+place 1 14
+5 10 9 1 1 3 2 6 12 2 5 10 12 7
+swap 9 6
+shiftleft
+place 2 12
+13 4 6 8 4 3 12 8 8 2 9 2
+swap 9 5
+swap 1 7
+print
+shiftright
+swap 6 9
+shiftleft
+swap 8 3
+swap 2 4
+shiftright
+place 9 4
+5 7 8 4
+swap 8 2
+place 4 18
+12 4 13 5 11 1 4 3 12 2 10 3 12 9 12 4 11 4
+shiftleft
+shiftright
+shiftright
+place 2 16
+10 5 2 1 9 5 6 4 9 9 2 12 11 8 8 9
+swap 6 0
+shiftleft
+shiftleft
+print
+shiftright
+swap 3 1
+swap 8 2
+place 9 16
+9 3 9 11 4 7 8 10 13 12 5 7 4 4 12 6
+shiftleft
+print
+swap 3 0
+place 4 6
+8 8 6 10 7 12
+place 2 12
+4 4 1 8 10 7 2 13 1 4 9 13
+swap 9 5
+print
+shiftright
+place 3 9
+7 10 1 5 10 3 1 8 11
+swap 0 3
+shiftleft
+place 3 15
+13 13 12 10 1 11 13 10 3 10 13 5 10 2 9
+place 0 1
+5
+swap 6 3
+print
+swap 7 6
+print
+shiftright
+shiftright
+swap 3 6
+place 2 18
+8 4 13 13 13 9 4 7 4 7 11 10 11 3 8 1 8 13
+shiftleft
+shiftleft
+swap 1 4
+swap 9 7
+shiftright
+place 1 16
+6 9 4 8 2 5 1 6 13 7 3 11 7 9 6 5
+shiftright
+shiftleft
+shiftright
+clear
+swap 0 4
+shiftright
+print
+print
+print
+shiftleft
+shiftleft
+print
+shiftright
+clear
+print
+shiftleft
+shiftright
+print
+print
+shiftleft
+shiftright
+shiftright
+shiftright
+place 5 7
+5 8 3 11 3 10 3
+shiftleft
+swap 4 0
+print
+shiftleft
+place 1 1
+1
+shiftleft
+shiftleft
+shiftleft
+shiftright
+place 1 13
+10 2 7 5 10 4 1 11 10 3 2 6 4
+place 5 17
+6 8 10 11 5 2 12 10 10 9 9 3 4 9 7 12 12
+print
+shiftright
+shiftright
+place 9 6
+9 12 4 3 2 2
+swap 7 5
+print
+swap 0 3
+shiftleft
+shiftright
+all 2 7248
+shiftleft
+shiftleft
+print
+clear
+print
+shiftleft
+place 0 16
+12 6 5 7 3 7 2 11 2 3 12 9 7 3 13 2
+shiftright
+place 4 15
+2 2 2 2 13 2 8 13 2 1 6 5 2 5 9
+shiftright
+clear
+place 8 3
+11 10 1
+shiftleft
+clear
+shiftright
+shiftleft
+shiftright
+swap 5 3
+place 3 11
+6 4 4 9 9 9 7 2 13 8 2
+swap 5 7
+clear
+shiftleft
+shiftright
+print
+place 6 13
+4 10 8 8 8 6 3 10 4 8 4 2 7
+place 8 11
+5 13 3 9 5 2 2 4 13 5 11
+place 2 5
+6 9 5 3 6
+shiftright
+place 2 18
+13 13 5 5 9 7 2 13 12 5 8 7 10 12 11 10 11 13
+place 6 4
+1 10 3 9
+place 7 16
+9 6 3 9 9 3 12 7 7 3 13 9 1 1 1 9
+print
+swap 3 7
+print
+swap 7 4
+shiftleft
+shiftleft
+shiftleft
+swap 2 1
+shiftright
+swap 1 7
+swap 1 8
+shiftright
+print
+place 4 2
+2 10
+shiftleft
+print
+place 5 9
+3 13 6 1 11 4 1 10 1
+print
+print
+swap 0 8
+shiftleft
+shiftright
+shiftleft
+shiftleft
+shiftright
+shiftright
+place 3 4
+6 7 6 11
+place 3 15
+2 8 13 9 11 4 11 13 11 8 2 4 10 9 7
+shiftright
+print
+swap 6 3
+shiftleft
+shiftleft
+shiftright
+print
+print
+place 7 18
+7 6 3 12 9 8 8 8 3 3 8 4 6 10 12 8 1 11
+shiftright
+shiftright
+print
+shiftleft
+shiftleft
+shiftleft
+print
+shiftleft
+swap 2 0
+shiftleft
+place 9 13
+6 4 6 5 7 11 9 7 5 1 8 12 3
+shiftleft
+place 0 8
+7 2 3 4 9 12 6 3
+shiftright
+swap 3 9
+shiftright
+place 1 6
+2 10 2 4 8 9
+swap 3 6
+swap 1 3
+swap 5 4
+swap 7 9
+shiftright
+shiftright
+shiftright
+swap 1 7
+swap 3 0
+shiftright
+swap 4 1
+print
+swap 7 9
+shiftleft
+shiftright
+shiftleft
+shiftright
+swap 9 4
+print
+swap 1 2
+shiftleft
+shiftright
+place 7 19
+3 7 9 9 6 12 10 12 3 7 13 5 13 2 3 7 7 1 7
+print
+swap 7 2
+swap 8 4
+swap 9 7
+all 2 7864
+swap 3 0
+print
+shiftleft
+place 8 12
+10 9 9 5 9 8 2 4 12 8 1 2
+shiftleft
+shiftright
+shiftleft
+place 0 7
+11 12 3 1 3 3 1
+shiftright
+shiftright
+place 0 9
+12 4 1 2 9 11 5 11 4
+clear
+swap 3 5
+shiftright
+swap 3 9
+swap 4 1
+place 6 8
+13 11 13 5 13 8 4 4
+shiftleft
+shiftright
+print
+swap 3 0
+print
+swap 4 6
+all 13 8644
+shiftleft
+shiftleft
+print
+shiftright
+shiftright
+shiftright
+print
+swap 2 5
+place 8 13
+2 9 11 13 12 3 11 1 6 12 4 12 12
+swap 2 0
+shiftleft
+shiftleft
+print
+swap 2 9
+shiftleft
+shiftright
+shiftleft
+place 0 14
+9 9 7 5 11 5 7 3 3 8 8 1 10 10
+shiftright
+shiftright
+print
+place 3 14
+11 9 5 12 8 7 7 6 1 11 10 5 12 8
+shiftright
+shiftright
+shiftright
+place 1 16
+7 8 11 13 4 8 11 12 8 4 13 5 10 7 5 10
+place 8 3
+2 1 1
+shiftright
+swap 2 3
+clear
+all 11 6272
+place 4 3
+6 3 1
+place 1 14
+10 12 1 4 6 4 1 12 11 13 1 6 4 1
+shiftleft
+shiftright
+place 1 10
+9 4 4 13 9 11 6 10 13 3
+swap 5 1
+swap 3 7
+place 7 13
+4 7 3 13 5 12 11 2 10 10 5 4 9
+all 2 9583
+print
+place 4 17
+4 6 3 10 10 9 8 11 6 11 6 12 5 2 6 11 2
+shiftright
+shiftright
+shiftright
+swap 5 7
+print
+all 1 5890
+place 7 2
+9 5
+all 12 7365
+shiftleft
+print
+shiftleft
+place 6 4
+4 2 13 12
+shiftleft
+shiftleft
+swap 8 3
+shiftright
+print
+swap 3 2
+place 8 18
+5 13 13 2 7 10 1 8 3 1 6 7 7 5 13 12 10 10
+place 4 8
+4 2 9 12 12 5 4 10
+shiftleft
+swap 7 5
+shiftright
+shiftright
+shiftleft
+shiftleft
+place 0 5
+4 1 1 4 3
+swap 0 6
+shiftright
+shiftright
+place 7 7
+12 7 3 7 9 8 11
+swap 5 4
+place 0 10
+3 10 7 13 13 2 12 12 11 4
+shiftright
+shiftleft
+print
+swap 3 1
+clear
+all 5 4996
+place 0 2
+7 11
+print
+shiftright
+print
+place 7 7
+9 6 12 5 3 3 1
+shiftleft
+swap 1 3
+shiftright
+shiftright
+swap 4 5
+print
+swap 2 1
+swap 0 2
+print
+clear
+swap 5 6
+place 3 16
+3 12 1 10 11 5 1 11 2 9 4 5 1 11 9 10
+swap 1 6
+shiftright
+shiftright
+shiftright
+shiftright
+swap 3 4
+shiftright
+shiftleft
+print
+print
+swap 8 9
+place 0 6
+6 3 13 1 7 10
+swap 6 9
+shiftleft
+place 6 3
+6 3 13
+clear
+shiftleft
+print
+print
+shiftright
+shiftleft
+swap 3 8
+shiftleft
+swap 6 7
+clear
+place 1 4
+3 9 9 10
+print
+shiftleft
+print
+place 9 5
+13 13 10 1 6
+shiftleft
+swap 0 7
+shiftright
+print
+place 3 4
+7 6 3 13
+swap 0 8
+shiftleft
+print
+shiftright
+print
+print
+shiftleft
+shiftleft
+shiftleft
+shiftleft
+shiftright
+shiftright
+swap 9 1
+shiftright
+print
+swap 1 2
+print
+print
+swap 6 9
+place 8 12
+13 5 4 4 11 8 10 2 4 3 6 4
+place 2 10
+13 7 10 8 8 7 2 1 10 10
+place 3 4
+7 3 13 5
+print
+shiftleft
+shiftright
+shiftright
+place 6 16
+6 11 4 12 4 12 6 7 7 11 3 11 5 1 10 8
+place 2 12
+10 9 5 11 11 5 3 5 9 11 4 6
+shiftright
+print
+swap 3 8
+place 6 9
+8 11 1 1 6 10 9 6 12
+place 1 2
+10 4
+print
+print
+swap 7 9
+shiftleft
+print
+place 2 2
+3 8
+shiftleft
+place 2 14
+13 11 5 2 10 9 3 11 6 4 5 1 11 4
+swap 8 7
+swap 8 2
+shiftright
+shiftleft
+shiftright
+print
+print
+shiftright
+shiftleft
+shiftleft
+place 5 20
+1 1 9 11 4 10 13 2 7 11 4 4 2 7 1 13 8 4 10 5
+print
+shiftright
+swap 2 7
+shiftleft
+print
+place 5 18
+12 2 10 10 3 2 12 6 11 1 4 9 3 9 2 10 3 1
+place 2 13
+6 10 5 7 11 8 8 2 7 11 2 5 13
+print
+shiftright
+swap 9 8
+shiftleft
+print
+swap 7 5
+shiftleft
+swap 5 2
+shiftleft
+swap 5 4
+clear
+swap 6 1
+print
+print
+place 1 7
+11 4 9 12 1 9 8
+print
+shiftleft
+print
+place 7 1
+4
+shiftleft
+shiftleft
+shiftright
+swap 7 9
+swap 4 3
+place 3 18
+11 5 12 10 10 6 10 6 6 13 5 10 11 4 1 7 9 7
+shiftright
+swap 5 2
+shiftleft
+swap 9 2
+shiftleft
+shiftright
+swap 2 3
+shiftleft
+shiftleft
+swap 0 5
+shiftright
+swap 7 3
+shiftright
+shiftright
+print
+swap 2 1
+place 7 9
+11 7 5 5 3 5 7 7 2
+shiftleft
+shiftleft
+place 9 19
+6 1 7 4 7 9 11 3 9 11 8 7 12 8 11 11 4 3 10
+shiftleft
+swap 4 1
+shiftleft
+shiftright
+shiftleft
+swap 8 1
+place 5 10
+3 2 10 7 11 11 5 8 4 7
+print
+shiftleft
+place 9 10
+6 3 8 3 12 5 6 13 6 8
+place 4 8
+5 2 5 12 12 4 3 2
+shiftright
+shiftright
+swap 4 8
+swap 5 9
+all 11 9947
+print
+clear
+swap 6 9
+swap 8 4
+swap 7 1
+print
+shiftright
+shiftright
+swap 8 3
+shiftright
+shiftleft
+print
+print
+place 4 13
+12 12 13 13 3 6 13 2 12 8 3 13 12
+shiftleft
+shiftright
+print
+shiftright
+print
+shiftleft
+swap 0 9
+place 0 1
+12
+swap 2 4
+swap 0 6
+place 5 13
+1 12 10 9 6 6 6 2 10 1 9 10 4
+shiftright
+shiftright
+shiftleft
+shiftleft
+shiftright
+place 5 12
+13 9 9 8 7 1 9 4 10 9 7 2
+print
+print
+swap 5 4
+shiftright
+place 2 14
+10 6 3 10 1 2 9 11 4 6 4 4 11 5
+swap 5 7
+print
+swap 2 7
+swap 4 6
+print
+shiftright
+swap 1 3
+all 3 2995
+swap 7 0
+shiftleft
+shiftright
+place 1 14
+10 3 4 13 4 7 12 2 11 5 12 8 1 1
+shiftleft
+shiftright
+shiftleft
+shiftleft
+clear
+place 3 2
+12 5
+swap 3 7
+shiftleft
+place 4 19
+4 4 13 3 9 5 6 8 10 6 9 6 8 3 9 12 12 11 10
+swap 3 6
+swap 7 2
+shiftright
+swap 8 9
+shiftleft
+print
+print
+shiftleft
+place 2 5
+10 1 7 10 5
+place 2 7
+8 8 9 9 5 2 12
+place 4 9
+12 7 12 9 11 11 12 12 11
+swap 9 3
+print
+place 5 4
+10 2 7 1
+clear
+shiftleft
+shiftright
+shiftleft
+shiftleft
+place 4 17
+13 4 6 1 8 10 3 4 4 1 12 9 2 10 12 13 11
+place 9 15
+10 12 10 13 12 12 4 1 8 6 13 5 10 12 1
+shiftleft
+shiftright
+shiftright
+shiftright
+place 8 8
+8 5 6 2 13 9 13 7
+shiftleft
+shiftleft
+shiftleft
+shiftright
+shiftleft
+print
+place 1 19
+1 12 6 1 13 11 6 6 13 13 7 13 5 3 6 3 7 8 6
+shiftleft
+clear
+print
+print
+shiftright
+swap 2 5
+shiftleft
+place 3 9
+8 6 5 6 8 6 1 7 7
+shiftright
+shiftright
+place 9 5
+4 8 11 2 4
+print
+place 9 5
+5 9 10 13 11
+shiftleft
+shiftright
+print
+shiftright
+shiftright
+shiftleft
+swap 6 3
+place 1 8
+5 12 4 8 7 12 12 4
+shiftright
+shiftright
+all 1 4777
+place 0 8
+4 13 11 7 11 10 3 3
+shiftleft
+swap 4 2
+print
+swap 4 2
+shiftleft
+print
+print
+print
+shiftright
+swap 4 1
+clear
+swap 6 0
+shiftright
+swap 3 0
+shiftleft
+print
+swap 8 7
+print
+print
+shiftleft
+swap 6 1
+print
+swap 4 3
+print
+shiftright
+swap 9 7
+shiftleft
+shiftright
+shiftright
+print
+clear
+shiftright
+place 1 17
+11 6 7 11 4 6 10 1 13 7 10 4 7 4 6 9 6
+place 6 13
+13 2 6 6 1 9 4 13 10 5 5 11 5
+shiftleft
+all 12 825
+shiftleft
+shiftleft
+shiftleft
+shiftright
+print
+print
+print
+print
+place 0 1
+2
+swap 1 7
+swap 8 3
+shiftright
+shiftleft
+print
+print
+swap 7 0
+shiftleft
+shiftleft
+shiftleft
+place 9 3
+4 12 6
+print
+place 4 15
+13 2 5 3 6 9 2 11 5 7 12 9 5 5 13
+shiftleft
+shiftright
+place 3 12
+11 12 13 2 6 2 4 13 8 5 1 6
+place 0 15
+6 12 6 8 2 5 5 7 2 10 4 13 6 2 4
+place 2 4
+8 3 4 7
+swap 0 4
+swap 8 9
+swap 6 9
+place 3 18
+2 4 5 3 7 8 5 7 9 13 1 7 7 7 7 12 4 10
+place 8 15
+1 8 8 6 8 11 13 3 4 10 6 12 8 8 2
+swap 6 9
+shiftright
+shiftleft
+place 8 17
+6 8 4 7 3 7 4 12 10 3 9 5 4 12 13 12 5
+shiftleft
+place 8 17
+5 4 8 11 2 10 4 10 6 3 1 12 11 12 13 5 11
+print
+swap 2 8
+place 0 19
+8 3 2 5 8 4 1 4 1 2 13 12 1 6 4 5 11 11 13
+place 6 5
+3 10 10 1 8
+shiftleft
+shiftleft
+shiftright
+print
+print
+shiftleft
+swap 7 0
+swap 8 0
+shiftleft
+shiftright
+place 9 11
+9 13 8 4 6 9 4 9 13 13 9
+swap 3 4
+shiftright
+shiftleft
+shiftright
+shiftleft
+swap 2 8
+shiftleft
+swap 4 2
+shiftleft
+shiftright
+swap 2 9
+place 9 6
+4 10 6 4 10 6
+place 2 1
+5
+print
+place 6 17
+1 2 8 8 8 9 11 10 11 9 12 11 5 10 10 8 6
+shiftleft
+swap 3 1
+shiftright
+shiftleft
+shiftright
+shiftleft
+shiftleft
+place 5 18
+10 13 8 8 10 4 6 2 12 8 7 3 11 3 13 3 3 1
+place 7 1
+10
+shiftright
+shiftright
+swap 1 4
+shiftright
+all 12 8786
+all 2 4288
+shiftright
+shiftright
+all 4 7460
+shiftleft
+shiftleft
+shiftright
+swap 6 0
+shiftright
+print
+print
+print
+shiftleft
+shiftright
+shiftleft
+place 2 5
+6 4 7 5 8
+shiftright
+clear
+place 5 10
+1 4 12 11 13 12 4 1 8 3
+place 8 9
+5 13 1 12 12 3 2 13 1
+shiftright
+place 0 12
+6 4 12 7 10 1 7 6 8 8 11 4
+swap 6 3
+shiftleft
+place 7 13
+10 6 3 10 12 2 6 6 13 11 5 2 7
+shiftright
+swap 9 3
+place 8 15
+11 1 1 1 3 7 13 12 13 7 9 10 2 5 9
+print
+print
+swap 7 2
+swap 6 1
+shiftright
+shiftright
+shiftleft
+place 2 17
+1 8 11 1 8 4 8 3 1 3 1 11 13 10 5 4 4
+place 7 18
+1 10 12 3 13 3 4 6 6 5 12 3 11 6 10 11 1 6
+shiftright
+shiftright
+swap 0 2
+shiftright
+shiftright
+print
+shiftleft
+shiftright
+print
+shiftright
+swap 5 6
+shiftleft
+print
+print
+place 6 20
+13 2 5 3 10 10 6 10 13 5 9 7 12 5 8 1 3 11 11 12
+shiftright
+swap 1 7
+place 2 11
+3 2 3 9 2 12 1 13 4 2 5
+swap 3 1
+place 3 16
+12 10 12 12 9 11 8 11 3 4 5 1 7 1 6 5
+print
+place 0 5
+8 1 5 9 6
+swap 8 1
+shiftright
+shiftright
+swap 9 4
+shiftright
+swap 8 6
+place 2 10
+5 6 12 7 5 5 6 2 2 9
+shiftleft
+swap 6 7
+shiftleft
+swap 4 0
+shiftright
+print
+swap 6 5
+shiftright
+swap 5 0
+print
+place 9 7
+9 12 12 4 4 12 3
+place 2 13
+8 7 5 8 13 9 6 7 3 3 1 6 9
+clear
+place 9 14
+3 2 7 11 10 10 13 6 13 1 4 13 9 12
+shiftleft
+swap 0 7
+shiftright
+shiftleft
+shiftleft
+print
+print
+all 3 5176
+swap 3 9
+place 4 2
+5 11
+print
+swap 7 0
+shiftleft
+place 7 12
+1 3 12 2 10 6 7 2 3 1 10 5
+print
+shiftleft
+print
+place 0 2
+13 7
+place 2 1
+1
+print
+place 6 15
+6 2 3 13 1 7 11 1 8 10 6 9 9 1 1
+shiftright
+shiftright
+swap 3 5
+shiftleft
+shiftleft
+shiftleft
+swap 0 8
+swap 7 3
+shiftleft
+shiftleft
+swap 4 0
+swap 7 1
+swap 5 6
+shiftleft
+shiftleft
+all 6 9963
+swap 5 8
+swap 0 6
+print
+all 4 6740
+swap 7 5
+swap 1 9
+swap 5 1
+place 5 16
+10 13 9 9 10 3 4 12 8 5 13 8 8 8 13 7
+print
+shiftleft
+swap 0 3
+print
+swap 2 6
+swap 0 7
+clear
+all 1 9426
+shiftright
+swap 5 9
+place 2 15
+6 13 1 8 12 10 2 7 9 1 4 3 10 3 12
+shiftleft
+print
+place 4 3
+11 1 10
+shiftright
+print
+print
+swap 4 0
+swap 6 3
+shiftright
+print
+shiftleft
+print
+shiftleft
+swap 9 7
+print
+clear
+print
+shiftleft
+swap 4 7
+swap 4 6
+shiftright
+print
+shiftright
+swap 0 6
+place 9 7
+12 6 9 3 6 12 13
+shiftleft
+shiftright
+print
+swap 6 1
+shiftright
+place 0 5
+10 12 1 6 7
+swap 7 6
+place 6 16
+7 3 13 2 11 5 11 10 8 10 4 13 8 7 4 9
+print
+shiftleft
+place 5 13
+7 8 7 4 6 5 10 8 8 9 13 4 2
+print
+shiftleft
+place 8 19
+6 1 2 10 12 8 6 7 13 10 1 3 11 4 12 7 5 10 8
+shiftright
+print
+shiftright
+swap 5 0
+shiftright
+print
+swap 3 1
+shiftright
+print
+swap 7 6
+swap 1 5
+shiftleft
+shiftleft
+shiftleft
+print
+shiftright
+swap 3 4
+shiftright
+print
+shiftright
+shiftright
+swap 5 6
+print
+place 5 13
+6 5 11 3 5 7 1 2 10 13 10 8 4
+shiftleft
+shiftleft
+place 4 16
+13 3 5 6 1 10 3 12 13 7 9 7 2 10 7 12
+shiftright
+shiftright
+shiftright
+shiftright
+shiftright
+shiftright
+print
+shiftright
+shiftleft
+place 8 20
+4 11 11 3 1 3 6 9 13 4 13 1 8 10 10 12 5 1 7 4
+all 9 7420
+shiftleft
+shiftright
+swap 4 9
+shiftright
+shiftleft
+swap 3 2
+print
+clear
+all 11 8
+place 7 2
+1 4
+swap 8 6
+shiftright
+swap 9 8
+shiftleft
+shiftright
+print
+shiftright
+place 0 18
+6 12 6 8 1 3 2 5 4 1 2 3 1 5 2 1 3 1
+shiftright
+print
+swap 1 5
+swap 1 4
+swap 7 9
+shiftleft
+place 4 18
+3 13 11 8 13 10 2 5 2 3 12 11 3 5 12 9 4 1
+shiftleft
+swap 8 3
+swap 1 4
+print
+swap 5 0
+print
+print
+swap 9 5
+shiftleft
+swap 2 9
+clear
+shiftright
+shiftleft
+shiftright
+place 2 14
+9 13 6 8 10 13 8 12 2 7 3 12 6 3
+shiftleft
+place 4 1
+13
+shiftleft
+print
+place 1 9
+12 12 9 5 13 1 3 12 3
+place 3 18
+12 8 13 7 11 4 9 4 5 10 13 1 5 3 9 10 5 9
+print
+swap 8 9
+shiftright
+place 9 3
+11 5 8
+place 2 6
+10 5 10 4 6 3
+shiftright
+swap 9 2
+shiftright
+shiftleft
+shiftleft
+shiftleft
+shiftleft
+swap 4 7
+shiftleft
+place 5 5
+3 6 13 3 3
+place 1 15
+12 5 9 2 6 12 3 8 11 3 7 13 6 4 1
+print
+shiftleft
+print
+shiftleft
+clear
+swap 4 3
+print
+print
+print
+swap 7 4
+shiftright
+swap 6 3
+swap 3 0
+swap 3 2
+swap 1 7
+place 4 6
+12 13 5 7 11 3
+print
+place 9 1
+12
+swap 2 8
+print
+shiftleft
+place 4 18
+2 1 13 10 8 11 1 2 4 8 10 13 1 13 9 6 10 2
+swap 4 2
+print
+swap 3 9
+swap 5 0
+swap 7 6
+swap 9 5
+swap 3 7
+shiftright
+print
+print
+swap 2 4
+shiftleft
+print
+place 7 13
+10 10 10 11 9 9 5 5 8 2 13 8 8
+shiftright
+shiftright
+print
+place 7 20
+1 1 1 11 11 3 9 7 3 8 1 12 8 3 1 2 10 11 6 3
+shiftleft
+place 4 17
+10 4 9 3 3 7 11 11 3 10 1 4 10 8 9 4 5
+shiftright
+shiftright
+shiftright
+shiftleft
+print
+place 7 18
+13 8 1 7 1 10 5 2 7 11 2 2 8 4 5 10 11 7
+print
+shiftleft
+clear
+shiftright
+print
+shiftright
+swap 7 4
+print
+print
+place 7 11
+13 9 12 1 10 4 11 10 7 6 4
+place 4 2
+5 1
+swap 4 5
+shiftleft
+shiftleft
+print
+place 5 2
+4 3
+swap 3 7
+shiftleft
+swap 2 3
+place 7 16
+11 6 11 2 5 5 6 10 13 10 3 7 2 10 6 7
+shiftright
+swap 5 6
+clear
+shiftleft
+print
+swap 2 0
+shiftleft
+swap 8 7
+shiftleft
+shiftright
+swap 0 7
+swap 0 1
+swap 2 7
+shiftleft
+shiftleft
+swap 3 8
+place 4 10
+4 9 13 2 12 10 13 2 1 7
+place 6 11
+1 7 1 1 11 6 13 7 1 2 7
+all 5 4556
+shiftleft
+print
+print
+print
+shiftright
+shiftright
+shiftleft
+place 1 4
+12 11 1 5
+swap 6 5
+swap 2 5
+place 5 9
+6 13 13 9 5 3 4 5 11
+print
+shiftright
+swap 2 1
+shiftleft
+swap 7 6
+all 12 3410
+print
+place 3 5
+3 12 12 6 9
+print
+place 4 1
+8
+swap 1 4
+shiftleft
+swap 3 0
+print
+swap 8 9
+shiftleft
+place 8 19
+4 2 10 13 2 7 2 13 4 2 13 11 2 13 2 2 11 4 7
+place 8 6
+6 9 5 10 6 8
+shiftleft
+print
+print
+shiftleft
+swap 6 1
+place 7 15
+5 10 4 2 9 7 10 10 2 4 1 1 9 9 9
+shiftleft
+print
+print
+shiftleft
+shiftleft
+shiftright
+print
+shiftright
+print
+swap 4 8
+shiftright
+all 6 9619
+shiftright
+print
+shiftright
+swap 6 2
+place 5 9
+8 8 8 3 7 7 10 11 9
+print
+print
+place 2 12
+4 9 1 11 3 13 10 6 8 12 11 8
+shiftleft
+place 7 16
+13 2 9 1 7 9 13 10 9 8 3 9 1 8 13 10
+shiftright
+print
+place 7 15
+11 13 8 2 10 1 3 10 1 2 7 12 8 13 13
+print
+swap 0 3
+shiftleft
+shiftright
+shiftright
+print
+shiftleft
+swap 4 6
+print
+shiftleft
+shiftright
+shiftright
+shiftright
+print
+swap 9 8
+print
+print
+print
+shiftleft
+place 8 8
+6 9 4 9 8 8 13 2
+print
+place 1 8
+10 1 1 7 9 2 6 10
+place 0 20
+3 2 12 7 2 8 6 1 9 4 6 1 12 13 7 1 1 4 4 13
+print
+print
+swap 7 8
+print
+shiftleft
+print
+print
+shiftleft
+print
+shiftright
+shiftright
+shiftright
+shiftright
+shiftright
+swap 5 8
+shiftright
+shiftright
+swap 2 0
+shiftleft
+shiftright
+shiftright
+print
+print
+place 0 20
+4 13 7 13 1 12 3 8 12 9 12 12 9 11 2 9 3 7 10 10
+shiftleft
+print
+shiftleft
+clear
+shiftleft
+shiftright
+swap 2 3
+shiftleft
+place 4 18
+5 2 1 10 6 3 5 12 12 4 4 2 9 2 13 13 1 3
+place 8 8
+9 8 8 7 4 7 6 5
+print
+place 8 5
+13 3 6 5 8
+swap 5 2
+shiftleft
+shiftright
+swap 3 0
+place 1 12
+8 11 12 5 9 1 13 4 8 5 13 4
+print
+shiftleft
+swap 5 7
+shiftleft
+print
+print
+swap 1 5
+shiftleft
+print
+shiftright
+print
+print
+swap 7 8
+print
+swap 4 2
+shiftleft
+clear
+swap 4 2
+shiftleft
+print
+swap 0 2
+place 0 11
+13 13 12 6 4 8 8 3 12 8 5
+shiftleft
+place 6 15
+5 9 6 5 5 3 8 13 9 11 6 9 4 1 13
+swap 7 8
+all 7 5165
+place 9 17
+4 2 5 1 13 5 5 2 6 1 11 5 7 11 3 2 12
+print
+place 8 1
+1
+place 8 19
+10 7 7 8 4 11 8 13 2 9 2 12 6 4 9 13 10 10 3
+swap 8 9
+print
+shiftright
+clear
+swap 7 8
+shiftleft
+swap 3 0
+all 8 2870
+shiftleft
+swap 2 1
+shiftleft
+place 8 7
+13 5 3 4 5 8 9
+all 8 2060
+shiftright
+all 9 2307
+print
+shiftright
+shiftright
+print
+print
+clear
+place 8 12
+3 11 7 8 8 9 12 12 7 11 6 11
+print
+swap 3 4
+print
+print
+shiftright
+shiftright
+shiftright
+clear
+shiftleft
+swap 7 4
+swap 9 3
+swap 8 4
+swap 1 3
+print
+all 6 9919
+print
+place 9 7
+13 4 3 4 8 1 5
+shiftleft
+shiftright
+shiftleft
+swap 3 4
+shiftright
+shiftleft
+swap 3 8
+shiftright
+print
+place 8 20
+1 12 10 2 1 5 9 8 3 10 8 5 8 9 11 11 7 13 7 4
+swap 0 8
+shiftleft
+clear
+shiftleft
+shiftleft
+shiftleft
+place 6 12
+4 9 11 2 11 10 2 2 6 7 3 4
+place 0 5
+11 11 2 13 4
+place 7 13
+6 8 10 11 3 10 12 4 6 9 2 9 6
+place 4 3
+7 8 9
+swap 0 2
+shiftright
+place 4 14
+11 1 5 13 5 8 3 2 5 3 11 10 11 9
+place 2 18
+13 11 12 5 3 1 7 3 6 13 8 3 10 11 2 1 3 13
+place 1 12
+2 9 8 12 4 10 12 2 3 8 4 4
+shiftleft
+all 9 369
+print
+place 7 19
+13 3 1 12 4 12 3 10 11 2 2 10 8 11 1 8 7 8 3
+print
+swap 6 7
+all 10 4660
+swap 4 2
+print
+shiftright
+shiftleft
+swap 9 4
+shiftleft
+print
+swap 2 0
+shiftleft
+swap 0 7
+swap 2 5
+place 5 11
+12 11 1 9 13 2 2 8 13 9 2
+shiftleft
+swap 1 3
+swap 8 3
+place 2 6
+8 12 6 8 7 8
+print
+swap 2 4
+place 9 7
+12 5 7 1 1 7 7
+print
+place 7 13
+8 5 4 12 3 1 4 6 6 13 8 3 4
+shiftright
+shiftleft
+shiftright
+shiftright
+print
+shiftleft
+place 6 14
+12 5 7 5 12 2 1 8 11 1 3 4 10 2
+shiftleft
+print
+clear
+place 8 8
+8 11 11 3 1 4 9 10
+shiftright
+shiftright
+place 8 5
+6 9 6 9 7
+place 7 20
+4 11 8 13 9 12 5 1 10 5 4 7 1 2 12 6 3 6 5 11
+shiftleft
+print
+print
+swap 9 3
+swap 5 9
+swap 4 3
+print
+print
+shiftleft
+place 8 8
+11 13 11 3 3 2 5 5
+swap 3 9
+place 5 11
+10 1 11 11 13 4 11 6 12 8 2
+swap 6 3
+print
+swap 3 6
+swap 5 1
+shiftleft
+shiftright
+place 8 5
+3 1 10 1 3
+shiftright
+swap 4 6
+shiftleft
+shiftleft
+print
+clear
+shiftleft
+place 0 20
+7 3 13 9 13 10 13 3 3 3 10 5 4 9 5 13 3 10 6 6
+swap 2 7
+place 1 9
+3 5 3 5 11 13 4 2 4
+place 9 12
+12 13 2 2 4 12 3 5 10 3 4 8
+shiftright
+shiftright
+swap 1 8
+shiftright
+print
+clear
+swap 5 4
+all 1 4338
+place 9 12
+11 1 7 11 11 8 2 2 8 2 5 10
+place 0 10
+12 11 10 7 1 13 13 3 8 1
+print
+place 0 11
+4 4 10 1 9 3 8 3 6 13 9
+clear
+shiftright
+place 8 4
+2 1 7 6
+place 8 1
+9
+all 13 6709
+print
+shiftleft
+print
+all 9 553
+swap 4 1
+shiftleft
+place 8 5
+2 9 6 6 1
+swap 9 5
+print
+place 7 19
+2 3 6 13 1 4 9 2 6 3 9 8 3 10 10 6 9 7 5
+print
+print
+place 5 17
+11 12 10 13 2 11 12 3 12 11 9 10 10 3 8 8 1
+shiftright
+print
+print
+print
+shiftright
+swap 8 1
+shiftleft
+shiftright
+place 6 18
+12 7 13 6 9 7 13 2 1 10 3 2 9 7 7 5 13 5
+shiftright
+place 1 19
+4 3 9 10 13 11 5 9 3 3 5 11 12 12 12 3 12 8 8
+shiftleft
+swap 6 2
+shiftleft
+place 5 17
+7 11 11 10 12 11 10 10 7 7 13 12 12 1 3 10 9
+shiftright
+place 5 13
+7 12 12 9 7 11 11 5 13 11 11 11 1
+place 0 3
+1 9 3
+shiftright
+print
+swap 6 7
+print
+shiftleft
+print
+shiftleft
+place 8 16
+7 10 9 11 7 6 8 2 5 2 13 1 5 5 8 2
+place 7 1
+1
+swap 9 5
+place 2 17
+11 11 6 2 5 6 7 2 5 10 9 11 9 8 8 4 8
+shiftleft
+swap 4 1
+print
+place 0 16
+5 11 4 3 2 12 6 4 1 13 9 10 10 9 9 8
+swap 5 0
+print
+swap 8 2
+clear
+place 4 6
+2 11 12 11 12 2
+shiftright
+shiftleft
+swap 2 0
+place 8 13
+4 1 1 10 13 1 3 8 2 5 7 9 3
+shiftright
+shiftright
+print
+shiftright
+print
+clear
+print
+print
+shiftright
+swap 0 1
+shiftright
+swap 8 0
+swap 0 1
+swap 0 8
+print
+place 2 16
+2 12 9 13 2 7 9 6 11 8 8 13 8 3 3 4
+all 3 4903
+print
+place 3 4
+3 5 12 13
+print
+place 4 19
+8 2 8 10 3 4 4 6 10 4 9 11 2 9 8 1 11 4 8
+print
+place 2 11
+11 8 10 11 11 6 3 2 9 7 8
+place 2 3
+10 4 10
+shiftright
+swap 1 6
+shiftright
+shiftleft
+swap 6 1
+shiftleft
+shiftright
+shiftright
+shiftleft
+swap 6 5
+place 0 1
+5
+print
+place 4 4
+5 12 8 6
+print
+swap 0 1
+shiftright
+place 7 5
+10 2 4 4 5
+place 7 7
+9 2 7 6 2 11 10
+place 6 20
+11 1 4 6 12 7 10 6 8 9 6 3 2 7 5 13 3 2 1 4
+shiftleft
+place 8 1
+12
+shiftleft
+shiftright
+swap 1 4
+place 5 20
+11 5 4 13 4 10 9 2 3 8 3 13 3 3 1 8 3 11 13 1
+print
+shiftleft
+shiftleft
+print
+print
+shiftright
+place 0 10
+5 13 10 12 5 6 12 6 8 13
+shiftleft
+print
+shiftleft
+print
+swap 0 5
+shiftleft
+print
+shiftright
+place 7 18
+8 9 7 13 1 12 10 7 2 2 3 9 5 8 12 10 12 13
+shiftright
+print
+place 2 4
+12 11 5 2
+print
+place 2 7
+4 3 8 13 7 3 12
+print
+swap 5 2
+print
+shiftright
+print
+shiftleft
+swap 3 6
+swap 7 2
+shiftright
+swap 4 9
+swap 9 2
+shiftright
+print
+swap 7 2
+shiftleft
+swap 5 0
+shiftright
+swap 7 6
+place 4 10
+6 7 11 2 4 2 6 10 1 3
+swap 3 7
+swap 2 6
+shiftleft
+place 7 8
+12 11 7 7 7 12 4 10
+shiftleft
+shiftright
+place 7 14
+2 7 13 4 8 8 4 12 4 3 7 11 8 5
+print
+swap 1 9
+print
+swap 8 6
+print
+place 0 15
+7 3 8 5 3 10 2 6 5 6 6 1 2 10 3
+print
+swap 3 9
+swap 4 7
+place 3 3
+7 13 3
+shiftleft
+swap 6 0
+shiftright
+shiftleft
+place 5 8
+2 3 3 2 7 3 4 13
+clear
+clear
+clear
+print
+place 3 19
+10 9 1 5 13 13 7 4 3 11 9 3 2 2 10 13 13 10 8
+print
+shiftright
+swap 8 0
+print
+shiftleft
+shiftright
+shiftleft
+print
+swap 7 8
+place 7 3
+8 3 8
+place 6 18
+9 9 11 7 9 7 8 4 12 3 13 5 8 12 10 13 4 2
+print
+print
+swap 0 1
+shiftleft
+place 0 15
+8 2 7 2 2 1 10 10 2 3 12 3 8 10 3
+place 7 9
+10 10 9 4 10 9 6 6 13
+swap 9 3
+print
+shiftright
+swap 2 3
+shiftleft
+swap 8 3
+shiftright
+shiftright
+print
+all 3 1673
+shiftleft
+swap 3 9
+place 6 13
+12 4 12 1 10 5 10 3 3 3 2 1 3
+shiftright
+shiftleft
+clear
+swap 2 9
+shiftleft
+shiftright
+place 5 14
+3 12 8 7 6 10 2 11 6 13 5 1 1 6
+shiftright
+place 9 20
+11 7 12 10 12 11 11 11 9 2 1 8 10 12 2 10 12 5 8 13
+shiftleft
+swap 9 7
+place 6 7
+13 5 10 10 1 12 10
+place 1 12
+2 9 1 5 7 4 5 13 11 1 5 5
+shiftright
+print
+shiftleft
+print
+swap 8 2
+shiftleft
+shiftright
+print
+print
+print
+print
+place 8 13
+4 13 3 4 13 11 3 12 10 9 2 5 3
+shiftleft
+swap 0 8
+clear
+swap 4 6
+shiftleft
+place 6 17
+1 9 11 10 1 10 2 5 5 12 10 12 2 4 6 3 4
+shiftright
+place 9 9
+13 2 5 4 7 9 13 4 11
+swap 5 7
+swap 7 2
+place 5 8
+9 10 4 7 13 10 5 7
+place 2 4
+1 9 1 7
+shiftleft
+print
+shiftleft
+place 3 14
+6 12 3 7 3 10 1 5 10 1 10 7 10 11
+print
+swap 9 1
+shiftleft
+shiftright
+shiftright
+swap 7 8
+shiftleft
+place 9 20
+11 8 8 9 7 8 12 4 12 1 4 11 6 5 11 3 6 12 10 12
+shiftleft
+print
+print
+shiftright
+shiftright
+shiftright
+swap 9 5
+place 2 12
+5 13 6 10 3 3 12 3 11 10 4 2
+place 9 3
+9 4 3
+place 3 12
+1 3 3 1 7 8 7 8 8 3 12 2
+place 8 20
+1 11 4 6 8 5 8 1 7 8 1 12 12 11 11 9 2 6 10 13
+shiftright
+shiftleft
+shiftleft
+swap 0 4
+swap 8 0
+swap 0 9
+place 3 18
+1 6 12 6 9 11 8 1 8 2 5 6 5 11 8 8 3 9
+place 9 12
+7 12 3 2 8 11 9 10 3 10 7 8
+swap 6 1
+swap 9 1
+shiftleft
+shiftright
+shiftright
+swap 6 1
+shiftright
+print
+shiftright
+swap 4 0
+swap 6 4
+place 5 9
+5 11 11 9 9 11 1 9 8
+place 0 2
+1 3
+place 5 4
+11 3 11 13
+place 4 15
+8 11 3 11 2 8 4 13 8 11 13 1 8 8 12
+shiftright
+clear
+place 5 15
+8 5 10 5 13 6 10 2 1 6 11 13 6 8 7
+swap 0 9
+swap 6 1
+shiftleft
+shiftright
+shiftright
+print
+print
+print
+print
+swap 6 4
+print
+print
+shiftright
+swap 3 8
+shiftright
+shiftright
+swap 7 8
+place 3 4
+4 1 12 5
+place 3 3
+12 1 3
+place 6 7
+6 1 2 11 4 6 2
+shiftright
+shiftright
+swap 9 6
+all 1 3575
+print
+swap 4 5
+swap 8 3
+all 1 5106
+shiftright
+swap 3 7
+swap 3 6
+place 8 12
+12 10 2 11 11 7 11 12 12 1 3 1
+place 1 8
+11 2 7 4 13 2 9 5
+shiftright
+shiftright
+print
+place 1 8
+10 7 2 1 2 9 10 2
+place 2 8
+7 9 12 2 8 6 10 2
+swap 3 8
+shiftright
+shiftleft
+swap 7 8
+swap 4 3
+swap 0 6
+shiftright
+print
+shiftleft
+shiftright
+swap 6 0
+place 4 4
+3 11 13 12
+shiftright
+shiftright
+swap 2 3
+shiftright
+print
+shiftleft
+place 9 12
+11 3 4 6 13 7 7 1 10 11 6 10
+shiftright
+clear
+shiftright
+place 0 15
+7 6 3 11 13 13 13 7 5 9 7 3 9 12 1
+clear
+shiftright
+place 5 14
+4 6 12 3 11 2 3 9 3 7 4 13 8 8
+shiftleft
+shiftleft
+swap 4 9
+clear
+print
+shiftright
+all 7 6053
+print
+shiftleft
+shiftleft
+shiftleft
+shiftright
+print
+shiftleft
+print
+swap 1 8
+print
+swap 9 5
+shiftright
+shiftleft
+place 0 9
+10 7 10 8 9 12 7 12 11
+shiftright
+place 6 16
+9 2 4 8 9 13 9 7 1 3 13 11 5 3 10 10
+place 5 20
+9 13 1 1 8 9 6 10 7 11 8 2 8 1 1 1 2 4 2 11
+shiftleft
+shiftleft
+shiftleft
+print
+clear
+print
+shiftright
+print
+print
+shiftleft
+print
+shiftleft
+swap 5 1
+swap 2 7
+clear
+shiftright
+shiftleft
+print
+shiftleft
+print
+print
+print
+swap 7 8
+print
+shiftleft
+shiftleft
+print
+place 0 14
+8 1 7 1 6 1 9 3 9 3 3 13 8 11
+shiftleft
+swap 3 9
+place 2 17
+5 9 1 4 13 2 10 13 2 3 4 2 8 6 7 6 3
+all 12 8017
+place 2 11
+6 3 12 2 12 12 2 7 8 4 2
+print
+shiftleft
+place 3 1
+3
+swap 1 8
+shiftleft
+shiftright
+swap 9 4
+clear
+swap 5 3
+print
+clear
+place 3 18
+1 2 9 7 1 2 11 5 12 7 1 8 1 1 1 2 3 11
+place 0 13
+5 10 2 5 11 4 13 7 5 2 2 3 3
+shiftright
+print
+print
+swap 9 2
+shiftleft
+swap 3 4
+shiftright
+print
+print
+shiftright
+place 8 7
+13 3 2 4 9 4 9
+clear
+print
+print
+place 2 17
+9 9 4 8 10 6 8 7 11 1 8 6 11 3 10 13 6
+shiftleft
+shiftleft
+swap 3 6
+print
+clear
+print
+swap 5 0
+swap 8 1
+print
+place 0 19
+8 1 6 10 12 1 10 3 6 4 5 7 11 3 5 10 2 13 3
+shiftleft
+print
+swap 0 7
+place 8 2
+3 13
+clear
+shiftleft
+shiftleft
+print
+place 1 7
+11 12 3 8 9 11 9
+shiftleft
+shiftright
+shiftright
+print
+print
+print
+place 4 2
+10 6
+shiftright
+shiftright
+place 3 13
+9 12 11 3 3 6 6 11 8 2 7 2 5
+swap 2 6
+swap 3 7
+swap 0 3
+print
+print
+swap 5 4
+swap 3 4
+shiftleft
+place 9 20
+13 6 11 9 8 4 8 11 2 4 5 8 8 8 10 5 8 11 5 7
+print
+shiftleft
+print
+swap 2 1
+swap 8 9
+shiftleft
+shiftleft
+shiftright
+place 5 3
+10 11 2
+shiftleft
+shiftright
+place 0 10
+8 8 4 9 8 5 7 9 5 1
+swap 5 4
+shiftright
+swap 2 9
+print
+place 6 13
+1 2 8 2 6 9 8 5 6 2 2 2 2
+swap 3 4
+swap 4 7
+swap 0 3
+print
+shiftleft
+shiftleft
+shiftright
+swap 4 6
+shiftleft
+shiftleft
+print
+shiftright
+shiftleft
+shiftright
+swap 5 9
+shiftright
+shiftright
+clear
+shiftright
+print
+print
+swap 0 6
+shiftleft
+swap 0 3
+place 2 16
+1 12 9 7 6 13 12 6 13 3 6 10 11 5 10 5
+place 6 4
+4 7 6 13
+swap 2 1
+shiftright
+swap 8 4
+shiftright
+shiftright
+swap 1 7
+swap 6 5
+print
+shiftright
+shiftleft
+shiftleft
+shiftright
+print
+swap 5 3
+shiftleft
+print
+shiftright
+shiftright
+shiftright
+swap 8 2
+print
+print
+print
+swap 8 0
+all 7 4084
+swap 6 4
+print
+shiftleft
+print
+place 0 7
+10 1 3 7 7 10 13
+place 0 10
+5 11 4 7 12 2 6 9 3 5
+place 5 6
+13 13 5 11 7 2
+print
+shiftright
+shiftright
+shiftright
+shiftright
+swap 9 0
+shiftleft
+shiftleft
+swap 0 2
+place 8 10
+6 3 12 6 8 5 1 12 8 6
+print
+shiftright
+shiftright
+place 4 18
+12 5 9 10 7 4 2 12 2 7 3 8 9 12 6 6 7 13
+swap 3 9
+shiftleft
+swap 3 8
+swap 6 4
+swap 0 9
+shiftright
+print
+shiftleft
+shiftleft
+place 7 13
+1 12 1 8 4 11 3 9 6 13 8 7 1
+shiftright
+place 2 12
+11 7 2 3 2 7 1 4 8 13 2 9
+print
+shiftleft
+shiftleft
+swap 5 3
+swap 9 8
+print
+print
+place 9 19
+3 12 2 3 8 9 13 10 5 8 2 13 10 5 4 6 11 7 13
+swap 5 1
+place 1 8
+7 6 3 9 13 1 1 3
+print
+shiftright
+print
+place 4 1
+3
+shiftleft
+shiftright
+swap 5 6
+print
+swap 4 8
+swap 8 1
+print
+shiftright
+shiftleft
+swap 8 7
+shiftright
+swap 2 5
+print
+clear
+print
+swap 3 1
+shiftright
+place 0 1
+2
+swap 6 2
+shiftright
+shiftleft
+shiftleft
+clear
+shiftleft
+place 2 3
+5 12 1
+shiftright
+print
+place 4 5
+12 3 8 5 10
+print
+place 9 9
+11 8 4 13 7 9 5 5 12
+swap 7 5
+place 4 1
+5
+shiftleft
+shiftright
+shiftleft
+print
+swap 5 0
+swap 3 7
+swap 0 7
+print
+print
+place 4 4
+4 4 13 7
+shiftright
+place 1 7
+13 6 1 6 5 2 8
+swap 7 8
+shiftleft
+clear
+place 9 8
+1 7 6 7 12 9 7 6
+swap 1 5
+swap 7 4
+place 8 13
+6 6 13 5 7 6 8 7 12 11 3 7 6
+place 9 12
+4 12 9 12 3 6 1 4 12 13 3 8
+place 9 10
+8 10 9 10 4 4 5 1 13 1
+swap 3 0
+clear
+swap 9 3
+shiftright
+place 5 17
+5 8 13 13 7 9 1 3 13 9 7 8 8 2 12 5 8
+print
+place 8 14
+7 4 11 12 11 10 12 10 9 1 3 2 2 11
+print
+shiftright
+swap 1 9
+swap 6 7
+print
+swap 1 9
+place 3 11
+8 12 8 12 13 8 9 4 12 9 11
+shiftright
+shiftright
+print
+place 0 8
+7 11 10 2 11 12 6 3
+print
+clear
+swap 4 7
+shiftleft
+place 1 13
+6 7 2 12 7 8 10 1 10 2 5 12 10
+shiftleft
+shiftright
+place 7 2
+1 5
+shiftleft
+print
+place 1 18
+11 5 10 9 7 2 6 4 7 6 11 4 6 5 3 1 2 8
+shiftleft
+shiftleft
+print
+place 1 7
+2 1 12 13 10 13 2
+place 0 7
+2 1 9 8 2 2 4
+place 6 3
+10 13 5
+place 6 8
+2 1 3 13 10 3 10 13
+print
+print
+shiftright
+place 9 3
+4 6 7
+shiftright
+print
+shiftright
+clear
+shiftright
+shiftleft
+place 0 2
+12 3
+place 8 4
+2 7 6 7
+place 0 13
+6 1 7 2 7 12 4 10 3 1 13 6 2
+swap 6 8
+shiftright
+print
+shiftleft
+swap 0 5
+shiftleft
+swap 8 2
+shiftleft
+print
+shiftleft
+clear
+print
+shiftright
+shiftleft
+shiftright
+shiftleft
+shiftleft
+swap 5 9
+swap 2 0
+shiftright
+shiftright
+print
+swap 1 2
+print
+shiftright
+print
+place 1 20
+3 9 4 13 13 11 1 3 9 11 8 13 5 11 6 5 12 10 6 9
+swap 3 8
+place 2 6
+3 6 4 9 13 7
+all 11 4372
+swap 7 6
+swap 2 4
+place 9 14
+1 13 2 6 6 4 13 10 5 5 13 5 4 8
+place 6 20
+8 10 13 5 6 7 5 8 3 6 8 3 8 12 3 4 4 12 1 8
+shiftleft
+swap 6 3
+print
+shiftright
+shiftright
+shiftleft
+shiftleft
+print
+print
+swap 6 8
+place 8 6
+4 10 4 2 4 13
+place 1 4
+10 4 11 6
+swap 7 3
+swap 8 9
+shiftleft
+place 5 2
+11 8
+shiftleft
+place 6 16
+9 9 11 5 1 2 1 9 13 10 7 13 11 6 9 1
+all 9 5738
+shiftleft
+print
+shiftleft
+swap 4 6
+shiftleft
+print
+swap 8 5
+print
+shiftright
+place 8 2
+8 1
+shiftleft
+shiftleft
+shiftleft
+print
+shiftright
+shiftleft
+swap 6 7
+clear
+clear
+place 2 19
+12 8 8 10 10 10 1 11 10 10 2 3 5 13 1 7 12 9 5
+place 4 20
+11 2 8 5 5 12 7 1 5 7 13 5 9 11 1 5 3 13 11 7
+swap 1 9
+swap 4 3
+shiftright
+shiftright
+shiftleft
+print
+print
+print
+shiftright
+print
+place 9 1
+6
+swap 4 9
+shiftleft
+shiftleft
+shiftright
+shiftleft
+shiftleft
+shiftright
+print
+swap 3 9
+shiftleft
+place 4 10
+2 1 6 1 5 11 2 3 7 12
+shiftright
+swap 9 1
+place 6 6
+8 10 3 11 9 13
+place 2 19
+6 9 11 9 2 4 5 12 11 4 3 3 1 9 10 10 13 5 6
+swap 2 7
+place 1 2
+12 2
+all 6 9783
+shiftleft
+swap 1 0
+place 3 19
+6 12 10 4 10 2 8 2 11 9 2 11 11 2 12 9 2 8 6
+shiftright
+shiftleft
+shiftright
+print
+swap 8 2
+print
+shiftleft
+print
+swap 8 5
+shiftright
+swap 7 9
+place 7 20
+6 6 7 7 5 13 2 12 3 2 2 9 7 7 9 7 1 12 6 8
+print
+swap 7 3
+swap 2 7
+print
+swap 4 0
+place 8 2
+12 8
+clear
+print
+place 0 7
+13 7 7 6 1 6 12
+swap 2 8
+shiftleft
+shiftleft
+shiftright
+shiftleft
+shiftleft
+swap 4 8
+swap 7 4
+shiftleft
+place 4 10
+10 6 2 11 8 13 10 7 8 9
+shiftleft
+shiftleft
+swap 0 9
+shiftright
+shiftleft
+shiftleft
+swap 4 7
+shiftleft
+swap 3 5
+shiftright
+place 9 17
+12 3 2 9 13 9 2 12 10 12 10 5 4 8 3 1 2
+place 1 13
+9 8 9 9 4 1 4 7 11 10 10 11 1
+print
+place 3 6
+8 10 7 10 12 2
+place 8 20
+1 13 5 10 3 5 6 1 4 6 12 2 2 9 11 12 1 5 13 10
+all 13 1928
+shiftright
+swap 0 3
+shiftright
+place 7 19
+2 13 9 13 9 13 8 1 10 2 6 6 1 9 1 13 6 9 7
+all 1 6503
+shiftright
+place 4 2
+8 6
+clear
+place 2 5
+7 12 4 2 12
+place 6 2
+7 8
+swap 2 4
+place 6 12
+1 5 8 8 11 12 2 10 10 7 7 12
+print
+shiftleft
+shiftleft
+print
+print
+swap 6 7
+shiftleft
+shiftright
+place 0 12
+2 11 12 13 13 2 12 2 11 1 2 9
+print
+print
+shiftright
+shiftleft
+print
+print
+shiftleft
+print
+shiftright
+shiftleft
+shiftright
+swap 5 6
+swap 3 8
+print
+shiftright
+swap 7 8
+swap 4 6
+shiftright
+place 5 6
+9 11 13 13 7 1
+shiftright
+swap 2 8
+place 4 7
+1 3 10 11 3 10 4
+shiftright
+print
+shiftleft
+swap 9 5
+swap 9 2
+print
+print
+shiftright
+shiftright
+shiftleft
+place 1 1
+1
+print
+shiftleft
+place 8 19
+2 7 11 4 1 12 3 2 11 6 1 9 10 11 1 2 4 5 3
+all 8 162
+swap 4 2
+shiftleft
+print
+swap 2 4
+place 3 16
+9 1 4 2 5 3 10 3 2 4 6 6 4 7 2 13
+print
+place 6 1
+10
+shiftleft
+shiftleft
+swap 5 6
+shiftleft
+shiftright
+place 1 18
+3 11 4 13 13 5 2 13 4 1 12 5 8 9 4 13 3 8
+shiftleft
+print
+swap 4 0
+swap 9 4
+shiftleft
+place 5 4
+5 1 12 8
+place 0 13
+7 1 12 1 9 13 1 6 11 6 9 4 1
+shiftleft
+print
+shiftleft
+shiftleft
+place 7 13
+5 7 13 1 10 9 12 13 8 10 8 7 2
+shiftright
+print
+shiftright
+shiftleft
+swap 5 4
+all 12 9513
+place 1 4
+6 10 1 4
+shiftleft
+swap 5 3
+place 5 6
+9 4 6 10 1 8
+shiftright
+place 4 6
+4 1 11 4 1 1
+shiftleft
+swap 9 8
+shiftleft
+shiftleft
+print
+place 8 16
+10 13 7 11 8 10 12 1 9 7 1 5 3 10 2 10
+swap 3 2
+print
+shiftleft
+swap 4 6
+swap 3 9
+shiftleft
+place 1 18
+5 3 11 12 13 1 13 9 3 10 5 12 2 2 10 6 13 6
+swap 7 0
+swap 9 2
+swap 6 0
+shiftright
+shiftleft
+shiftleft
+shiftleft
+shiftleft
+place 7 16
+3 10 2 11 4 3 12 4 4 8 11 10 12 12 1 7
+shiftright
+print
+swap 9 7
+swap 8 3
+shiftright
+place 8 10
+7 6 6 9 9 13 7 5 2 3
+print
+shiftleft
+shiftleft
+shiftleft
+place 5 12
+4 9 9 11 2 13 2 10 6 7 1 3
+shiftright
+print
+place 8 14
+6 3 1 8 10 8 7 2 5 10 4 4 6 12
+swap 9 5
+swap 1 2
+shiftleft
+print
+shiftright
+place 7 1
+8
+print
+swap 1 6
+swap 5 6
+shiftright
+print
+shiftright
+print
+place 2 18
+13 3 11 7 8 3 1 10 5 3 8 5 11 11 10 12 1 2
+swap 8 2
+swap 6 2
+place 1 6
+8 7 4 11 12 10
+shiftright
+swap 7 4
+print
+shiftright
+shiftright
+shiftright
+shiftright
+swap 8 4
+swap 7 8
+shiftright
+shiftleft
+shiftright
+shiftleft
+place 0 8
+4 7 12 3 6 11 3 13
+swap 6 5
+swap 3 8
+print
+swap 9 7
+shiftleft
+print
+shiftright
+place 2 11
+3 4 10 5 5 13 9 7 6 10 12
+shiftright
+swap 5 9
+place 7 8
+3 10 5 2 11 13 10 2
+shiftleft
+swap 2 7
+print
+shiftleft
+shiftright
+all 13 6629
+shiftright
+shiftright
+shiftright
+shiftright
+swap 8 7
+shiftright
+place 8 1
+9
+shiftright
+clear
+shiftright
+print
+clear
+swap 0 7
+print
+swap 3 5
+swap 3 9
+shiftright
+print
+shiftright
+swap 5 4
+print
+swap 7 8
+shiftright
+swap 4 1
+place 3 16
+11 13 12 4 1 4 11 9 7 11 11 13 4 4 13 9
+shiftright
+place 9 10
+3 10 1 5 12 4 11 1 10 2
+print
+place 4 17
+10 1 1 11 12 8 13 8 12 3 6 8 9 7 7 4 3
+swap 4 9
+shiftright
+shiftright
+place 9 18
+1 6 5 9 5 2 12 8 10 2 2 9 7 6 2 6 3 1
+place 9 18
+6 1 12 12 5 10 9 11 9 13 2 9 10 9 1 2 5 7
+shiftleft
+print
+print
+all 6 8915
+place 1 19
+2 7 4 3 6 6 2 9 3 3 1 11 2 6 10 12 9 10 5
+shiftright
+shiftleft
+print
+place 4 14
+6 1 4 2 12 9 11 7 9 2 10 10 3 9
+swap 2 5
+place 5 12
+3 13 12 6 13 3 9 9 13 3 12 5
+place 7 3
+10 9 10
+shiftleft
+shiftright
+place 4 18
+11 7 6 7 4 11 3 12 2 2 11 9 9 5 3 11 6 1
+place 3 9
+10 2 2 10 6 10 7 7 3
+place 0 13
+8 7 5 7 12 12 10 1 12 7 4 7 6
+print
+shiftright
+print
+shiftleft
+swap 2 8
+place 2 6
+8 7 7 13 2 1
+shiftleft
+place 0 13
+11 1 5 2 1 10 3 2 5 2 13 4 2
+shiftleft
+print
+place 9 14
+5 3 10 8 5 10 3 5 9 5 6 6 3 12
+swap 6 7
+clear
+place 3 9
+12 5 10 4 2 7 5 4 1
+place 6 10
+3 10 2 6 6 4 11 7 1 12
+shiftright
+swap 9 6
+place 0 7
+6 13 13 2 10 12 4
+shiftright
+swap 5 1
+swap 6 0
+place 2 6
+2 13 10 7 13 11
+place 9 11
+8 1 12 5 6 4 9 11 10 3 11
+shiftright
+shiftleft
+swap 0 5
+shiftleft
+place 3 9
+10 10 13 2 13 9 2 8 7
+swap 0 3
+shiftleft
+all 1 631
+swap 7 0
+swap 5 2
+shiftright
+shiftright
+swap 4 2
+print
+place 9 16
+8 1 11 11 1 11 12 12 10 1 7 11 12 3 2 2
+swap 3 4
+print
+place 3 5
+1 8 9 10 4
+swap 0 4
+print
+shiftleft
+place 3 18
+3 6 1 12 9 1 12 7 3 10 12 4 7 4 11 12 12 11
+print
+place 6 10
+4 6 6 13 12 4 3 3 5 5
+print
+shiftright
+print
+print
+swap 5 3
+swap 1 8
+swap 4 5
+shiftleft
+shiftleft
+swap 8 5
+swap 1 4
+swap 9 4
+shiftright
+place 6 17
+12 1 6 9 11 1 9 7 5 3 3 3 3 8 4 5 11
+place 8 1
+7
+clear
+place 2 3
+13 12 1
+print
+place 7 8
+12 5 11 12 9 11 11 9
+swap 4 5
+swap 1 4
+swap 4 9
+print
+swap 0 1
+swap 3 0
+place 6 7
+9 5 10 7 3 11 11
+swap 2 5
+place 4 19
+1 1 9 12 12 12 13 11 1 9 12 3 2 3 2 7 7 7 3
+shiftleft
+shiftleft
+swap 0 6
+shiftright
+swap 9 6
+print
+shiftright
+place 8 2
+12 11
+swap 2 0
+print
+place 7 2
+10 1
+print
+place 8 15
+5 11 2 2 9 5 10 9 4 13 9 13 9 8 6
+shiftright
+print
+place 9 18
+6 5 2 1 6 1 12 3 6 7 9 10 7 12 8 13 4 3
+shiftleft
+all 12 2535
+shiftleft
+swap 8 6
+shiftleft
+shiftleft
+place 8 18
+10 1 9 13 1 9 8 10 10 6 3 2 8 12 6 6 1 10
+print
+shiftright
+swap 8 4
+shiftleft
+swap 4 8
+swap 9 6
+swap 8 3
+place 0 2
+2 9
+shiftright
+swap 6 8
+swap 7 0
+print
+shiftright
+swap 8 1
+shiftleft
+place 6 4
+12 3 7 6
+shiftleft
+place 2 8
+6 11 1 11 3 4 12 11
+shiftleft
+place 4 10
+7 2 11 5 1 12 8 8 6 6
+shiftleft
+place 5 4
+1 2 6 11
+shiftleft
+shiftleft
+place 8 20
+2 12 1 12 11 3 6 2 13 7 3 7 9 3 2 8 13 3 8 4
+clear
+shiftright
+swap 7 5
+place 6 18
+7 1 6 2 1 12 9 7 5 2 1 10 4 6 13 10 4 1
+shiftleft
+shiftright
+swap 0 3
+shiftright
+print
+place 6 2
+12 13
+print
+shiftright
+swap 0 8
+all 7 3966
+shiftleft
+shiftleft
+swap 1 5
+swap 9 3
+shiftright
+print
+shiftleft
+shiftleft
+shiftright
+place 3 7
+9 3 13 5 1 11 9
+clear
+swap 3 6
+shiftright
+shiftleft
+shiftright
+shiftleft
+place 4 19
+6 12 2 10 5 12 11 1 11 2 13 10 6 12 6 6 8 10 11
+shiftleft
+all 11 7617
+all 8 1617
+swap 2 6
+print
+print
+shiftleft
+shiftright
+place 6 8
+11 8 13 8 6 13 2 7
+place 6 15
+1 6 1 10 4 3 10 6 2 4 8 3 7 4 3
+print
+shiftleft
+swap 2 1
+shiftright
+print
+shiftleft
+shiftright
+print
+print
+shiftleft
+shiftright
+swap 4 3
+swap 2 9
+print
+shiftright
+swap 3 4
+shiftleft
+shiftleft
+print
+shiftright
+swap 4 6
+shiftright
+print
+shiftleft
+swap 2 0
+shiftleft
+shiftright
+print
+swap 3 9
+shiftleft
+print
+shiftleft
+shiftleft
+print
+shiftleft
+shiftright
+place 2 5
+3 1 13 7 1
+shiftright
+shiftleft
+swap 6 3
+shiftleft
+all 5 6807
+place 6 11
+6 5 11 13 13 7 2 10 5 5 4
+shiftright
+shiftleft
+print
+swap 1 8
+swap 2 0
+swap 4 5
+swap 3 5
+shiftright
+shiftright
+print
+shiftleft
+shiftleft
+place 2 18
+6 9 1 1 11 11 8 10 1 5 7 9 11 3 12 12 2 7
+print
+shiftleft
+place 6 17
+8 8 6 3 13 3 9 10 4 8 11 7 12 4 5 11 10
+place 4 18
+13 4 4 5 12 2 2 8 9 8 9 5 11 9 1 4 1 7
+clear
+place 2 17
+9 7 12 1 13 3 7 4 10 12 4 5 10 4 7 9 1
+shiftleft
+place 2 10
+4 13 2 13 13 5 4 2 7 8
+place 0 2
+10 9
+place 0 4
+8 13 5 11
+shiftleft
+swap 1 3
+shiftleft
+place 0 17
+1 7 7 4 8 3 6 1 1 3 3 10 6 2 8 11 11
+shiftleft
+print
+shiftleft
+place 9 2
+12 8
+shiftleft
+place 9 19
+5 8 4 1 11 9 2 9 7 8 12 4 7 7 10 7 13 6 10
+swap 1 9
+print
+place 6 19
+8 4 1 5 7 1 13 11 1 6 6 1 12 1 9 11 6 10 10
+shiftright
+print
+shiftright
+place 8 9
+9 13 3 7 10 11 13 11 1
+shiftright
+shiftright
+place 5 9
+2 7 4 5 11 9 9 11 13
+swap 4 6
+print
+place 6 17
+9 4 3 3 12 4 7 1 7 5 6 5 6 8 6 10 6
+place 1 1
+7
+shiftright
+swap 3 8
+print
+print
+print
+print
+swap 9 8
+shiftleft
+place 2 7
+6 13 4 2 9 11 12
+swap 2 5
+shiftright
+print
+print
+place 9 17
+7 1 1 4 3 7 11 5 6 8 6 10 5 11 13 6 2
+place 9 5
+8 6 8 11 2
+shiftright
+print
+shiftright
+place 5 16
+5 7 1 2 6 9 2 12 12 13 13 6 6 8 13 1
+shiftright
+print
+shiftleft
+print
+shiftright
+place 6 20
+6 1 10 8 10 4 8 6 5 3 2 12 10 8 4 12 10 11 3 10
+shiftright
+shiftright
+print
+place 6 18
+9 6 5 3 7 1 8 9 1 11 8 1 7 6 2 13 9 11
+shiftright
+shiftright
+shiftleft
+shiftright
+shiftright
+clear
+place 6 5
+5 13 8 12 12
+shiftleft
+shiftright
+place 2 12
+10 8 8 7 4 2 13 8 8 8 5 3
+shiftright
+shiftleft
+swap 1 4
+shiftright
+place 6 4
+10 5 4 1
+shiftright
+place 0 19
+9 10 10 4 6 13 6 2 8 3 13 10 3 2 3 6 10 4 2
+swap 4 2
+shiftleft
+shiftright
+swap 0 8
+shiftright
+shiftleft
+place 0 16
+11 5 5 8 1 12 9 13 3 7 1 6 6 12 3 5
+shiftright
+shiftleft
+shiftright
+all 11 5998
+shiftleft
+print
+place 2 13
+2 13 4 3 11 3 7 12 4 12 2 10 1
+swap 7 0
+print
+shiftright
+shiftleft
+swap 2 7
+print
+print
+place 4 10
+10 8 5 6 2 11 3 9 9 11
+place 5 17
+10 11 8 11 2 7 4 8 8 4 2 6 3 3 11 9 11
+shiftleft
+shiftright
+print
+shiftleft
+print
+print
+place 1 9
+6 3 10 9 9 13 8 13 11
+shiftright
+place 9 15
+13 3 12 11 11 1 10 3 6 10 2 7 1 12 3
+place 0 14
+3 11 10 5 8 12 5 3 2 7 13 1 4 10
+place 8 7
+6 13 12 3 4 7 10
+swap 6 5
+shiftright
+shiftleft
+print
+shiftright
+print
+shiftright
+shiftleft
+shiftleft
+shiftright
+swap 8 0
+shiftright
+shiftright
+place 6 14
+8 9 8 7 1 7 8 11 9 3 5 5 11 4
+shiftleft
+shiftright
+shiftright
+shiftleft
+swap 2 6
+shiftright
+swap 1 9
+swap 3 0
+shiftright
+swap 6 8
+print
+shiftright
+print
+shiftright
+place 7 15
+3 10 12 13 6 4 2 11 10 10 1 10 9 3 9
+place 3 8
+6 5 12 4 3 10 6 12
+swap 9 7
+shiftright
+shiftright
+shiftleft
+place 8 12
+3 1 8 3 4 8 11 13 1 11 7 11
+place 5 17
+3 2 4 1 6 10 8 1 3 1 5 5 3 2 11 3 13
+shiftleft
+place 5 19
+12 13 4 8 5 4 9 12 8 3 3 3 13 5 2 3 4 12 5
+shiftleft
+swap 9 2
+shiftright
+shiftleft
+swap 5 9
+shiftleft
+print
+shiftleft
+shiftleft
+shiftright
+clear
+shiftright
+place 1 4
+11 10 13 7
+shiftright
+swap 1 7
+place 0 6
+5 4 8 10 3 7
+shiftright
+print
+place 9 12
+3 12 1 10 2 4 4 1 6 9 6 5
+shiftright
+swap 6 5
+shiftright
+swap 1 6
+place 2 18
+8 10 11 1 6 7 9 6 7 3 1 11 10 12 9 2 1 7
+print
+place 8 13
+6 7 8 2 5 7 7 11 9 6 2 6 6
+print
+place 1 10
+7 1 10 10 10 10 11 8 3 12
+place 2 9
+10 1 1 7 2 1 8 11 11
+swap 2 8
+swap 2 8
+print
+shiftright
+shiftright
+place 1 13
+13 4 8 3 2 12 9 12 13 9 6 10 7
+shiftleft
+shiftleft
+swap 7 8
+print
+shiftleft
+print
+shiftright
+shiftleft
+print
+all 10 8276
+swap 4 0
+shiftright
+shiftright
+place 3 14
+6 1 8 8 13 9 5 12 9 8 6 6 6 10
+print
+shiftleft
+place 3 11
+11 9 3 12 13 8 12 10 9 6 10
+shiftleft
+swap 0 6
+shiftright
+shiftleft
+swap 1 6
+swap 1 4
+shiftleft
+shiftleft
+swap 3 7
+print
+shiftright
+swap 5 9
+shiftright
+place 9 7
+8 7 4 7 8 7 1
+all 1 7633
+shiftright
+swap 9 1
+shiftleft
+place 8 10
+6 10 8 2 12 7 1 7 11 6
+place 4 9
+11 5 9 11 9 2 2 10 7
+exit
