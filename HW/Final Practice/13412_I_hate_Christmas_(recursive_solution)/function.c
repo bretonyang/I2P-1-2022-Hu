@@ -31,12 +31,13 @@ Node* Solver(Node* head, int k) {
 
 // Returns the head of the reversed list
 Node* reverse(Node* head, Node* tail) {
+    // Basis case: only 1 element to reverse (no need to).
     if (head == tail) {
         return tail;
     }
 
     Node* headOfReversed = reverse(head->next, tail);
-    head->next->next = head;
+    head->next->next = head; // this implies `head->next` shouldn't be NULL
     head->next = NULL;
     return headOfReversed;
 }
