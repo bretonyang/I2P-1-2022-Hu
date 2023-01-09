@@ -7,6 +7,8 @@
 char my_str[3105];
 char her_str[3105];
 
+// Declare big arrays in global to avoid Codeblock's stackoverflow
+// (since global varaibles are stored in the heap)
 int table[3105][3105]; // 9,000,000 * 4 = 36 MB
 //short table[3105][3105]; // 9,000,000 * 2 = 18 MB
 

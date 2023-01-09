@@ -3,6 +3,8 @@
 #include <string.h>
 //#include <stdint.h> // for int8_t types
 
+/// TODO: use dynamic memory for `cards`
+
 typedef struct {
     int size;
     int* cards;
